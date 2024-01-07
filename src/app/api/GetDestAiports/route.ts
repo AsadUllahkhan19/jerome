@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
-// import Route from "../../../../data/route.json";
 import AirportsInfo from "../../../../data/airports.json";
-// import AirportsInfo from "../../../../data/Location.json";
+
 // @ts-ignore
 
 import mongoose from "mongoose";
@@ -14,27 +13,16 @@ export async function GET(request: NextRequest) {
   let AirportsInfo1: any = AirportsInfo;
 
   await mongoose.connect(mainDb)
-  // const slugInfo2: any = request.nextUrl.searchParams.get("slug2");
  
    const data: any = await flightschema.find({ Ab: slug }).select('x_legs');
 
-  // const filteredRoutes = new Set(
-  //   Dummy.filter((item: any) => item?.Ab === slug).map((item: any) => item.x_legs)
-  // );
-  
-
-  // const airportIataToNameMap = AirportsInfo1.reduce((acc: any, airport: any) => {
-  //   acc[airport.AIRPORT_IATA] = airport.AIRPORT_NAME;
-  //   return acc;
-  // }, {});
-  // console.log('check', filteredRoutes);
   const temp1: any = JSON.stringify(data);
   const temp2: any = JSON.parse(temp1);
 
 
 
   const result: any = temp2.map((item: any) => {
-    // const id = uuidv4(); 
+ 
    
     return item.x_legs.map((element:any, index: number) => {
       if(element !== null ){

@@ -340,6 +340,7 @@ const Map = () => {
     //   array.push(obj)
     //   setFinalRoute(array);
     // } else{
+      
       const handleDest: any = directAirports.filter((item: any) => item?.id == completeRoute?.id && item?.indexNum <= completeRoute?.indexNum);
       console.log('flaatenarray', handleDest);
       
