@@ -84,8 +84,10 @@ function Modal({
               {data.data.map(
                 (dum: any, index: number) =>
                   dum.continent == currContinent && (
-                    <div className="">
-                      key={`newDtassadhiasasdasddads${index}`}
+                    <div className="" 
+                    key={`newDtassadhiasasdasddads${index}`}
+                    >
+                      
                       <h2 className="text-2xl font-bold px-4">{dum.country}</h2>
                       <div className="flex flex-wrap justify-start">
                         {dum.airports.map((port: { name: string; code: string }, index: number) => {

@@ -456,7 +456,7 @@ const Map = () => {
 
       <SideBar
         setAirportMarker={setAirportMarker}
-        setDeaprtureAiport={setDeaprtureAiport}
+        // setDeaprtureAiport={setDeaprtureAiport}
         setDestinationAiport={setDestinationAiport}
         fromDate={fromDate}
         setModalType={setModalType}
