@@ -20,17 +20,17 @@ import LoadingScreen from "../LoadingScreen";
 import { AllAirportFetcher } from "./Fetchers";
 import Modal from "../Modal";
 import { LineLayer } from '@deck.gl/layers';
-import Dummy from '../../../data/dummy.json'
+// import Dummy from '../../../data/dummy.json'
 import DeckGL from '@deck.gl/react';
 import { ScatterplotLayer } from '@deck.gl/layers';
 import { Hourglass } from 'react-loader-spinner';
 import { grayMarker, yellowMarker } from "../Marker";
 
-const data: any = Dummy
+// const data: any = Dummy
 
-const layers: any = [
-  new LineLayer({ id: 'line-layer', data })
-];
+// const layers: any = [
+//   new LineLayer({ id: 'line-layer', data })
+// ];
 
 const INITIAL_VIEW_STATE: any = {
   longitude: -122.41669,
