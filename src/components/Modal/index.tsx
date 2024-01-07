@@ -66,9 +66,10 @@ function Modal({
               </div>
             </div>
             <div className="flex justify-between px-4 my-4">
-              {[...Continents]?.map((cont: any) => {
+              {[...Continents]?.map((cont: any, index:number) => {
                 return (
                   <h3
+                  key={`newDtass${index}`}
                     onClick={() => serCurrContinent(cont)}
                     className={`cursor-pointer text-xl hover:underline underline-offset-4 font-bold my-3 ${
                       currContinent === cont ? "bg-buttonColor" : ""
@@ -81,15 +82,16 @@ function Modal({
             </div>
             <div className="px-4">
               {data.data.map(
-                (dum: any) =>
+                (dum: any, index: number) =>
                   dum.continent == currContinent && (
                     <div className="">
+                      key={`newDtassadhiasasdasddads${index}`}
                       <h2 className="text-2xl font-bold px-4">{dum.country}</h2>
                       <div className="flex flex-wrap justify-start">
-                        {dum.airports.map(
-                          (port: { name: string; code: string }) => {
+                        {dum.airports.map((port: { name: string; code: string }, index: number) => {
                             return (
                               <button
+                              key={`newDtassadhiasadmlas;dmlad;msds${index}`}
                                 onClick={() => {
                                  if (modalType == "Departure"){
                                    handleDepartureClick({

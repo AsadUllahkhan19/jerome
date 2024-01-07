@@ -65,5 +65,5 @@ export async function GET(request: NextRequest) {
     return arr.reduce((acc: any, val: any) => Array.isArray(val) ? acc.concat(flattenArray(val)) : acc.concat(val), []);
 }
 
-  return NextResponse.json({ status: 200, data: flattenArray(result) });
+  return NextResponse.json({ status: 200, data: flattenArray(result), rawData: result  });
 }

@@ -253,7 +253,7 @@ const Map = () => {
         // setAirportMarker(dat1a.data);
         setAirportMarker(dat1a.data);
         // if (data?.data?.length > 0) {
-        // console.log('cnsdjfnsjdfnsk', dat1a.data);
+        console.log('cnsdjfnsjdfnsk', dat1a.data);
 
         // =============================== ==========================
 
@@ -318,32 +318,33 @@ const Map = () => {
     setDestinationAiportIATA(selectedAirport.AIRPORT_IATA);
     // console.log(selectedAirport,'humayun', directAirports)
     console.log('asaddf', selectedAirport, selectedAirport?.fromModal)
-    if(selectedAirport?.fromModal){
+    // if(selectedAirport?.fromModal){
 
-      const temp1:any = data?.data?.find((airport: any) => {
-        if (deaprtureAiportIATA === airport?.AIRPORT_IATA ) {
-          return airport
-        }
-      })
-      const temp2:any = data?.data?.find((airport: any) => {
-        if (destinationAiportIATA === airport?.AIRPORT_IATA) {
-          return airport
-        }
-      })
+    //   const temp1:any = data?.data?.find((airport: any) => {
+    //     if (deaprtureAiportIATA === airport?.AIRPORT_IATA ) {
+    //       return airport
+    //     }
+    //   })
+    //   const temp2:any = data?.data?.find((airport: any) => {
+    //     if (destinationAiportIATA === airport?.AIRPORT_IATA) {
+    //       return airport
+    //     }
+    //   })
 
-      let source = [parseFloat(temp1?.LONG), parseFloat(temp1?.LAT)]; 
-      let target = [parseFloat(temp2?.LONG), parseFloat(temp2?.LAT)];
-      let obj: any = {}
-      obj.source = source
-      obj.target = target;
-      let array: any  = [];
-      array.push(obj)
-      setFinalRoute(array);
-    } else{
+    //   let source = [parseFloat(temp1?.LONG), parseFloat(temp1?.LAT)]; 
+    //   let target = [parseFloat(temp2?.LONG), parseFloat(temp2?.LAT)];
+    //   let obj: any = {}
+    //   obj.source = source
+    //   obj.target = target;
+    //   let array: any  = [];
+    //   array.push(obj)
+    //   setFinalRoute(array);
+    // } else{
       const handleDest: any = directAirports.filter((item: any) => item?.id == completeRoute?.id && item?.indexNum <= completeRoute?.indexNum);
+      console.log('flaatenarray', handleDest);
       
       setFinalRoute(handleDest);
-    }
+    // }
 
     setShowRouteLayer(2)
     // console.log(completeRoute, 'user_data', handleDest);
