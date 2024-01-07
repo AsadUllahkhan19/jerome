@@ -106,7 +106,7 @@ const SideBar = ({
         <button className="bg-buttonColor hover:bg-hoverButtonColor hover:bg-HoverButtonColor mt-6  h-fit pt-2 pb-2 pl-3 w-64 mx-auto flex gap-6 items-center ">
           <p className="text-base text-center mx-auto">Search flights</p>
         </button>
-        <p className="text-base text-center mx-auto">Vogue Sachin Six</p>
+        {/* <p className="text-base text-center mx-auto">Vogue Sachin Six</p> */}
       </div>
       <MapSlider
         low={low}

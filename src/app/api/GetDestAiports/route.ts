@@ -49,7 +49,7 @@ export async function GET(request: NextRequest) {
     })
   });
 
-  console.log('rawData', result)
+  
 
   function flattenArray(arr: any) {
     return arr.reduce((acc: any, val: any) => Array.isArray(val) ? acc.concat(flattenArray(val)) : acc.concat(val), []);

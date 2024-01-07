@@ -24,7 +24,7 @@ import { LineLayer } from '@deck.gl/layers';
 import DeckGL from '@deck.gl/react';
 import { ScatterplotLayer } from '@deck.gl/layers';
 import { Hourglass } from 'react-loader-spinner';
-import { grayMarker, yellowMarker } from "../Marker";
+import { grayMarker, yellowMarker, redMarker } from "../Marker";
 
 // const data: any = Dummy
 
@@ -62,6 +62,7 @@ const Map = () => {
   const [deaprtureAiportIATA, setDeaprtureAiportIATA] = useState<String | null>(
     null
   );
+  const [nestedArray, setNestedArray] = useState<any>([])
   const [fetchLogo, setFetchLogo] = useState<any>(false)
   const [viewport, setViewport] = useState<any>({
     height: "100%",
@@ -143,7 +144,7 @@ const Map = () => {
   const onLoad = (mapInstance: any) => {
     setMap(mapInstance);
     var projection = mapInstance.getProjection();
-    console.log(showRouteLayer,'heeeking', finalRoute)
+    console.log(showRouteLayer, 'heeeking', finalRoute)
     if (showRouteLayer === 1) {
       const newdeckOverlay = new GoogleMapsOverlay({
         layers: [
@@ -152,9 +153,20 @@ const Map = () => {
             data: directAirports,
             greatCircle: true,
             // @ts-ignore
-            getSourcePosition: d => d.source,
+            getSourcePosition: (d: any) => {
+              
+              if (d !== null) {
+                return d.source;
+
+              }
+            },
             // @ts-ignore
-            getTargetPosition: d => d.target, // London
+            getTargetPosition: (d: any) => {
+              
+              if (d !== null) {
+                return d.target;
+              }
+            }, // London
 
             // getTargetPosition: (f) => [f?.destLONG, f?.destLat],
             getSourceColor: (d) => {
@@ -176,9 +188,19 @@ const Map = () => {
             data: finalRoute,
             greatCircle: true,
             // @ts-ignore
-            getSourcePosition: d => d.source,
+            getSourcePosition: (d: any) => {
+              
+              if (d !== null) {
+                return d.source;
+              }
+            },
             // @ts-ignore
-            getTargetPosition: d => d.target, // London
+            getTargetPosition: (d: any) => {
+              
+              if (d !== null) {
+                return d.target;
+              }
+            },// London
 
             // getTargetPosition: (f) => [f?.destLONG, f?.destLat],
             getSourceColor: (d) => {
@@ -250,10 +272,14 @@ const Map = () => {
     fetch(`/api/GetDestAiports?slug=${selectedAirport.AIRPORT_IATA}`)
       .then((res1: any) => res1.json())
       .then((dat1a) => {
+        // console.log('cnsdjfnsjdfnsk', dat1a.data);
+        // console.log('cnsdjf324234234234nsjdfnsk', dat1a.rawData);
+        setNestedArray(dat1a.rawData);
+        // console.log('asjndjasdnjansdnajd', dat1a);
         // setAirportMarker(dat1a.data);
         setAirportMarker(dat1a.data);
         // if (data?.data?.length > 0) {
-        console.log('cnsdjfnsjdfnsk', dat1a.data);
+
 
         // =============================== ==========================
 
@@ -317,7 +343,9 @@ const Map = () => {
     setDestinationAiport(selectedAirport.AIRPORT_NAME);
     setDestinationAiportIATA(selectedAirport.AIRPORT_IATA);
     // console.log(selectedAirport,'humayun', directAirports)
-    console.log('asaddf', selectedAirport, selectedAirport?.fromModal)
+    console.log('asaddf', selectedAirport, selectedAirport?.fromModal);
+    
+     
     // if(selectedAirport?.fromModal){
 
     //   const temp1:any = data?.data?.find((airport: any) => {
@@ -340,11 +368,64 @@ const Map = () => {
     //   array.push(obj)
     //   setFinalRoute(array);
     // } else{
-      
-      const handleDest: any = directAirports.filter((item: any) => item?.id == completeRoute?.id && item?.indexNum <= completeRoute?.indexNum);
-      console.log('flaatenarray', handleDest);
-      
-      setFinalRoute(handleDest);
+
+    const handleDest: any = nestedArray.filter((item: any) => {
+      if (item.some((ele: any) => {
+        if (ele && ele.DEST === selectedAirport.AIRPORT_IATA) {
+          return ele
+        }
+      })) {
+        return item
+      }
+
+    })
+    let Newarrays: any = [];
+
+for(let i = 0; i< handleDest.length; i++){
+    let tempVar = handleDest[i];
+    const temp2: any = tempVar.findIndex((item: any) => item?.DEST === selectedAirport?.AIRPORT_IATA);
+    for(let j = 0; j <tempVar.length; j++ ){
+        if(j <= temp2){
+          Newarrays.push(tempVar[j]);
+        } else{
+            break;
+        }
+        
+    }
+}
+    console.log('yyyyyyyyyyyyyyyyyyyy', handleDest);
+    console.log('ttttttttttttttt', Newarrays);
+    // const handleDest: any = directAirports.filter((item: any) => item?.id == completeRoute?.id && item?.indexNum <= completeRoute?.indexNum);
+    // console.log('flaatenarray', handleDest);
+
+    // const tempArray: any = []
+    // handleDest.map((item: any) => {
+    //   console.log(item);
+    //   if (item && item?.length > 0) {
+    //     const indexNumber = item.findIndex((element: any) => {
+
+    //       if (element !== undefined && element?.DEST === selectedAirport.AIRPORT_IATA) {
+    //         return element
+    //       }
+    //     });
+    //     for (let i = 0; i < item.length; i++) {
+    //       if (i <= indexNumber) {
+    //         break;
+    //       }
+    //       tempArray.push(item[i])
+    //     }
+
+        //  item.map((ele ) => {
+        // if(ele === 'PMI'){
+        //  flattenArray.push(ele)
+        //}
+        // })
+    //   }
+    // })
+    // const checkArray = tempArray.filter((item: any) => item)
+
+
+    setFinalRoute(Newarrays);
     // }
 
     setShowRouteLayer(2)
@@ -511,17 +592,20 @@ const Map = () => {
               />
             );
           })}
-        
-          
+
+
         {deaprtureAiport !== null &&
           data?.data &&
           data?.data?.length > 0 &&
           data?.data?.map((airport: AirportModel, ind: number) => {
-            
+
             if (deaprtureAiportIATA === airport?.AIRPORT_IATA) {
               return (
                 <Marker
                   key={ind}
+                  icon={{
+                    url: `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(redMarker)}`
+                  }}
                   onClick={() => {
                     handleMarkerClick(airport);
                   }}
@@ -538,11 +622,13 @@ const Map = () => {
           data?.data &&
           data?.data?.length > 0 &&
           data?.data?.map((airport: AirportModel, ind: number) => {
-            
             if (destinationAiportIATA === airport?.AIRPORT_IATA) {
               return (
                 <Marker
                   key={ind}
+                  icon={{
+                    url: `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(redMarker)}`
+                  }}
                   onClick={() => {
                     handleMarkerClick(airport);
                   }}
@@ -596,7 +682,7 @@ const Map = () => {
                   layout="fill"
                   className="h-full w-2/4"
                   alt="Image"
-                  src="/download.jpg"
+                  src="/airplane.jpeg"
                 />
               </div>
               <div>
@@ -664,7 +750,7 @@ const Map = () => {
         setCompleteRoute={setCompleteRoute}
         setShowRouteLayer={setShowRouteLayer}
         setDestinationAiportIATA={setDestinationAiportIATA}
-        // setShowRouteLayer=
+      // setShowRouteLayer=
       />
     </div>
   );
