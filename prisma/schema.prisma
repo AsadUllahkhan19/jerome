@@ -1,0 +1,14 @@
+datasource db {
+  provider = "mongodb"
+  url      = "mongodb+srv://asad:asad@cluster0.rzcnxqe.mongodb.net/test?retryWrites=true&w=majority"
+}
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["mongoDb"]
+}
+
+model TestUser {
+  email     String @id @map("_id") // Use @id to mark a field as the unique identifier
+  name      String
+}

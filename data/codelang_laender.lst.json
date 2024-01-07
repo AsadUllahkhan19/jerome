@@ -1,0 +1,11417 @@
+[
+  {
+    "COUNTRY_ISO2": "AD",
+    "LANG": "D",
+    "NAME": "Andorra"
+  },
+  {
+    "COUNTRY_ISO2": "AD",
+    "LANG": "DA",
+    "NAME": "Andorra"
+  },
+  {
+    "COUNTRY_ISO2": "AD",
+    "LANG": "E",
+    "NAME": "Andorra"
+  },
+  {
+    "COUNTRY_ISO2": "AD",
+    "LANG": "F",  
+    "NAME": "Andorre"
+  },
+  {
+    "COUNTRY_ISO2": "AD",
+    "LANG": "GB",
+    "NAME": "Andorra"
+  },
+  {
+    "COUNTRY_ISO2": "AD",
+    "LANG": "I",
+    "NAME": "Andorra"
+  },
+  {
+    "COUNTRY_ISO2": "AD",
+    "LANG": "NL",
+    "NAME": "Andorra"
+  },
+  {
+    "COUNTRY_ISO2": "AD",
+    "LANG": "PL",
+    "NAME": "Andora"
+  },
+  {
+    "COUNTRY_ISO2": "AD",
+    "LANG": "PT",
+    "NAME": "Andorra"
+  },
+  {
+    "COUNTRY_ISO2": "AD",
+    "LANG": "T",
+    "NAME": "Andora"
+  },
+  {
+    "COUNTRY_ISO2": "AE",
+    "LANG": "D",
+    "NAME": "Vereinigte Arabische Emirate"
+  },
+  {
+    "COUNTRY_ISO2": "AE",
+    "LANG": "DA",
+    "NAME": "Forenede Arabiske Emirater"
+  },
+  {
+    "COUNTRY_ISO2": "AE",
+    "LANG": "E",
+    "NAME": "Emiratos �rabes Unidos"
+  },
+  {
+    "COUNTRY_ISO2": "AE",
+    "LANG": "F",
+    "NAME": "�mirats arabes unis"
+  },
+  {
+    "COUNTRY_ISO2": "AE",
+    "LANG": "GB",
+    "NAME": "United Arab Emirates"
+  },
+  {
+    "COUNTRY_ISO2": "AE",
+    "LANG": "I",
+    "NAME": "Emirati Arabi Uniti"
+  },
+  {
+    "COUNTRY_ISO2": "AE",
+    "LANG": "NL",
+    "NAME": "Verenigde Arabische Emiraten"
+  },
+  {
+    "COUNTRY_ISO2": "AE",
+    "LANG": "PL",
+    "NAME": "Zjednoczone Emiraty Arabskie"
+  },
+  {
+    "COUNTRY_ISO2": "AE",
+    "LANG": "PT",
+    "NAME": "Emirados �rabes Unidos"
+  },
+  {
+    "COUNTRY_ISO2": "AE",
+    "LANG": "T",
+    "NAME": "Birlesik Arap Emirlikleri"
+  },
+  {
+    "COUNTRY_ISO2": "AF",
+    "LANG": "D",
+    "NAME": "Afghanistan"
+  },
+  {
+    "COUNTRY_ISO2": "AF",
+    "LANG": "DA",
+    "NAME": "Afganistan"
+  },
+  {
+    "COUNTRY_ISO2": "AF",
+    "LANG": "E",
+    "NAME": "Afganistan"
+  },
+  {
+    "COUNTRY_ISO2": "AF",
+    "LANG": "F",
+    "NAME": "Afghanistan"
+  },
+  {
+    "COUNTRY_ISO2": "AF",
+    "LANG": "GB",
+    "NAME": "Afghanistan"
+  },
+  {
+    "COUNTRY_ISO2": "AF",
+    "LANG": "I",
+    "NAME": "Afghanistan"
+  },
+  {
+    "COUNTRY_ISO2": "AF",
+    "LANG": "NL",
+    "NAME": "Afghanistan"
+  },
+  {
+    "COUNTRY_ISO2": "AF",
+    "LANG": "PL",
+    "NAME": "Afganistan"
+  },
+  {
+    "COUNTRY_ISO2": "AF",
+    "LANG": "PT",
+    "NAME": "Afeganist�o"
+  },
+  {
+    "COUNTRY_ISO2": "AF",
+    "LANG": "T",
+    "NAME": "Afganistan"
+  },
+  {
+    "COUNTRY_ISO2": "AG",
+    "LANG": "D",
+    "NAME": "Antigua"
+  },
+  {
+    "COUNTRY_ISO2": "AG",
+    "LANG": "DA",
+    "NAME": "Antigua"
+  },
+  {
+    "COUNTRY_ISO2": "AG",
+    "LANG": "E",
+    "NAME": "Antigua"
+  },
+  {
+    "COUNTRY_ISO2": "AG",
+    "LANG": "F",
+    "NAME": "Antigua"
+  },
+  {
+    "COUNTRY_ISO2": "AG",
+    "LANG": "GB",
+    "NAME": "Antigua"
+  },
+  {
+    "COUNTRY_ISO2": "AG",
+    "LANG": "I",
+    "NAME": "Antigua"
+  },
+  {
+    "COUNTRY_ISO2": "AG",
+    "LANG": "NL",
+    "NAME": "Antigua"
+  },
+  {
+    "COUNTRY_ISO2": "AG",
+    "LANG": "PL",
+    "NAME": "Antigua"
+  },
+  {
+    "COUNTRY_ISO2": "AG",
+    "LANG": "PT",
+    "NAME": "Antigua"
+  },
+  {
+    "COUNTRY_ISO2": "AG",
+    "LANG": "T",
+    "NAME": "Antigua"
+  },
+  {
+    "COUNTRY_ISO2": "AI",
+    "LANG": "D",
+    "NAME": "Anguilla"
+  },
+  {
+    "COUNTRY_ISO2": "AI",
+    "LANG": "DA",
+    "NAME": "Anguilla"
+  },
+  {
+    "COUNTRY_ISO2": "AI",
+    "LANG": "E",
+    "NAME": "Anguilla"
+  },
+  {
+    "COUNTRY_ISO2": "AI",
+    "LANG": "F",
+    "NAME": "Anguilla"
+  },
+  {
+    "COUNTRY_ISO2": "AI",
+    "LANG": "GB",
+    "NAME": "Anguilla"
+  },
+  {
+    "COUNTRY_ISO2": "AI",
+    "LANG": "I",
+    "NAME": "Anguilla"
+  },
+  {
+    "COUNTRY_ISO2": "AI",
+    "LANG": "NL",
+    "NAME": "Anguilla"
+  },
+  {
+    "COUNTRY_ISO2": "AI",
+    "LANG": "PL",
+    "NAME": "Anguilla"
+  },
+  {
+    "COUNTRY_ISO2": "AI",
+    "LANG": "PT",
+    "NAME": "Anguila"
+  },
+  {
+    "COUNTRY_ISO2": "AI",
+    "LANG": "T",
+    "NAME": "Anguilla"
+  },
+  {
+    "COUNTRY_ISO2": "AL",
+    "LANG": "D",
+    "NAME": "Albanien"
+  },
+  {
+    "COUNTRY_ISO2": "AL",
+    "LANG": "DA",
+    "NAME": "Albanien"
+  },
+  {
+    "COUNTRY_ISO2": "AL",
+    "LANG": "E",
+    "NAME": "Albania"
+  },
+  {
+    "COUNTRY_ISO2": "AL",
+    "LANG": "F",
+    "NAME": "Albanie"
+  },
+  {
+    "COUNTRY_ISO2": "AL",
+    "LANG": "GB",
+    "NAME": "Albania"
+  },
+  {
+    "COUNTRY_ISO2": "AL",
+    "LANG": "I",
+    "NAME": "Albania"
+  },
+  {
+    "COUNTRY_ISO2": "AL",
+    "LANG": "NL",
+    "NAME": "Albani�"
+  },
+  {
+    "COUNTRY_ISO2": "AL",
+    "LANG": "PL",
+    "NAME": "Albania"
+  },
+  {
+    "COUNTRY_ISO2": "AL",
+    "LANG": "PT",
+    "NAME": "Alb�nia"
+  },
+  {
+    "COUNTRY_ISO2": "AL",
+    "LANG": "T",
+    "NAME": "Arnavutluk"
+  },
+  {
+    "COUNTRY_ISO2": "AM",
+    "LANG": "D",
+    "NAME": "Armenien"
+  },
+  {
+    "COUNTRY_ISO2": "AM",
+    "LANG": "DA",
+    "NAME": "Armenien"
+  },
+  {
+    "COUNTRY_ISO2": "AM",
+    "LANG": "E",
+    "NAME": "Armenia"
+  },
+  {
+    "COUNTRY_ISO2": "AM",
+    "LANG": "F",
+    "NAME": "Arm�nie"
+  },
+  {
+    "COUNTRY_ISO2": "AM",
+    "LANG": "GB",
+    "NAME": "Armenia"
+  },
+  {
+    "COUNTRY_ISO2": "AM",
+    "LANG": "I",
+    "NAME": "Armenia"
+  },
+  {
+    "COUNTRY_ISO2": "AM",
+    "LANG": "NL",
+    "NAME": "Armeni�"
+  },
+  {
+    "COUNTRY_ISO2": "AM",
+    "LANG": "PL",
+    "NAME": "Armenia"
+  },
+  {
+    "COUNTRY_ISO2": "AM",
+    "LANG": "PT",
+    "NAME": "Arm�nia"
+  },
+  {
+    "COUNTRY_ISO2": "AM",
+    "LANG": "T",
+    "NAME": "Ermenistan"
+  },
+  {
+    "COUNTRY_ISO2": "AN",
+    "LANG": "D",
+    "NAME": "Niederl�ndische Antillen"
+  },
+  {
+    "COUNTRY_ISO2": "AN",
+    "LANG": "DA",
+    "NAME": "Nederlanske Antiller"
+  },
+  {
+    "COUNTRY_ISO2": "AN",
+    "LANG": "E",
+    "NAME": "Antillas Neerlandesas"
+  },
+  {
+    "COUNTRY_ISO2": "AN",
+    "LANG": "F",
+    "NAME": "Antilles n�erlandaises"
+  },
+  {
+    "COUNTRY_ISO2": "AN",
+    "LANG": "GB",
+    "NAME": "Netherlands Antilles"
+  },
+  {
+    "COUNTRY_ISO2": "AN",
+    "LANG": "I",
+    "NAME": "Antille olandesi"
+  },
+  {
+    "COUNTRY_ISO2": "AN",
+    "LANG": "NL",
+    "NAME": "Nederlandse Antillen"
+  },
+  {
+    "COUNTRY_ISO2": "AN",
+    "LANG": "PL",
+    "NAME": "Antyle Holenderskie"
+  },
+  {
+    "COUNTRY_ISO2": "AN",
+    "LANG": "PT",
+    "NAME": "Antilhas"
+  },
+  {
+    "COUNTRY_ISO2": "AN",
+    "LANG": "T",
+    "NAME": "Hollanda Antilleri"
+  },
+  {
+    "COUNTRY_ISO2": "AO",
+    "LANG": "D",
+    "NAME": "Angola"
+  },
+  {
+    "COUNTRY_ISO2": "AO",
+    "LANG": "DA",
+    "NAME": "Angola"
+  },
+  {
+    "COUNTRY_ISO2": "AO",
+    "LANG": "E",
+    "NAME": "Angola"
+  },
+  {
+    "COUNTRY_ISO2": "AO",
+    "LANG": "F",
+    "NAME": "Angola"
+  },
+  {
+    "COUNTRY_ISO2": "AO",
+    "LANG": "GB",
+    "NAME": "Angola"
+  },
+  {
+    "COUNTRY_ISO2": "AO",
+    "LANG": "I",
+    "NAME": "Angola"
+  },
+  {
+    "COUNTRY_ISO2": "AO",
+    "LANG": "NL",
+    "NAME": "Angola"
+  },
+  {
+    "COUNTRY_ISO2": "AO",
+    "LANG": "PL",
+    "NAME": "Angola"
+  },
+  {
+    "COUNTRY_ISO2": "AO",
+    "LANG": "PT",
+    "NAME": "Angola"
+  },
+  {
+    "COUNTRY_ISO2": "AO",
+    "LANG": "T",
+    "NAME": "Angola"
+  },
+  {
+    "COUNTRY_ISO2": "AQ",
+    "LANG": "D",
+    "NAME": "Antarktis"
+  },
+  {
+    "COUNTRY_ISO2": "AQ",
+    "LANG": "DA",
+    "NAME": "Antarktis"
+  },
+  {
+    "COUNTRY_ISO2": "AQ",
+    "LANG": "E",
+    "NAME": "Antartida"
+  },
+  {
+    "COUNTRY_ISO2": "AQ",
+    "LANG": "F",
+    "NAME": "Antarctique"
+  },
+  {
+    "COUNTRY_ISO2": "AQ",
+    "LANG": "GB",
+    "NAME": "Antarctica"
+  },
+  {
+    "COUNTRY_ISO2": "AQ",
+    "LANG": "I",
+    "NAME": "Antartide"
+  },
+  {
+    "COUNTRY_ISO2": "AQ",
+    "LANG": "NL",
+    "NAME": "Antarctica"
+  },
+  {
+    "COUNTRY_ISO2": "AQ",
+    "LANG": "PL",
+    "NAME": "Antarktyka"
+  },
+  {
+    "COUNTRY_ISO2": "AQ",
+    "LANG": "PT",
+    "NAME": "Ant�rtida"
+  },
+  {
+    "COUNTRY_ISO2": "AQ",
+    "LANG": "T",
+    "NAME": "Antarktika"
+  },
+  {
+    "COUNTRY_ISO2": "AR",
+    "LANG": "D",
+    "NAME": "Argentinien"
+  },
+  {
+    "COUNTRY_ISO2": "AR",
+    "LANG": "DA",
+    "NAME": "Argentina"
+  },
+  {
+    "COUNTRY_ISO2": "AR",
+    "LANG": "E",
+    "NAME": "Argentina"
+  },
+  {
+    "COUNTRY_ISO2": "AR",
+    "LANG": "F",
+    "NAME": "Argentine"
+  },
+  {
+    "COUNTRY_ISO2": "AR",
+    "LANG": "GB",
+    "NAME": "Argentina"
+  },
+  {
+    "COUNTRY_ISO2": "AR",
+    "LANG": "I",
+    "NAME": "Argentina"
+  },
+  {
+    "COUNTRY_ISO2": "AR",
+    "LANG": "NL",
+    "NAME": "Argentini�"
+  },
+  {
+    "COUNTRY_ISO2": "AR",
+    "LANG": "PL",
+    "NAME": "Argentyna"
+  },
+  {
+    "COUNTRY_ISO2": "AR",
+    "LANG": "PT",
+    "NAME": "Argentina"
+  },
+  {
+    "COUNTRY_ISO2": "AR",
+    "LANG": "T",
+    "NAME": "Arjantin"
+  },
+  {
+    "COUNTRY_ISO2": "AS",
+    "LANG": "D",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "AS",
+    "LANG": "DA",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "AS",
+    "LANG": "E",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "AS",
+    "LANG": "F",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "AS",
+    "LANG": "GB",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "AS",
+    "LANG": "I",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "AS",
+    "LANG": "NL",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "AS",
+    "LANG": "PL",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "AS",
+    "LANG": "PT",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "AS",
+    "LANG": "T",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "AT",
+    "LANG": "D",
+    "NAME": "�sterreich"
+  },
+  {
+    "COUNTRY_ISO2": "AT",
+    "LANG": "DA",
+    "NAME": "�strig"
+  },
+  {
+    "COUNTRY_ISO2": "AT",
+    "LANG": "E",
+    "NAME": "Austria"
+  },
+  {
+    "COUNTRY_ISO2": "AT",
+    "LANG": "F",
+    "NAME": "Autriche"
+  },
+  {
+    "COUNTRY_ISO2": "AT",
+    "LANG": "GB",
+    "NAME": "Austria"
+  },
+  {
+    "COUNTRY_ISO2": "AT",
+    "LANG": "I",
+    "NAME": "Austria"
+  },
+  {
+    "COUNTRY_ISO2": "AT",
+    "LANG": "NL",
+    "NAME": "Oostenrijk"
+  },
+  {
+    "COUNTRY_ISO2": "AT",
+    "LANG": "PL",
+    "NAME": "Austria"
+  },
+  {
+    "COUNTRY_ISO2": "AT",
+    "LANG": "PT",
+    "NAME": "�ustria"
+  },
+  {
+    "COUNTRY_ISO2": "AT",
+    "LANG": "T",
+    "NAME": "Avusturya"
+  },
+  {
+    "COUNTRY_ISO2": "AU",
+    "LANG": "D",
+    "NAME": "Australien"
+  },
+  {
+    "COUNTRY_ISO2": "AU",
+    "LANG": "DA",
+    "NAME": "Australien"
+  },
+  {
+    "COUNTRY_ISO2": "AU",
+    "LANG": "E",
+    "NAME": "Australia"
+  },
+  {
+    "COUNTRY_ISO2": "AU",
+    "LANG": "F",
+    "NAME": "Australie"
+  },
+  {
+    "COUNTRY_ISO2": "AU",
+    "LANG": "GB",
+    "NAME": "Australia"
+  },
+  {
+    "COUNTRY_ISO2": "AU",
+    "LANG": "I",
+    "NAME": "Australia"
+  },
+  {
+    "COUNTRY_ISO2": "AU",
+    "LANG": "NL",
+    "NAME": "Australi�"
+  },
+  {
+    "COUNTRY_ISO2": "AU",
+    "LANG": "PL",
+    "NAME": "Australia"
+  },
+  {
+    "COUNTRY_ISO2": "AU",
+    "LANG": "PT",
+    "NAME": "Austr�lia"
+  },
+  {
+    "COUNTRY_ISO2": "AU",
+    "LANG": "T",
+    "NAME": "Avustralya"
+  },
+  {
+    "COUNTRY_ISO2": "AW",
+    "LANG": "D",
+    "NAME": "Aruba"
+  },
+  {
+    "COUNTRY_ISO2": "AW",
+    "LANG": "DA",
+    "NAME": "Aruba"
+  },
+  {
+    "COUNTRY_ISO2": "AW",
+    "LANG": "E",
+    "NAME": "Aruba"
+  },
+  {
+    "COUNTRY_ISO2": "AW",
+    "LANG": "F",
+    "NAME": "Aruba"
+  },
+  {
+    "COUNTRY_ISO2": "AW",
+    "LANG": "GB",
+    "NAME": "Aruba"
+  },
+  {
+    "COUNTRY_ISO2": "AW",
+    "LANG": "I",
+    "NAME": "Aruba"
+  },
+  {
+    "COUNTRY_ISO2": "AW",
+    "LANG": "NL",
+    "NAME": "Aruba"
+  },
+  {
+    "COUNTRY_ISO2": "AW",
+    "LANG": "PL",
+    "NAME": "Aruba"
+  },
+  {
+    "COUNTRY_ISO2": "AW",
+    "LANG": "PT",
+    "NAME": "Aruba"
+  },
+  {
+    "COUNTRY_ISO2": "AW",
+    "LANG": "T",
+    "NAME": "Aruba"
+  },
+  {
+    "COUNTRY_ISO2": "AZ",
+    "LANG": "D",
+    "NAME": "Aserbaidschan"
+  },
+  {
+    "COUNTRY_ISO2": "AZ",
+    "LANG": "DA",
+    "NAME": "Aserbajdsjan"
+  },
+  {
+    "COUNTRY_ISO2": "AZ",
+    "LANG": "E",
+    "NAME": "Azerbaiy�n"
+  },
+  {
+    "COUNTRY_ISO2": "AZ",
+    "LANG": "F",
+    "NAME": "Azerba�djan"
+  },
+  {
+    "COUNTRY_ISO2": "AZ",
+    "LANG": "GB",
+    "NAME": "Azerbaijan"
+  },
+  {
+    "COUNTRY_ISO2": "AZ",
+    "LANG": "I",
+    "NAME": "Azerbaigian"
+  },
+  {
+    "COUNTRY_ISO2": "AZ",
+    "LANG": "NL",
+    "NAME": "Azerbeidzjan"
+  },
+  {
+    "COUNTRY_ISO2": "AZ",
+    "LANG": "PL",
+    "NAME": "Azerbejdzan"
+  },
+  {
+    "COUNTRY_ISO2": "AZ",
+    "LANG": "PT",
+    "NAME": "Azerbaij�o"
+  },
+  {
+    "COUNTRY_ISO2": "AZ",
+    "LANG": "T",
+    "NAME": "Azerbeycan"
+  },
+  {
+    "COUNTRY_ISO2": "BA",
+    "LANG": "D",
+    "NAME": "Bosnien-Herzegowina"
+  },
+  {
+    "COUNTRY_ISO2": "BA",
+    "LANG": "DA",
+    "NAME": "Bosnien-Hercegovina"
+  },
+  {
+    "COUNTRY_ISO2": "BA",
+    "LANG": "E",
+    "NAME": "Bosnia-Herzegovina"
+  },
+  {
+    "COUNTRY_ISO2": "BA",
+    "LANG": "F",
+    "NAME": "Bosnie-Herz�govine"
+  },
+  {
+    "COUNTRY_ISO2": "BA",
+    "LANG": "GB",
+    "NAME": "Bosnia and Herzegovina"
+  },
+  {
+    "COUNTRY_ISO2": "BA",
+    "LANG": "I",
+    "NAME": "Bosnia-Erzegovina"
+  },
+  {
+    "COUNTRY_ISO2": "BA",
+    "LANG": "NL",
+    "NAME": "Bosni�-Herzegovina"
+  },
+  {
+    "COUNTRY_ISO2": "BA",
+    "LANG": "PL",
+    "NAME": "Bosnia-Hercegowina"
+  },
+  {
+    "COUNTRY_ISO2": "BA",
+    "LANG": "PT",
+    "NAME": "B�snia-Herzegovina"
+  },
+  {
+    "COUNTRY_ISO2": "BA",
+    "LANG": "T",
+    "NAME": "Bosna Hersek"
+  },
+  {
+    "COUNTRY_ISO2": "BB",
+    "LANG": "D",
+    "NAME": "Barbados"
+  },
+  {
+    "COUNTRY_ISO2": "BB",
+    "LANG": "DA",
+    "NAME": "Barbados"
+  },
+  {
+    "COUNTRY_ISO2": "BB",
+    "LANG": "E",
+    "NAME": "Barbados"
+  },
+  {
+    "COUNTRY_ISO2": "BB",
+    "LANG": "F",
+    "NAME": "Barbade"
+  },
+  {
+    "COUNTRY_ISO2": "BB",
+    "LANG": "GB",
+    "NAME": "Barbados"
+  },
+  {
+    "COUNTRY_ISO2": "BB",
+    "LANG": "I",
+    "NAME": "Barbados"
+  },
+  {
+    "COUNTRY_ISO2": "BB",
+    "LANG": "NL",
+    "NAME": "Barbados"
+  },
+  {
+    "COUNTRY_ISO2": "BB",
+    "LANG": "PL",
+    "NAME": "Barbados"
+  },
+  {
+    "COUNTRY_ISO2": "BB",
+    "LANG": "PT",
+    "NAME": "Barbados"
+  },
+  {
+    "COUNTRY_ISO2": "BB",
+    "LANG": "T",
+    "NAME": "Barbados"
+  },
+  {
+    "COUNTRY_ISO2": "BD",
+    "LANG": "D",
+    "NAME": "Bangladesch"
+  },
+  {
+    "COUNTRY_ISO2": "BD",
+    "LANG": "DA",
+    "NAME": "Bangladesh"
+  },
+  {
+    "COUNTRY_ISO2": "BD",
+    "LANG": "E",
+    "NAME": "Banglad�s"
+  },
+  {
+    "COUNTRY_ISO2": "BD",
+    "LANG": "F",
+    "NAME": "Bangladesh"
+  },
+  {
+    "COUNTRY_ISO2": "BD",
+    "LANG": "GB",
+    "NAME": "Bangladesh"
+  },
+  {
+    "COUNTRY_ISO2": "BD",
+    "LANG": "I",
+    "NAME": "Bangladesh"
+  },
+  {
+    "COUNTRY_ISO2": "BD",
+    "LANG": "NL",
+    "NAME": "Bangladesh"
+  },
+  {
+    "COUNTRY_ISO2": "BD",
+    "LANG": "PL",
+    "NAME": "Bangladesz"
+  },
+  {
+    "COUNTRY_ISO2": "BD",
+    "LANG": "PT",
+    "NAME": "Bangladesh"
+  },
+  {
+    "COUNTRY_ISO2": "BD",
+    "LANG": "T",
+    "NAME": "Banglades"
+  },
+  {
+    "COUNTRY_ISO2": "BE",
+    "LANG": "D",
+    "NAME": "Belgien"
+  },
+  {
+    "COUNTRY_ISO2": "BE",
+    "LANG": "DA",
+    "NAME": "Belgien"
+  },
+  {
+    "COUNTRY_ISO2": "BE",
+    "LANG": "E",
+    "NAME": "B�lgica"
+  },
+  {
+    "COUNTRY_ISO2": "BE",
+    "LANG": "F",
+    "NAME": "Belgique"
+  },
+  {
+    "COUNTRY_ISO2": "BE",
+    "LANG": "GB",
+    "NAME": "Belgium"
+  },
+  {
+    "COUNTRY_ISO2": "BE",
+    "LANG": "I",
+    "NAME": "Belgio"
+  },
+  {
+    "COUNTRY_ISO2": "BE",
+    "LANG": "NL",
+    "NAME": "Belgi�"
+  },
+  {
+    "COUNTRY_ISO2": "BE",
+    "LANG": "PL",
+    "NAME": "Belgia"
+  },
+  {
+    "COUNTRY_ISO2": "BE",
+    "LANG": "PT",
+    "NAME": "B�lgica"
+  },
+  {
+    "COUNTRY_ISO2": "BE",
+    "LANG": "T",
+    "NAME": "Bel�ika"
+  },
+  {
+    "COUNTRY_ISO2": "BF",
+    "LANG": "D",
+    "NAME": "Burkina Faso"
+  },
+  {
+    "COUNTRY_ISO2": "BF",
+    "LANG": "DA",
+    "NAME": "Burkina Faso"
+  },
+  {
+    "COUNTRY_ISO2": "BF",
+    "LANG": "E",
+    "NAME": "Burkina Faso"
+  },
+  {
+    "COUNTRY_ISO2": "BF",
+    "LANG": "F",
+    "NAME": "Burkina Faso"
+  },
+  {
+    "COUNTRY_ISO2": "BF",
+    "LANG": "GB",
+    "NAME": "Burkina Faso"
+  },
+  {
+    "COUNTRY_ISO2": "BF",
+    "LANG": "I",
+    "NAME": "Burkina Faso"
+  },
+  {
+    "COUNTRY_ISO2": "BF",
+    "LANG": "NL",
+    "NAME": "Burkina Faso"
+  },
+  {
+    "COUNTRY_ISO2": "BF",
+    "LANG": "PL",
+    "NAME": "Burkina Faso"
+  },
+  {
+    "COUNTRY_ISO2": "BF",
+    "LANG": "PT",
+    "NAME": "Burquina Faso"
+  },
+  {
+    "COUNTRY_ISO2": "BF",
+    "LANG": "T",
+    "NAME": "Burkina Faso"
+  },
+  {
+    "COUNTRY_ISO2": "BG",
+    "LANG": "D",
+    "NAME": "Bulgarien"
+  },
+  {
+    "COUNTRY_ISO2": "BG",
+    "LANG": "DA",
+    "NAME": "Bulgarien"
+  },
+  {
+    "COUNTRY_ISO2": "BG",
+    "LANG": "E",
+    "NAME": "Bulgaria"
+  },
+  {
+    "COUNTRY_ISO2": "BG",
+    "LANG": "F",
+    "NAME": "Bulgarie"
+  },
+  {
+    "COUNTRY_ISO2": "BG",
+    "LANG": "GB",
+    "NAME": "Bulgaria"
+  },
+  {
+    "COUNTRY_ISO2": "BG",
+    "LANG": "I",
+    "NAME": "Bulgaria"
+  },
+  {
+    "COUNTRY_ISO2": "BG",
+    "LANG": "NL",
+    "NAME": "Bulgarije"
+  },
+  {
+    "COUNTRY_ISO2": "BG",
+    "LANG": "PL",
+    "NAME": "Bulgaria"
+  },
+  {
+    "COUNTRY_ISO2": "BG",
+    "LANG": "PT",
+    "NAME": "Bulg�ria"
+  },
+  {
+    "COUNTRY_ISO2": "BG",
+    "LANG": "T",
+    "NAME": "Bulgaristan"
+  },
+  {
+    "COUNTRY_ISO2": "BH",
+    "LANG": "D",
+    "NAME": "Bahrain"
+  },
+  {
+    "COUNTRY_ISO2": "BH",
+    "LANG": "DA",
+    "NAME": "Bahrain"
+  },
+  {
+    "COUNTRY_ISO2": "BH",
+    "LANG": "E",
+    "NAME": "Bahrein"
+  },
+  {
+    "COUNTRY_ISO2": "BH",
+    "LANG": "F",
+    "NAME": "Bahre�n"
+  },
+  {
+    "COUNTRY_ISO2": "BH",
+    "LANG": "GB",
+    "NAME": "Bahrain"
+  },
+  {
+    "COUNTRY_ISO2": "BH",
+    "LANG": "I",
+    "NAME": "Bahrain"
+  },
+  {
+    "COUNTRY_ISO2": "BH",
+    "LANG": "NL",
+    "NAME": "Bahrein"
+  },
+  {
+    "COUNTRY_ISO2": "BH",
+    "LANG": "PL",
+    "NAME": "Bahrajn"
+  },
+  {
+    "COUNTRY_ISO2": "BH",
+    "LANG": "PT",
+    "NAME": "Bahrein"
+  },
+  {
+    "COUNTRY_ISO2": "BH",
+    "LANG": "T",
+    "NAME": "Bahreyn"
+  },
+  {
+    "COUNTRY_ISO2": "BI",
+    "LANG": "D",
+    "NAME": "Burundi"
+  },
+  {
+    "COUNTRY_ISO2": "BI",
+    "LANG": "DA",
+    "NAME": "Burundi"
+  },
+  {
+    "COUNTRY_ISO2": "BI",
+    "LANG": "E",
+    "NAME": "Burundi"
+  },
+  {
+    "COUNTRY_ISO2": "BI",
+    "LANG": "F",
+    "NAME": "Burundi"
+  },
+  {
+    "COUNTRY_ISO2": "BI",
+    "LANG": "GB",
+    "NAME": "Burundi"
+  },
+  {
+    "COUNTRY_ISO2": "BI",
+    "LANG": "I",
+    "NAME": "Burundi"
+  },
+  {
+    "COUNTRY_ISO2": "BI",
+    "LANG": "NL",
+    "NAME": "Burundi"
+  },
+  {
+    "COUNTRY_ISO2": "BI",
+    "LANG": "PL",
+    "NAME": "Burundi"
+  },
+  {
+    "COUNTRY_ISO2": "BI",
+    "LANG": "PT",
+    "NAME": "Burundi"
+  },
+  {
+    "COUNTRY_ISO2": "BI",
+    "LANG": "T",
+    "NAME": "Burundi"
+  },
+  {
+    "COUNTRY_ISO2": "BJ",
+    "LANG": "D",
+    "NAME": "Benin"
+  },
+  {
+    "COUNTRY_ISO2": "BJ",
+    "LANG": "DA",
+    "NAME": "Benin"
+  },
+  {
+    "COUNTRY_ISO2": "BJ",
+    "LANG": "E",
+    "NAME": "Benin"
+  },
+  {
+    "COUNTRY_ISO2": "BJ",
+    "LANG": "F",
+    "NAME": "B�nin"
+  },
+  {
+    "COUNTRY_ISO2": "BJ",
+    "LANG": "GB",
+    "NAME": "Benin"
+  },
+  {
+    "COUNTRY_ISO2": "BJ",
+    "LANG": "I",
+    "NAME": "Benin"
+  },
+  {
+    "COUNTRY_ISO2": "BJ",
+    "LANG": "NL",
+    "NAME": "Benin"
+  },
+  {
+    "COUNTRY_ISO2": "BJ",
+    "LANG": "PL",
+    "NAME": "Benin"
+  },
+  {
+    "COUNTRY_ISO2": "BJ",
+    "LANG": "PT",
+    "NAME": "Benin"
+  },
+  {
+    "COUNTRY_ISO2": "BJ",
+    "LANG": "T",
+    "NAME": "Benin"
+  },
+  {
+    "COUNTRY_ISO2": "BM",
+    "LANG": "D",
+    "NAME": "Bermuda"
+  },
+  {
+    "COUNTRY_ISO2": "BM",
+    "LANG": "DA",
+    "NAME": "Bermuda"
+  },
+  {
+    "COUNTRY_ISO2": "BM",
+    "LANG": "E",
+    "NAME": "Bermudas"
+  },
+  {
+    "COUNTRY_ISO2": "BM",
+    "LANG": "F",
+    "NAME": "Bermudes"
+  },
+  {
+    "COUNTRY_ISO2": "BM",
+    "LANG": "GB",
+    "NAME": "Bermuda"
+  },
+  {
+    "COUNTRY_ISO2": "BM",
+    "LANG": "I",
+    "NAME": "Bermuda"
+  },
+  {
+    "COUNTRY_ISO2": "BM",
+    "LANG": "NL",
+    "NAME": "Bermuda"
+  },
+  {
+    "COUNTRY_ISO2": "BM",
+    "LANG": "PL",
+    "NAME": "Bermudy"
+  },
+  {
+    "COUNTRY_ISO2": "BM",
+    "LANG": "PT",
+    "NAME": "Bermuda"
+  },
+  {
+    "COUNTRY_ISO2": "BM",
+    "LANG": "T",
+    "NAME": "Bermuda"
+  },
+  {
+    "COUNTRY_ISO2": "BN",
+    "LANG": "D",
+    "NAME": "Brunei"
+  },
+  {
+    "COUNTRY_ISO2": "BN",
+    "LANG": "DA",
+    "NAME": "Brunei"
+  },
+  {
+    "COUNTRY_ISO2": "BN",
+    "LANG": "E",
+    "NAME": "Brunei"
+  },
+  {
+    "COUNTRY_ISO2": "BN",
+    "LANG": "F",
+    "NAME": "Brunei"
+  },
+  {
+    "COUNTRY_ISO2": "BN",
+    "LANG": "GB",
+    "NAME": "Brunei"
+  },
+  {
+    "COUNTRY_ISO2": "BN",
+    "LANG": "I",
+    "NAME": "Brunei"
+  },
+  {
+    "COUNTRY_ISO2": "BN",
+    "LANG": "NL",
+    "NAME": "Brunei"
+  },
+  {
+    "COUNTRY_ISO2": "BN",
+    "LANG": "PL",
+    "NAME": "Brunei"
+  },
+  {
+    "COUNTRY_ISO2": "BN",
+    "LANG": "PT",
+    "NAME": "Brunei"
+  },
+  {
+    "COUNTRY_ISO2": "BN",
+    "LANG": "T",
+    "NAME": "Brunei"
+  },
+  {
+    "COUNTRY_ISO2": "BO",
+    "LANG": "D",
+    "NAME": "Bolivien"
+  },
+  {
+    "COUNTRY_ISO2": "BO",
+    "LANG": "DA",
+    "NAME": "Bolivien"
+  },
+  {
+    "COUNTRY_ISO2": "BO",
+    "LANG": "E",
+    "NAME": "Bolivia"
+  },
+  {
+    "COUNTRY_ISO2": "BO",
+    "LANG": "F",
+    "NAME": "Bolivie"
+  },
+  {
+    "COUNTRY_ISO2": "BO",
+    "LANG": "GB",
+    "NAME": "Bolivia"
+  },
+  {
+    "COUNTRY_ISO2": "BO",
+    "LANG": "I",
+    "NAME": "Bolivia"
+  },
+  {
+    "COUNTRY_ISO2": "BO",
+    "LANG": "NL",
+    "NAME": "Bolivia"
+  },
+  {
+    "COUNTRY_ISO2": "BO",
+    "LANG": "PL",
+    "NAME": "Boliwia"
+  },
+  {
+    "COUNTRY_ISO2": "BO",
+    "LANG": "PT",
+    "NAME": "Bol�via"
+  },
+  {
+    "COUNTRY_ISO2": "BO",
+    "LANG": "T",
+    "NAME": "Bolivya"
+  },
+  {
+    "COUNTRY_ISO2": "BR",
+    "LANG": "D",
+    "NAME": "Brasilien"
+  },
+  {
+    "COUNTRY_ISO2": "BR",
+    "LANG": "DA",
+    "NAME": "Brasilien"
+  },
+  {
+    "COUNTRY_ISO2": "BR",
+    "LANG": "E",
+    "NAME": "Brazil"
+  },
+  {
+    "COUNTRY_ISO2": "BR",
+    "LANG": "F",
+    "NAME": "Br�sil"
+  },
+  {
+    "COUNTRY_ISO2": "BR",
+    "LANG": "GB",
+    "NAME": "Brazil"
+  },
+  {
+    "COUNTRY_ISO2": "BR",
+    "LANG": "I",
+    "NAME": "Brasile"
+  },
+  {
+    "COUNTRY_ISO2": "BR",
+    "LANG": "NL",
+    "NAME": "Brazili�"
+  },
+  {
+    "COUNTRY_ISO2": "BR",
+    "LANG": "PL",
+    "NAME": "Brazylia"
+  },
+  {
+    "COUNTRY_ISO2": "BR",
+    "LANG": "PT",
+    "NAME": "Brasil"
+  },
+  {
+    "COUNTRY_ISO2": "BR",
+    "LANG": "T",
+    "NAME": "Brezilya"
+  },
+  {
+    "COUNTRY_ISO2": "BS",
+    "LANG": "D",
+    "NAME": "Bahamas"
+  },
+  {
+    "COUNTRY_ISO2": "BS",
+    "LANG": "DA",
+    "NAME": "Bahamas"
+  },
+  {
+    "COUNTRY_ISO2": "BS",
+    "LANG": "E",
+    "NAME": "Las Bahamas"
+  },
+  {
+    "COUNTRY_ISO2": "BS",
+    "LANG": "F",
+    "NAME": "Bahamas"
+  },
+  {
+    "COUNTRY_ISO2": "BS",
+    "LANG": "GB",
+    "NAME": "Bahamas"
+  },
+  {
+    "COUNTRY_ISO2": "BS",
+    "LANG": "I",
+    "NAME": "Bahamas"
+  },
+  {
+    "COUNTRY_ISO2": "BS",
+    "LANG": "NL",
+    "NAME": "Bahamas"
+  },
+  {
+    "COUNTRY_ISO2": "BS",
+    "LANG": "PL",
+    "NAME": "Bahamy"
+  },
+  {
+    "COUNTRY_ISO2": "BS",
+    "LANG": "PT",
+    "NAME": "Bahamas"
+  },
+  {
+    "COUNTRY_ISO2": "BS",
+    "LANG": "T",
+    "NAME": "Bahamalar"
+  },
+  {
+    "COUNTRY_ISO2": "BT",
+    "LANG": "D",
+    "NAME": "Bhutan"
+  },
+  {
+    "COUNTRY_ISO2": "BT",
+    "LANG": "DA",
+    "NAME": "Bhutan"
+  },
+  {
+    "COUNTRY_ISO2": "BT",
+    "LANG": "E",
+    "NAME": "But�n"
+  },
+  {
+    "COUNTRY_ISO2": "BT",
+    "LANG": "F",
+    "NAME": "Bhoutan"
+  },
+  {
+    "COUNTRY_ISO2": "BT",
+    "LANG": "GB",
+    "NAME": "Bhutan"
+  },
+  {
+    "COUNTRY_ISO2": "BT",
+    "LANG": "I",
+    "NAME": "Bhutan"
+  },
+  {
+    "COUNTRY_ISO2": "BT",
+    "LANG": "NL",
+    "NAME": "Bhutan"
+  },
+  {
+    "COUNTRY_ISO2": "BT",
+    "LANG": "PL",
+    "NAME": "Bhutan"
+  },
+  {
+    "COUNTRY_ISO2": "BT",
+    "LANG": "PT",
+    "NAME": "But�o"
+  },
+  {
+    "COUNTRY_ISO2": "BT",
+    "LANG": "T",
+    "NAME": "Butan"
+  },
+  {
+    "COUNTRY_ISO2": "BW",
+    "LANG": "D",
+    "NAME": "Botswana"
+  },
+  {
+    "COUNTRY_ISO2": "BW",
+    "LANG": "DA",
+    "NAME": "Botswana"
+  },
+  {
+    "COUNTRY_ISO2": "BW",
+    "LANG": "E",
+    "NAME": "Botsuana"
+  },
+  {
+    "COUNTRY_ISO2": "BW",
+    "LANG": "F",
+    "NAME": "Botswana"
+  },
+  {
+    "COUNTRY_ISO2": "BW",
+    "LANG": "GB",
+    "NAME": "Botswana"
+  },
+  {
+    "COUNTRY_ISO2": "BW",
+    "LANG": "I",
+    "NAME": "Botswana"
+  },
+  {
+    "COUNTRY_ISO2": "BW",
+    "LANG": "NL",
+    "NAME": "Botswana"
+  },
+  {
+    "COUNTRY_ISO2": "BW",
+    "LANG": "PL",
+    "NAME": "Botswana"
+  },
+  {
+    "COUNTRY_ISO2": "BW",
+    "LANG": "PT",
+    "NAME": "Botsuana"
+  },
+  {
+    "COUNTRY_ISO2": "BW",
+    "LANG": "T",
+    "NAME": "Botsvana"
+  },
+  {
+    "COUNTRY_ISO2": "BY",
+    "LANG": "D",
+    "NAME": "Belarus (Weissrussland)"
+  },
+  {
+    "COUNTRY_ISO2": "BY",
+    "LANG": "DA",
+    "NAME": "Belarus (Hviderusland)"
+  },
+  {
+    "COUNTRY_ISO2": "BY",
+    "LANG": "E",
+    "NAME": "Belar�s"
+  },
+  {
+    "COUNTRY_ISO2": "BY",
+    "LANG": "F",
+    "NAME": "Bi�lorussie"
+  },
+  {
+    "COUNTRY_ISO2": "BY",
+    "LANG": "GB",
+    "NAME": "Belarus"
+  },
+  {
+    "COUNTRY_ISO2": "BY",
+    "LANG": "I",
+    "NAME": "Bielorussia"
+  },
+  {
+    "COUNTRY_ISO2": "BY",
+    "LANG": "NL",
+    "NAME": "Belarus (Wit-Rusland)"
+  },
+  {
+    "COUNTRY_ISO2": "BY",
+    "LANG": "PL",
+    "NAME": "Bialorus"
+  },
+  {
+    "COUNTRY_ISO2": "BY",
+    "LANG": "PT",
+    "NAME": "Bielorr�ssia"
+  },
+  {
+    "COUNTRY_ISO2": "BY",
+    "LANG": "T",
+    "NAME": "Beyaz Rusya"
+  },
+  {
+    "COUNTRY_ISO2": "BZ",
+    "LANG": "D",
+    "NAME": "Belize"
+  },
+  {
+    "COUNTRY_ISO2": "BZ",
+    "LANG": "DA",
+    "NAME": "Belize"
+  },
+  {
+    "COUNTRY_ISO2": "BZ",
+    "LANG": "E",
+    "NAME": "Belice"
+  },
+  {
+    "COUNTRY_ISO2": "BZ",
+    "LANG": "F",
+    "NAME": "Belize"
+  },
+  {
+    "COUNTRY_ISO2": "BZ",
+    "LANG": "GB",
+    "NAME": "Belize"
+  },
+  {
+    "COUNTRY_ISO2": "BZ",
+    "LANG": "I",
+    "NAME": "Belize"
+  },
+  {
+    "COUNTRY_ISO2": "BZ",
+    "LANG": "NL",
+    "NAME": "Belize"
+  },
+  {
+    "COUNTRY_ISO2": "BZ",
+    "LANG": "PL",
+    "NAME": "Belize"
+  },
+  {
+    "COUNTRY_ISO2": "BZ",
+    "LANG": "PT",
+    "NAME": "Belize"
+  },
+  {
+    "COUNTRY_ISO2": "BZ",
+    "LANG": "T",
+    "NAME": "Belize"
+  },
+  {
+    "COUNTRY_ISO2": "CA",
+    "LANG": "D",
+    "NAME": "Kanada"
+  },
+  {
+    "COUNTRY_ISO2": "CA",
+    "LANG": "DA",
+    "NAME": "Canada"
+  },
+  {
+    "COUNTRY_ISO2": "CA",
+    "LANG": "E",
+    "NAME": "Canad�"
+  },
+  {
+    "COUNTRY_ISO2": "CA",
+    "LANG": "F",
+    "NAME": "Canada"
+  },
+  {
+    "COUNTRY_ISO2": "CA",
+    "LANG": "GB",
+    "NAME": "Canada"
+  },
+  {
+    "COUNTRY_ISO2": "CA",
+    "LANG": "I",
+    "NAME": "Canada"
+  },
+  {
+    "COUNTRY_ISO2": "CA",
+    "LANG": "NL",
+    "NAME": "Canada"
+  },
+  {
+    "COUNTRY_ISO2": "CA",
+    "LANG": "PL",
+    "NAME": "Kanada"
+  },
+  {
+    "COUNTRY_ISO2": "CA",
+    "LANG": "PT",
+    "NAME": "Canad�"
+  },
+  {
+    "COUNTRY_ISO2": "CA",
+    "LANG": "T",
+    "NAME": "Kanada"
+  },
+  {
+    "COUNTRY_ISO2": "CC",
+    "LANG": "D",
+    "NAME": "Kokosinseln"
+  },
+  {
+    "COUNTRY_ISO2": "CC",
+    "LANG": "DA",
+    "NAME": "Kokos�erne"
+  },
+  {
+    "COUNTRY_ISO2": "CC",
+    "LANG": "E",
+    "NAME": "Islas Cocos"
+  },
+  {
+    "COUNTRY_ISO2": "CC",
+    "LANG": "F",
+    "NAME": "�les Cocos"
+  },
+  {
+    "COUNTRY_ISO2": "CC",
+    "LANG": "GB",
+    "NAME": "Cocos Islands"
+  },
+  {
+    "COUNTRY_ISO2": "CC",
+    "LANG": "I",
+    "NAME": "Isole Cocos"
+  },
+  {
+    "COUNTRY_ISO2": "CC",
+    "LANG": "NL",
+    "NAME": "Kokoseilanden"
+  },
+  {
+    "COUNTRY_ISO2": "CC",
+    "LANG": "PL",
+    "NAME": "Wyspy Kokosowe"
+  },
+  {
+    "COUNTRY_ISO2": "CC",
+    "LANG": "PT",
+    "NAME": "Ilhas Cocos"
+  },
+  {
+    "COUNTRY_ISO2": "CC",
+    "LANG": "T",
+    "NAME": "Cocos Adalari"
+  },
+  {
+    "COUNTRY_ISO2": "CF",
+    "LANG": "D",
+    "NAME": "Zentralafrikanische Republik"
+  },
+  {
+    "COUNTRY_ISO2": "CF",
+    "LANG": "DA",
+    "NAME": "Centralafrikanske republik"
+  },
+  {
+    "COUNTRY_ISO2": "CF",
+    "LANG": "E",
+    "NAME": "Republica Centroafricana"
+  },
+  {
+    "COUNTRY_ISO2": "CF",
+    "LANG": "F",
+    "NAME": "R�publique centrafricaine"
+  },
+  {
+    "COUNTRY_ISO2": "CF",
+    "LANG": "GB",
+    "NAME": "Central African Republic"
+  },
+  {
+    "COUNTRY_ISO2": "CF",
+    "LANG": "I",
+    "NAME": "Repubblica Centrafricana"
+  },
+  {
+    "COUNTRY_ISO2": "CF",
+    "LANG": "NL",
+    "NAME": "Centraal-Afrikaanse Republiek"
+  },
+  {
+    "COUNTRY_ISO2": "CF",
+    "LANG": "PL",
+    "NAME": "Republika Srodkowoafrykanska"
+  },
+  {
+    "COUNTRY_ISO2": "CF",
+    "LANG": "PT",
+    "NAME": "Rep�blica Centro Africana"
+  },
+  {
+    "COUNTRY_ISO2": "CF",
+    "LANG": "T",
+    "NAME": "Orta Afrika Cumhuriyeti"
+  },
+  {
+    "COUNTRY_ISO2": "CG",
+    "LANG": "D",
+    "NAME": "Kongo"
+  },
+  {
+    "COUNTRY_ISO2": "CG",
+    "LANG": "DA",
+    "NAME": "Congo"
+  },
+  {
+    "COUNTRY_ISO2": "CG",
+    "LANG": "E",
+    "NAME": "Congo"
+  },
+  {
+    "COUNTRY_ISO2": "CG",
+    "LANG": "F",
+    "NAME": "Congo"
+  },
+  {
+    "COUNTRY_ISO2": "CG",
+    "LANG": "GB",
+    "NAME": "Congo"
+  },
+  {
+    "COUNTRY_ISO2": "CG",
+    "LANG": "I",
+    "NAME": "Congo"
+  },
+  {
+    "COUNTRY_ISO2": "CG",
+    "LANG": "NL",
+    "NAME": "Congo"
+  },
+  {
+    "COUNTRY_ISO2": "CG",
+    "LANG": "PL",
+    "NAME": "Kongo"
+  },
+  {
+    "COUNTRY_ISO2": "CG",
+    "LANG": "PT",
+    "NAME": "Congo"
+  },
+  {
+    "COUNTRY_ISO2": "CG",
+    "LANG": "T",
+    "NAME": "Kongo"
+  },
+  {
+    "COUNTRY_ISO2": "CH",
+    "LANG": "D",
+    "NAME": "Schweiz"
+  },
+  {
+    "COUNTRY_ISO2": "CH",
+    "LANG": "DA",
+    "NAME": "Schweiz"
+  },
+  {
+    "COUNTRY_ISO2": "CH",
+    "LANG": "E",
+    "NAME": "Suiza"
+  },
+  {
+    "COUNTRY_ISO2": "CH",
+    "LANG": "F",
+    "NAME": "Suisse"
+  },
+  {
+    "COUNTRY_ISO2": "CH",
+    "LANG": "GB",
+    "NAME": "Switzerland"
+  },
+  {
+    "COUNTRY_ISO2": "CH",
+    "LANG": "I",
+    "NAME": "Svizzera"
+  },
+  {
+    "COUNTRY_ISO2": "CH",
+    "LANG": "NL",
+    "NAME": "Zwitserland"
+  },
+  {
+    "COUNTRY_ISO2": "CH",
+    "LANG": "PL",
+    "NAME": "Szwajcaria"
+  },
+  {
+    "COUNTRY_ISO2": "CH",
+    "LANG": "PT",
+    "NAME": "Su��a"
+  },
+  {
+    "COUNTRY_ISO2": "CH",
+    "LANG": "T",
+    "NAME": "Ssvi�re"
+  },
+  {
+    "COUNTRY_ISO2": "CI",
+    "LANG": "D",
+    "NAME": "Elfenbeink�ste"
+  },
+  {
+    "COUNTRY_ISO2": "CI",
+    "LANG": "DA",
+    "NAME": "Elfenbenskysten"
+  },
+  {
+    "COUNTRY_ISO2": "CI",
+    "LANG": "E",
+    "NAME": "Costa de Marfil"
+  },
+  {
+    "COUNTRY_ISO2": "CI",
+    "LANG": "F",
+    "NAME": "C�te d'Ivoire"
+  },
+  {
+    "COUNTRY_ISO2": "CI",
+    "LANG": "GB",
+    "NAME": "Ivory Coast"
+  },
+  {
+    "COUNTRY_ISO2": "CI",
+    "LANG": "I",
+    "NAME": "Costa d'Avorio"
+  },
+  {
+    "COUNTRY_ISO2": "CI",
+    "LANG": "NL",
+    "NAME": "Ivoorkust"
+  },
+  {
+    "COUNTRY_ISO2": "CI",
+    "LANG": "PL",
+    "NAME": "Wybrzeze Kosci Sloniowej"
+  },
+  {
+    "COUNTRY_ISO2": "CI",
+    "LANG": "PT",
+    "NAME": "Costa do Marfim"
+  },
+  {
+    "COUNTRY_ISO2": "CI",
+    "LANG": "T",
+    "NAME": "Fildisi Sahili"
+  },
+  {
+    "COUNTRY_ISO2": "CK",
+    "LANG": "D",
+    "NAME": "Cookinseln"
+  },
+  {
+    "COUNTRY_ISO2": "CK",
+    "LANG": "DA",
+    "NAME": "Cook �erne"
+  },
+  {
+    "COUNTRY_ISO2": "CK",
+    "LANG": "E",
+    "NAME": "Islas Cook"
+  },
+  {
+    "COUNTRY_ISO2": "CK",
+    "LANG": "F",
+    "NAME": "�les Cook"
+  },
+  {
+    "COUNTRY_ISO2": "CK",
+    "LANG": "GB",
+    "NAME": "Cook Islands"
+  },
+  {
+    "COUNTRY_ISO2": "CK",
+    "LANG": "I",
+    "NAME": "Isole Cook"
+  },
+  {
+    "COUNTRY_ISO2": "CK",
+    "LANG": "NL",
+    "NAME": "Cookeilanden"
+  },
+  {
+    "COUNTRY_ISO2": "CK",
+    "LANG": "PL",
+    "NAME": "Wyspy Cooka"
+  },
+  {
+    "COUNTRY_ISO2": "CK",
+    "LANG": "PT",
+    "NAME": "Ilhas Cook"
+  },
+  {
+    "COUNTRY_ISO2": "CK",
+    "LANG": "T",
+    "NAME": "Cook Adalari"
+  },
+  {
+    "COUNTRY_ISO2": "CL",
+    "LANG": "D",
+    "NAME": "Chile"
+  },
+  {
+    "COUNTRY_ISO2": "CL",
+    "LANG": "DA",
+    "NAME": "Chile"
+  },
+  {
+    "COUNTRY_ISO2": "CL",
+    "LANG": "E",
+    "NAME": "Chile"
+  },
+  {
+    "COUNTRY_ISO2": "CL",
+    "LANG": "F",
+    "NAME": "Chili"
+  },
+  {
+    "COUNTRY_ISO2": "CL",
+    "LANG": "GB",
+    "NAME": "Chile"
+  },
+  {
+    "COUNTRY_ISO2": "CL",
+    "LANG": "I",
+    "NAME": "Cile"
+  },
+  {
+    "COUNTRY_ISO2": "CL",
+    "LANG": "NL",
+    "NAME": "Chili"
+  },
+  {
+    "COUNTRY_ISO2": "CL",
+    "LANG": "PL",
+    "NAME": "Chile"
+  },
+  {
+    "COUNTRY_ISO2": "CL",
+    "LANG": "PT",
+    "NAME": "Chile"
+  },
+  {
+    "COUNTRY_ISO2": "CL",
+    "LANG": "T",
+    "NAME": "Sili"
+  },
+  {
+    "COUNTRY_ISO2": "CM",
+    "LANG": "D",
+    "NAME": "Kamerun"
+  },
+  {
+    "COUNTRY_ISO2": "CM",
+    "LANG": "DA",
+    "NAME": "Cameroun"
+  },
+  {
+    "COUNTRY_ISO2": "CM",
+    "LANG": "E",
+    "NAME": "Camerun"
+  },
+  {
+    "COUNTRY_ISO2": "CM",
+    "LANG": "F",
+    "NAME": "Cameroun"
+  },
+  {
+    "COUNTRY_ISO2": "CM",
+    "LANG": "GB",
+    "NAME": "Cameroon"
+  },
+  {
+    "COUNTRY_ISO2": "CM",
+    "LANG": "I",
+    "NAME": "Camerun"
+  },
+  {
+    "COUNTRY_ISO2": "CM",
+    "LANG": "NL",
+    "NAME": "Kameroen"
+  },
+  {
+    "COUNTRY_ISO2": "CM",
+    "LANG": "PL",
+    "NAME": "Kamerun"
+  },
+  {
+    "COUNTRY_ISO2": "CM",
+    "LANG": "PT",
+    "NAME": "Camar�es"
+  },
+  {
+    "COUNTRY_ISO2": "CM",
+    "LANG": "T",
+    "NAME": "Kamerun"
+  },
+  {
+    "COUNTRY_ISO2": "CN",
+    "LANG": "D",
+    "NAME": "China"
+  },
+  {
+    "COUNTRY_ISO2": "CN",
+    "LANG": "DA",
+    "NAME": "China"
+  },
+  {
+    "COUNTRY_ISO2": "CN",
+    "LANG": "E",
+    "NAME": "China"
+  },
+  {
+    "COUNTRY_ISO2": "CN",
+    "LANG": "F",
+    "NAME": "Chine"
+  },
+  {
+    "COUNTRY_ISO2": "CN",
+    "LANG": "GB",
+    "NAME": "China"
+  },
+  {
+    "COUNTRY_ISO2": "CN",
+    "LANG": "I",
+    "NAME": "Cina"
+  },
+  {
+    "COUNTRY_ISO2": "CN",
+    "LANG": "NL",
+    "NAME": "China"
+  },
+  {
+    "COUNTRY_ISO2": "CN",
+    "LANG": "PL",
+    "NAME": "Chiny"
+  },
+  {
+    "COUNTRY_ISO2": "CN",
+    "LANG": "PT",
+    "NAME": "China"
+  },
+  {
+    "COUNTRY_ISO2": "CN",
+    "LANG": "T",
+    "NAME": "�in"
+  },
+  {
+    "COUNTRY_ISO2": "CO",
+    "LANG": "D",
+    "NAME": "Kolumbien"
+  },
+  {
+    "COUNTRY_ISO2": "CO",
+    "LANG": "DA",
+    "NAME": "Colombia"
+  },
+  {
+    "COUNTRY_ISO2": "CO",
+    "LANG": "E",
+    "NAME": "Colombia"
+  },
+  {
+    "COUNTRY_ISO2": "CO",
+    "LANG": "F",
+    "NAME": "Colombie"
+  },
+  {
+    "COUNTRY_ISO2": "CO",
+    "LANG": "GB",
+    "NAME": "Colombia"
+  },
+  {
+    "COUNTRY_ISO2": "CO",
+    "LANG": "I",
+    "NAME": "Colombia"
+  },
+  {
+    "COUNTRY_ISO2": "CO",
+    "LANG": "NL",
+    "NAME": "Columbia"
+  },
+  {
+    "COUNTRY_ISO2": "CO",
+    "LANG": "PL",
+    "NAME": "Kolumbia"
+  },
+  {
+    "COUNTRY_ISO2": "CO",
+    "LANG": "PT",
+    "NAME": "Col�mbia"
+  },
+  {
+    "COUNTRY_ISO2": "CO",
+    "LANG": "T",
+    "NAME": "Kolombiya"
+  },
+  {
+    "COUNTRY_ISO2": "CR",
+    "LANG": "D",
+    "NAME": "Costa Rica"
+  },
+  {
+    "COUNTRY_ISO2": "CR",
+    "LANG": "DA",
+    "NAME": "Costa Rica"
+  },
+  {
+    "COUNTRY_ISO2": "CR",
+    "LANG": "E",
+    "NAME": "Costa Rica"
+  },
+  {
+    "COUNTRY_ISO2": "CR",
+    "LANG": "F",
+    "NAME": "Costa Rica"
+  },
+  {
+    "COUNTRY_ISO2": "CR",
+    "LANG": "GB",
+    "NAME": "Costa Rica"
+  },
+  {
+    "COUNTRY_ISO2": "CR",
+    "LANG": "I",
+    "NAME": "Costa Rica"
+  },
+  {
+    "COUNTRY_ISO2": "CR",
+    "LANG": "NL",
+    "NAME": "Costa Rica"
+  },
+  {
+    "COUNTRY_ISO2": "CR",
+    "LANG": "PL",
+    "NAME": "Kostaryka"
+  },
+  {
+    "COUNTRY_ISO2": "CR",
+    "LANG": "PT",
+    "NAME": "Costa Rica"
+  },
+  {
+    "COUNTRY_ISO2": "CR",
+    "LANG": "T",
+    "NAME": "Kosta Rika"
+  },
+  {
+    "COUNTRY_ISO2": "CU",
+    "LANG": "D",
+    "NAME": "Kuba"
+  },
+  {
+    "COUNTRY_ISO2": "CU",
+    "LANG": "DA",
+    "NAME": "Cuba"
+  },
+  {
+    "COUNTRY_ISO2": "CU",
+    "LANG": "E",
+    "NAME": "Cuba"
+  },
+  {
+    "COUNTRY_ISO2": "CU",
+    "LANG": "F",
+    "NAME": "Cuba"
+  },
+  {
+    "COUNTRY_ISO2": "CU",
+    "LANG": "GB",
+    "NAME": "Cuba"
+  },
+  {
+    "COUNTRY_ISO2": "CU",
+    "LANG": "I",
+    "NAME": "Cuba"
+  },
+  {
+    "COUNTRY_ISO2": "CU",
+    "LANG": "NL",
+    "NAME": "Cuba"
+  },
+  {
+    "COUNTRY_ISO2": "CU",
+    "LANG": "PL",
+    "NAME": "Kuba"
+  },
+  {
+    "COUNTRY_ISO2": "CU",
+    "LANG": "PT",
+    "NAME": "Cuba"
+  },
+  {
+    "COUNTRY_ISO2": "CU",
+    "LANG": "T",
+    "NAME": "K�ba"
+  },
+  {
+    "COUNTRY_ISO2": "CV",
+    "LANG": "D",
+    "NAME": "Kap Verde"
+  },
+  {
+    "COUNTRY_ISO2": "CV",
+    "LANG": "DA",
+    "NAME": "Kap Verde"
+  },
+  {
+    "COUNTRY_ISO2": "CV",
+    "LANG": "E",
+    "NAME": "Cabo Verde"
+  },
+  {
+    "COUNTRY_ISO2": "CV",
+    "LANG": "F",
+    "NAME": "Cap-Vert"
+  },
+  {
+    "COUNTRY_ISO2": "CV",
+    "LANG": "GB",
+    "NAME": "Cape Verde"
+  },
+  {
+    "COUNTRY_ISO2": "CV",
+    "LANG": "I",
+    "NAME": "Capo Verde"
+  },
+  {
+    "COUNTRY_ISO2": "CV",
+    "LANG": "NL",
+    "NAME": "Kaapverdi�"
+  },
+  {
+    "COUNTRY_ISO2": "CV",
+    "LANG": "PL",
+    "NAME": "Wyspy Zielonego Przyladka"
+  },
+  {
+    "COUNTRY_ISO2": "CV",
+    "LANG": "PT",
+    "NAME": "Cabo Verde"
+  },
+  {
+    "COUNTRY_ISO2": "CV",
+    "LANG": "T",
+    "NAME": "Kap Verde"
+  },
+  {
+    "COUNTRY_ISO2": "CX",
+    "LANG": "D",
+    "NAME": "Weihnachtsinsel"
+  },
+  {
+    "COUNTRY_ISO2": "CX",
+    "LANG": "DA",
+    "NAME": "Jule�en"
+  },
+  {
+    "COUNTRY_ISO2": "CX",
+    "LANG": "E",
+    "NAME": "Isla de Navidad"
+  },
+  {
+    "COUNTRY_ISO2": "CX",
+    "LANG": "F",
+    "NAME": "�le Christmas"
+  },
+  {
+    "COUNTRY_ISO2": "CX",
+    "LANG": "GB",
+    "NAME": "Christmas Island"
+  },
+  {
+    "COUNTRY_ISO2": "CX",
+    "LANG": "I",
+    "NAME": "Isola del Natale"
+  },
+  {
+    "COUNTRY_ISO2": "CX",
+    "LANG": "NL",
+    "NAME": "Christmaseiland"
+  },
+  {
+    "COUNTRY_ISO2": "CX",
+    "LANG": "PL",
+    "NAME": "Wyspa Bozego Narodzenia"
+  },
+  {
+    "COUNTRY_ISO2": "CX",
+    "LANG": "PT",
+    "NAME": "Ilha Christmas"
+  },
+  {
+    "COUNTRY_ISO2": "CX",
+    "LANG": "T",
+    "NAME": "Christmas Adasi"
+  },
+  {
+    "COUNTRY_ISO2": "CY",
+    "LANG": "D",
+    "NAME": "Zypern"
+  },
+  {
+    "COUNTRY_ISO2": "CY",
+    "LANG": "DA",
+    "NAME": "Cypern"
+  },
+  {
+    "COUNTRY_ISO2": "CY",
+    "LANG": "E",
+    "NAME": "Chipre"
+  },
+  {
+    "COUNTRY_ISO2": "CY",
+    "LANG": "F",
+    "NAME": "Chypre"
+  },
+  {
+    "COUNTRY_ISO2": "CY",
+    "LANG": "GB",
+    "NAME": "Cyprus"
+  },
+  {
+    "COUNTRY_ISO2": "CY",
+    "LANG": "I",
+    "NAME": "Cipro"
+  },
+  {
+    "COUNTRY_ISO2": "CY",
+    "LANG": "NL",
+    "NAME": "Cyprus"
+  },
+  {
+    "COUNTRY_ISO2": "CY",
+    "LANG": "PL",
+    "NAME": "Cypr"
+  },
+  {
+    "COUNTRY_ISO2": "CY",
+    "LANG": "PT",
+    "NAME": "Chipre"
+  },
+  {
+    "COUNTRY_ISO2": "CY",
+    "LANG": "T",
+    "NAME": "Kibris"
+  },
+  {
+    "COUNTRY_ISO2": "CZ",
+    "LANG": "D",
+    "NAME": "Tschechische Republik"
+  },
+  {
+    "COUNTRY_ISO2": "CZ",
+    "LANG": "DA",
+    "NAME": "Tjekkiet"
+  },
+  {
+    "COUNTRY_ISO2": "CZ",
+    "LANG": "E",
+    "NAME": "Rep�blica Checa"
+  },
+  {
+    "COUNTRY_ISO2": "CZ",
+    "LANG": "F",
+    "NAME": "R�publique tch�que"
+  },
+  {
+    "COUNTRY_ISO2": "CZ",
+    "LANG": "GB",
+    "NAME": "Czech Republic"
+  },
+  {
+    "COUNTRY_ISO2": "CZ",
+    "LANG": "I",
+    "NAME": "Repubblica Ceca"
+  },
+  {
+    "COUNTRY_ISO2": "CZ",
+    "LANG": "NL",
+    "NAME": "Tsjechi�"
+  },
+  {
+    "COUNTRY_ISO2": "CZ",
+    "LANG": "PL",
+    "NAME": "Czechy"
+  },
+  {
+    "COUNTRY_ISO2": "CZ",
+    "LANG": "PT",
+    "NAME": "Rep�blica Checa"
+  },
+  {
+    "COUNTRY_ISO2": "CZ",
+    "LANG": "T",
+    "NAME": "�ek Cumhuriyeti"
+  },
+  {
+    "COUNTRY_ISO2": "DE",
+    "LANG": "D",
+    "NAME": "Deutschland"
+  },
+  {
+    "COUNTRY_ISO2": "DE",
+    "LANG": "DA",
+    "NAME": "Tyskland"
+  },
+  {
+    "COUNTRY_ISO2": "DE",
+    "LANG": "E",
+    "NAME": "Alemania"
+  },
+  {
+    "COUNTRY_ISO2": "DE",
+    "LANG": "F",
+    "NAME": "Allemagne"
+  },
+  {
+    "COUNTRY_ISO2": "DE",
+    "LANG": "GB",
+    "NAME": "Germany"
+  },
+  {
+    "COUNTRY_ISO2": "DE",
+    "LANG": "I",
+    "NAME": "Germania"
+  },
+  {
+    "COUNTRY_ISO2": "DE",
+    "LANG": "NL",
+    "NAME": "Duitsland"
+  },
+  {
+    "COUNTRY_ISO2": "DE",
+    "LANG": "PL",
+    "NAME": "Niemcy"
+  },
+  {
+    "COUNTRY_ISO2": "DE",
+    "LANG": "PT",
+    "NAME": "Alemanha"
+  },
+  {
+    "COUNTRY_ISO2": "DE",
+    "LANG": "T",
+    "NAME": "Almanya"
+  },
+  {
+    "COUNTRY_ISO2": "DJ",
+    "LANG": "D",
+    "NAME": "Dschibuti"
+  },
+  {
+    "COUNTRY_ISO2": "DJ",
+    "LANG": "DA",
+    "NAME": "Djibouti"
+  },
+  {
+    "COUNTRY_ISO2": "DJ",
+    "LANG": "E",
+    "NAME": "Yibuti"
+  },
+  {
+    "COUNTRY_ISO2": "DJ",
+    "LANG": "F",
+    "NAME": "Djibouti"
+  },
+  {
+    "COUNTRY_ISO2": "DJ",
+    "LANG": "GB",
+    "NAME": "Djibouti"
+  },
+  {
+    "COUNTRY_ISO2": "DJ",
+    "LANG": "I",
+    "NAME": "Gibuti"
+  },
+  {
+    "COUNTRY_ISO2": "DJ",
+    "LANG": "NL",
+    "NAME": "Djibouti"
+  },
+  {
+    "COUNTRY_ISO2": "DJ",
+    "LANG": "PL",
+    "NAME": "Dzibuti"
+  },
+  {
+    "COUNTRY_ISO2": "DJ",
+    "LANG": "PT",
+    "NAME": "Djibuti"
+  },
+  {
+    "COUNTRY_ISO2": "DJ",
+    "LANG": "T",
+    "NAME": "Cibuti"
+  },
+  {
+    "COUNTRY_ISO2": "DK",
+    "LANG": "D",
+    "NAME": "D�nemark"
+  },
+  {
+    "COUNTRY_ISO2": "DK",
+    "LANG": "DA",
+    "NAME": "Danmark"
+  },
+  {
+    "COUNTRY_ISO2": "DK",
+    "LANG": "E",
+    "NAME": "Dinamarca"
+  },
+  {
+    "COUNTRY_ISO2": "DK",
+    "LANG": "F",
+    "NAME": "Danemark"
+  },
+  {
+    "COUNTRY_ISO2": "DK",
+    "LANG": "GB",
+    "NAME": "Denmark"
+  },
+  {
+    "COUNTRY_ISO2": "DK",
+    "LANG": "I",
+    "NAME": "Danimarca"
+  },
+  {
+    "COUNTRY_ISO2": "DK",
+    "LANG": "NL",
+    "NAME": "Denemarken"
+  },
+  {
+    "COUNTRY_ISO2": "DK",
+    "LANG": "PL",
+    "NAME": "Dania"
+  },
+  {
+    "COUNTRY_ISO2": "DK",
+    "LANG": "PT",
+    "NAME": "Dinamarca"
+  },
+  {
+    "COUNTRY_ISO2": "DK",
+    "LANG": "T",
+    "NAME": "Danimarka"
+  },
+  {
+    "COUNTRY_ISO2": "DM",
+    "LANG": "D",
+    "NAME": "Dominica"
+  },
+  {
+    "COUNTRY_ISO2": "DM",
+    "LANG": "DA",
+    "NAME": "Dominica"
+  },
+  {
+    "COUNTRY_ISO2": "DM",
+    "LANG": "E",
+    "NAME": "Dominica"
+  },
+  {
+    "COUNTRY_ISO2": "DM",
+    "LANG": "F",
+    "NAME": "Dominique"
+  },
+  {
+    "COUNTRY_ISO2": "DM",
+    "LANG": "GB",
+    "NAME": "Dominica"
+  },
+  {
+    "COUNTRY_ISO2": "DM",
+    "LANG": "I",
+    "NAME": "Dominica"
+  },
+  {
+    "COUNTRY_ISO2": "DM",
+    "LANG": "NL",
+    "NAME": "Dominica"
+  },
+  {
+    "COUNTRY_ISO2": "DM",
+    "LANG": "PL",
+    "NAME": "Dominika"
+  },
+  {
+    "COUNTRY_ISO2": "DM",
+    "LANG": "PT",
+    "NAME": "Dominica"
+  },
+  {
+    "COUNTRY_ISO2": "DM",
+    "LANG": "T",
+    "NAME": "Dominik"
+  },
+  {
+    "COUNTRY_ISO2": "DO",
+    "LANG": "D",
+    "NAME": "Dominikanische Republik"
+  },
+  {
+    "COUNTRY_ISO2": "DO",
+    "LANG": "DA",
+    "NAME": "Dominikanske Republik"
+  },
+  {
+    "COUNTRY_ISO2": "DO",
+    "LANG": "E",
+    "NAME": "Rep�blica Dominicana"
+  },
+  {
+    "COUNTRY_ISO2": "DO",
+    "LANG": "F",
+    "NAME": "R�publique dominicaine"
+  },
+  {
+    "COUNTRY_ISO2": "DO",
+    "LANG": "GB",
+    "NAME": "Dominican Republic"
+  },
+  {
+    "COUNTRY_ISO2": "DO",
+    "LANG": "I",
+    "NAME": "Repubblica Dominicana"
+  },
+  {
+    "COUNTRY_ISO2": "DO",
+    "LANG": "NL",
+    "NAME": "Dominicaanse Republiek"
+  },
+  {
+    "COUNTRY_ISO2": "DO",
+    "LANG": "PL",
+    "NAME": "Republika Dominikanska"
+  },
+  {
+    "COUNTRY_ISO2": "DO",
+    "LANG": "PT",
+    "NAME": "Rep�blica Dominicana"
+  },
+  {
+    "COUNTRY_ISO2": "DO",
+    "LANG": "T",
+    "NAME": "Dominik Cumhuriyeti"
+  },
+  {
+    "COUNTRY_ISO2": "DZ",
+    "LANG": "D",
+    "NAME": "Algerien"
+  },
+  {
+    "COUNTRY_ISO2": "DZ",
+    "LANG": "DA",
+    "NAME": "Algeriet"
+  },
+  {
+    "COUNTRY_ISO2": "DZ",
+    "LANG": "E",
+    "NAME": "Argelia"
+  },
+  {
+    "COUNTRY_ISO2": "DZ",
+    "LANG": "F",
+    "NAME": "Alg�rie"
+  },
+  {
+    "COUNTRY_ISO2": "DZ",
+    "LANG": "GB",
+    "NAME": "Algeria"
+  },
+  {
+    "COUNTRY_ISO2": "DZ",
+    "LANG": "I",
+    "NAME": "Algeria"
+  },
+  {
+    "COUNTRY_ISO2": "DZ",
+    "LANG": "NL",
+    "NAME": "Algerije"
+  },
+  {
+    "COUNTRY_ISO2": "DZ",
+    "LANG": "PL",
+    "NAME": "Algieria"
+  },
+  {
+    "COUNTRY_ISO2": "DZ",
+    "LANG": "PT",
+    "NAME": "Alg�ria"
+  },
+  {
+    "COUNTRY_ISO2": "DZ",
+    "LANG": "T",
+    "NAME": "Cezayir"
+  },
+  {
+    "COUNTRY_ISO2": "EC",
+    "LANG": "D",
+    "NAME": "Ecuador"
+  },
+  {
+    "COUNTRY_ISO2": "EC",
+    "LANG": "DA",
+    "NAME": "Ecuador"
+  },
+  {
+    "COUNTRY_ISO2": "EC",
+    "LANG": "E",
+    "NAME": "Ecuador"
+  },
+  {
+    "COUNTRY_ISO2": "EC",
+    "LANG": "F",
+    "NAME": "�quateur"
+  },
+  {
+    "COUNTRY_ISO2": "EC",
+    "LANG": "GB",
+    "NAME": "Ecuador"
+  },
+  {
+    "COUNTRY_ISO2": "EC",
+    "LANG": "I",
+    "NAME": "Ecuador"
+  },
+  {
+    "COUNTRY_ISO2": "EC",
+    "LANG": "NL",
+    "NAME": "Ecuador"
+  },
+  {
+    "COUNTRY_ISO2": "EC",
+    "LANG": "PL",
+    "NAME": "Ekwador"
+  },
+  {
+    "COUNTRY_ISO2": "EC",
+    "LANG": "PT",
+    "NAME": "Equador"
+  },
+  {
+    "COUNTRY_ISO2": "EC",
+    "LANG": "T",
+    "NAME": "Ekvador"
+  },
+  {
+    "COUNTRY_ISO2": "EE",
+    "LANG": "D",
+    "NAME": "Estland"
+  },
+  {
+    "COUNTRY_ISO2": "EE",
+    "LANG": "DA",
+    "NAME": "Estland"
+  },
+  {
+    "COUNTRY_ISO2": "EE",
+    "LANG": "E",
+    "NAME": "Estonia"
+  },
+  {
+    "COUNTRY_ISO2": "EE",
+    "LANG": "F",
+    "NAME": "Estonie"
+  },
+  {
+    "COUNTRY_ISO2": "EE",
+    "LANG": "GB",
+    "NAME": "Estonia"
+  },
+  {
+    "COUNTRY_ISO2": "EE",
+    "LANG": "I",
+    "NAME": "Estonia"
+  },
+  {
+    "COUNTRY_ISO2": "EE",
+    "LANG": "NL",
+    "NAME": "Estland"
+  },
+  {
+    "COUNTRY_ISO2": "EE",
+    "LANG": "PL",
+    "NAME": "Estonia"
+  },
+  {
+    "COUNTRY_ISO2": "EE",
+    "LANG": "PT",
+    "NAME": "Est�nia"
+  },
+  {
+    "COUNTRY_ISO2": "EE",
+    "LANG": "T",
+    "NAME": "Estonya"
+  },
+  {
+    "COUNTRY_ISO2": "EG",
+    "LANG": "D",
+    "NAME": "�gypten"
+  },
+  {
+    "COUNTRY_ISO2": "EG",
+    "LANG": "DA",
+    "NAME": "Aegypten"
+  },
+  {
+    "COUNTRY_ISO2": "EG",
+    "LANG": "E",
+    "NAME": "Egipto"
+  },
+  {
+    "COUNTRY_ISO2": "EG",
+    "LANG": "F",
+    "NAME": "�gypte"
+  },
+  {
+    "COUNTRY_ISO2": "EG",
+    "LANG": "GB",
+    "NAME": "Egypt"
+  },
+  {
+    "COUNTRY_ISO2": "EG",
+    "LANG": "I",
+    "NAME": "Egitto"
+  },
+  {
+    "COUNTRY_ISO2": "EG",
+    "LANG": "NL",
+    "NAME": "Egypte"
+  },
+  {
+    "COUNTRY_ISO2": "EG",
+    "LANG": "PL",
+    "NAME": "Egipt"
+  },
+  {
+    "COUNTRY_ISO2": "EG",
+    "LANG": "PT",
+    "NAME": "Egipto"
+  },
+  {
+    "COUNTRY_ISO2": "EG",
+    "LANG": "T",
+    "NAME": "Misir"
+  },
+  {
+    "COUNTRY_ISO2": "ER",
+    "LANG": "D",
+    "NAME": "Eritrea"
+  },
+  {
+    "COUNTRY_ISO2": "ES",
+    "LANG": "D",
+    "NAME": "Spanien"
+  },
+  {
+    "COUNTRY_ISO2": "ES",
+    "LANG": "DA",
+    "NAME": "Spanien"
+  },
+  {
+    "COUNTRY_ISO2": "ES",
+    "LANG": "E",
+    "NAME": "Espa�a"
+  },
+  {
+    "COUNTRY_ISO2": "ES",
+    "LANG": "F",
+    "NAME": "Espagne"
+  },
+  {
+    "COUNTRY_ISO2": "ES",
+    "LANG": "GB",
+    "NAME": "Spain"
+  },
+  {
+    "COUNTRY_ISO2": "ES",
+    "LANG": "I",
+    "NAME": "Spagna"
+  },
+  {
+    "COUNTRY_ISO2": "ES",
+    "LANG": "NL",
+    "NAME": "Spanje"
+  },
+  {
+    "COUNTRY_ISO2": "ES",
+    "LANG": "PL",
+    "NAME": "Hiszpania"
+  },
+  {
+    "COUNTRY_ISO2": "ES",
+    "LANG": "PT",
+    "NAME": "Espanha"
+  },
+  {
+    "COUNTRY_ISO2": "ES",
+    "LANG": "T",
+    "NAME": "Espanya"
+  },
+  {
+    "COUNTRY_ISO2": "ET",
+    "LANG": "D",
+    "NAME": "�thiopien"
+  },
+  {
+    "COUNTRY_ISO2": "ET",
+    "LANG": "DA",
+    "NAME": "Etiopien"
+  },
+  {
+    "COUNTRY_ISO2": "ET",
+    "LANG": "E",
+    "NAME": "Etiopia"
+  },
+  {
+    "COUNTRY_ISO2": "ET",
+    "LANG": "F",
+    "NAME": "�thiopie"
+  },
+  {
+    "COUNTRY_ISO2": "ET",
+    "LANG": "GB",
+    "NAME": "Ethiopia"
+  },
+  {
+    "COUNTRY_ISO2": "ET",
+    "LANG": "I",
+    "NAME": "Etiopia"
+  },
+  {
+    "COUNTRY_ISO2": "ET",
+    "LANG": "NL",
+    "NAME": "Ethiopi�"
+  },
+  {
+    "COUNTRY_ISO2": "ET",
+    "LANG": "PL",
+    "NAME": "Etiopia"
+  },
+  {
+    "COUNTRY_ISO2": "ET",
+    "LANG": "PT",
+    "NAME": "Eti�pia"
+  },
+  {
+    "COUNTRY_ISO2": "ET",
+    "LANG": "T",
+    "NAME": "Etyopya"
+  },
+  {
+    "COUNTRY_ISO2": "FI",
+    "LANG": "D",
+    "NAME": "Finnland"
+  },
+  {
+    "COUNTRY_ISO2": "FI",
+    "LANG": "DA",
+    "NAME": "Finland"
+  },
+  {
+    "COUNTRY_ISO2": "FI",
+    "LANG": "E",
+    "NAME": "Finlanda"
+  },
+  {
+    "COUNTRY_ISO2": "FI",
+    "LANG": "F",
+    "NAME": "Finlande"
+  },
+  {
+    "COUNTRY_ISO2": "FI",
+    "LANG": "GB",
+    "NAME": "Finland"
+  },
+  {
+    "COUNTRY_ISO2": "FI",
+    "LANG": "I",
+    "NAME": "Finlandia"
+  },
+  {
+    "COUNTRY_ISO2": "FI",
+    "LANG": "NL",
+    "NAME": "Finland"
+  },
+  {
+    "COUNTRY_ISO2": "FI",
+    "LANG": "PL",
+    "NAME": "Finlandia"
+  },
+  {
+    "COUNTRY_ISO2": "FI",
+    "LANG": "PT",
+    "NAME": "Finl�ndia"
+  },
+  {
+    "COUNTRY_ISO2": "FI",
+    "LANG": "T",
+    "NAME": "Finlandiya"
+  },
+  {
+    "COUNTRY_ISO2": "FJ",
+    "LANG": "D",
+    "NAME": "Fidschi"
+  },
+  {
+    "COUNTRY_ISO2": "FJ",
+    "LANG": "DA",
+    "NAME": "Fiji"
+  },
+  {
+    "COUNTRY_ISO2": "FJ",
+    "LANG": "E",
+    "NAME": "Fiji"
+  },
+  {
+    "COUNTRY_ISO2": "FJ",
+    "LANG": "F",
+    "NAME": "�les Fidji"
+  },
+  {
+    "COUNTRY_ISO2": "FJ",
+    "LANG": "GB",
+    "NAME": "Fiji"
+  },
+  {
+    "COUNTRY_ISO2": "FJ",
+    "LANG": "I",
+    "NAME": "Figi"
+  },
+  {
+    "COUNTRY_ISO2": "FJ",
+    "LANG": "NL",
+    "NAME": "Fiji"
+  },
+  {
+    "COUNTRY_ISO2": "FJ",
+    "LANG": "PL",
+    "NAME": "Fidzi"
+  },
+  {
+    "COUNTRY_ISO2": "FJ",
+    "LANG": "PT",
+    "NAME": "Fiji"
+  },
+  {
+    "COUNTRY_ISO2": "FJ",
+    "LANG": "T",
+    "NAME": "Fiji"
+  },
+  {
+    "COUNTRY_ISO2": "FK",
+    "LANG": "D",
+    "NAME": "Falklandinseln"
+  },
+  {
+    "COUNTRY_ISO2": "FK",
+    "LANG": "DA",
+    "NAME": "Falklands�erne"
+  },
+  {
+    "COUNTRY_ISO2": "FK",
+    "LANG": "E",
+    "NAME": "Islas Malvinas"
+  },
+  {
+    "COUNTRY_ISO2": "FK",
+    "LANG": "F",
+    "NAME": "�les Malouines"
+  },
+  {
+    "COUNTRY_ISO2": "FK",
+    "LANG": "GB",
+    "NAME": "Falkland Islands"
+  },
+  {
+    "COUNTRY_ISO2": "FK",
+    "LANG": "I",
+    "NAME": "Isole Falkland"
+  },
+  {
+    "COUNTRY_ISO2": "FK",
+    "LANG": "NL",
+    "NAME": "Falklandeilanden"
+  },
+  {
+    "COUNTRY_ISO2": "FK",
+    "LANG": "PL",
+    "NAME": "Falklandy"
+  },
+  {
+    "COUNTRY_ISO2": "FK",
+    "LANG": "PT",
+    "NAME": "Ilhas Falkland"
+  },
+  {
+    "COUNTRY_ISO2": "FK",
+    "LANG": "T",
+    "NAME": "Falkland Adalari"
+  },
+  {
+    "COUNTRY_ISO2": "FO",
+    "LANG": "D",
+    "NAME": "Far�er"
+  },
+  {
+    "COUNTRY_ISO2": "FO",
+    "LANG": "DA",
+    "NAME": "F�r�erne"
+  },
+  {
+    "COUNTRY_ISO2": "FO",
+    "LANG": "E",
+    "NAME": "Islas Faroer"
+  },
+  {
+    "COUNTRY_ISO2": "FO",
+    "LANG": "F",
+    "NAME": "�les F�ro�"
+  },
+  {
+    "COUNTRY_ISO2": "FO",
+    "LANG": "GB",
+    "NAME": "Faroe Islands"
+  },
+  {
+    "COUNTRY_ISO2": "FO",
+    "LANG": "I",
+    "NAME": "Isole Faroer"
+  },
+  {
+    "COUNTRY_ISO2": "FO",
+    "LANG": "NL",
+    "NAME": "Faer�er"
+  },
+  {
+    "COUNTRY_ISO2": "FO",
+    "LANG": "PL",
+    "NAME": "Wyspy Owcze"
+  },
+  {
+    "COUNTRY_ISO2": "FO",
+    "LANG": "PT",
+    "NAME": "Ilhas Faroe"
+  },
+  {
+    "COUNTRY_ISO2": "FO",
+    "LANG": "T",
+    "NAME": "Faroe Adalari"
+  },
+  {
+    "COUNTRY_ISO2": "FR",
+    "LANG": "D",
+    "NAME": "Frankreich"
+  },
+  {
+    "COUNTRY_ISO2": "FR",
+    "LANG": "DA",
+    "NAME": "Frankrig"
+  },
+  {
+    "COUNTRY_ISO2": "FR",
+    "LANG": "E",
+    "NAME": "Francia"
+  },
+  {
+    "COUNTRY_ISO2": "FR",
+    "LANG": "F",
+    "NAME": "France"
+  },
+  {
+    "COUNTRY_ISO2": "FR",
+    "LANG": "GB",
+    "NAME": "France"
+  },
+  {
+    "COUNTRY_ISO2": "FR",
+    "LANG": "I",
+    "NAME": "Francia"
+  },
+  {
+    "COUNTRY_ISO2": "FR",
+    "LANG": "NL",
+    "NAME": "Frankrijk"
+  },
+  {
+    "COUNTRY_ISO2": "FR",
+    "LANG": "PL",
+    "NAME": "Francja"
+  },
+  {
+    "COUNTRY_ISO2": "FR",
+    "LANG": "PT",
+    "NAME": "Fran�a"
+  },
+  {
+    "COUNTRY_ISO2": "FR",
+    "LANG": "T",
+    "NAME": "Fransa"
+  },
+  {
+    "COUNTRY_ISO2": "GA",
+    "LANG": "D",
+    "NAME": "Gabun"
+  },
+  {
+    "COUNTRY_ISO2": "GA",
+    "LANG": "DA",
+    "NAME": "Gabon"
+  },
+  {
+    "COUNTRY_ISO2": "GA",
+    "LANG": "E",
+    "NAME": "Gabon"
+  },
+  {
+    "COUNTRY_ISO2": "GA",
+    "LANG": "F",
+    "NAME": "Gabon"
+  },
+  {
+    "COUNTRY_ISO2": "GA",
+    "LANG": "GB",
+    "NAME": "Gabon"
+  },
+  {
+    "COUNTRY_ISO2": "GA",
+    "LANG": "I",
+    "NAME": "Gabon"
+  },
+  {
+    "COUNTRY_ISO2": "GA",
+    "LANG": "NL",
+    "NAME": "Gabon"
+  },
+  {
+    "COUNTRY_ISO2": "GA",
+    "LANG": "PL",
+    "NAME": "Gabon"
+  },
+  {
+    "COUNTRY_ISO2": "GA",
+    "LANG": "PT",
+    "NAME": "Gab�o"
+  },
+  {
+    "COUNTRY_ISO2": "GA",
+    "LANG": "T",
+    "NAME": "Gabun"
+  },
+  {
+    "COUNTRY_ISO2": "GB",
+    "LANG": "D",
+    "NAME": "Grossbritannien"
+  },
+  {
+    "COUNTRY_ISO2": "GB",
+    "LANG": "DA",
+    "NAME": "Storbritannien"
+  },
+  {
+    "COUNTRY_ISO2": "GB",
+    "LANG": "E",
+    "NAME": "Reino Unido"
+  },
+  {
+    "COUNTRY_ISO2": "GB",
+    "LANG": "F",
+    "NAME": "Royaume-Uni"
+  },
+  {
+    "COUNTRY_ISO2": "GB",
+    "LANG": "GB",
+    "NAME": "United Kingdom"
+  },
+  {
+    "COUNTRY_ISO2": "GB",
+    "LANG": "I",
+    "NAME": "Regno Unito"
+  },
+  {
+    "COUNTRY_ISO2": "GB",
+    "LANG": "NL",
+    "NAME": "Verenigd Koninkrijk"
+  },
+  {
+    "COUNTRY_ISO2": "GB",
+    "LANG": "PL",
+    "NAME": "Zjednoczone Kr�lestwo"
+  },
+  {
+    "COUNTRY_ISO2": "GB",
+    "LANG": "PT",
+    "NAME": "Reino Unido"
+  },
+  {
+    "COUNTRY_ISO2": "GB",
+    "LANG": "T",
+    "NAME": "Birlesik Krallik"
+  },
+  {
+    "COUNTRY_ISO2": "GD",
+    "LANG": "D",
+    "NAME": "Grenada"
+  },
+  {
+    "COUNTRY_ISO2": "GD",
+    "LANG": "DA",
+    "NAME": "Grenada"
+  },
+  {
+    "COUNTRY_ISO2": "GD",
+    "LANG": "E",
+    "NAME": "Grenada"
+  },
+  {
+    "COUNTRY_ISO2": "GD",
+    "LANG": "F",
+    "NAME": "Grenade"
+  },
+  {
+    "COUNTRY_ISO2": "GD",
+    "LANG": "GB",
+    "NAME": "Grenada"
+  },
+  {
+    "COUNTRY_ISO2": "GD",
+    "LANG": "I",
+    "NAME": "Grenada"
+  },
+  {
+    "COUNTRY_ISO2": "GD",
+    "LANG": "NL",
+    "NAME": "Grenada"
+  },
+  {
+    "COUNTRY_ISO2": "GD",
+    "LANG": "PL",
+    "NAME": "Grenada"
+  },
+  {
+    "COUNTRY_ISO2": "GD",
+    "LANG": "PT",
+    "NAME": "Grenada"
+  },
+  {
+    "COUNTRY_ISO2": "GD",
+    "LANG": "T",
+    "NAME": "Granada"
+  },
+  {
+    "COUNTRY_ISO2": "GE",
+    "LANG": "D",
+    "NAME": "Georgien"
+  },
+  {
+    "COUNTRY_ISO2": "GE",
+    "LANG": "DA",
+    "NAME": "Georgien"
+  },
+  {
+    "COUNTRY_ISO2": "GE",
+    "LANG": "E",
+    "NAME": "Georgia"
+  },
+  {
+    "COUNTRY_ISO2": "GE",
+    "LANG": "F",
+    "NAME": "G�orgie"
+  },
+  {
+    "COUNTRY_ISO2": "GE",
+    "LANG": "GB",
+    "NAME": "Georgia"
+  },
+  {
+    "COUNTRY_ISO2": "GE",
+    "LANG": "I",
+    "NAME": "Georgia"
+  },
+  {
+    "COUNTRY_ISO2": "GE",
+    "LANG": "NL",
+    "NAME": "Georgi�"
+  },
+  {
+    "COUNTRY_ISO2": "GE",
+    "LANG": "PL",
+    "NAME": "Gruzja"
+  },
+  {
+    "COUNTRY_ISO2": "GE",
+    "LANG": "PT",
+    "NAME": "Ge�rgia"
+  },
+  {
+    "COUNTRY_ISO2": "GE",
+    "LANG": "T",
+    "NAME": "G�rcistan"
+  },
+  {
+    "COUNTRY_ISO2": "GF",
+    "LANG": "D",
+    "NAME": "Franz�sisch-Guayana"
+  },
+  {
+    "COUNTRY_ISO2": "GF",
+    "LANG": "DA",
+    "NAME": "Fransk Guyana"
+  },
+  {
+    "COUNTRY_ISO2": "GF",
+    "LANG": "E",
+    "NAME": "Guinea Francesa"
+  },
+  {
+    "COUNTRY_ISO2": "GF",
+    "LANG": "F",
+    "NAME": "Guyane fran�aise"
+  },
+  {
+    "COUNTRY_ISO2": "GF",
+    "LANG": "GB",
+    "NAME": "French Guiana"
+  },
+  {
+    "COUNTRY_ISO2": "GF",
+    "LANG": "I",
+    "NAME": "Guyana francese"
+  },
+  {
+    "COUNTRY_ISO2": "GF",
+    "LANG": "NL",
+    "NAME": "Frans-Guyana"
+  },
+  {
+    "COUNTRY_ISO2": "GF",
+    "LANG": "PL",
+    "NAME": "Gujana Francuska"
+  },
+  {
+    "COUNTRY_ISO2": "GF",
+    "LANG": "PT",
+    "NAME": "Guiana Francesa"
+  },
+  {
+    "COUNTRY_ISO2": "GF",
+    "LANG": "T",
+    "NAME": "Fransiz Guayana"
+  },
+  {
+    "COUNTRY_ISO2": "GH",
+    "LANG": "D",
+    "NAME": "Ghana"
+  },
+  {
+    "COUNTRY_ISO2": "GH",
+    "LANG": "DA",
+    "NAME": "Ghana"
+  },
+  {
+    "COUNTRY_ISO2": "GH",
+    "LANG": "E",
+    "NAME": "Ghana"
+  },
+  {
+    "COUNTRY_ISO2": "GH",
+    "LANG": "F",
+    "NAME": "Ghana"
+  },
+  {
+    "COUNTRY_ISO2": "GH",
+    "LANG": "GB",
+    "NAME": "Ghana"
+  },
+  {
+    "COUNTRY_ISO2": "GH",
+    "LANG": "I",
+    "NAME": "Ghana"
+  },
+  {
+    "COUNTRY_ISO2": "GH",
+    "LANG": "NL",
+    "NAME": "Ghana"
+  },
+  {
+    "COUNTRY_ISO2": "GH",
+    "LANG": "PL",
+    "NAME": "Ghana"
+  },
+  {
+    "COUNTRY_ISO2": "GH",
+    "LANG": "PT",
+    "NAME": "Gana"
+  },
+  {
+    "COUNTRY_ISO2": "GH",
+    "LANG": "T",
+    "NAME": "Gana"
+  },
+  {
+    "COUNTRY_ISO2": "GI",
+    "LANG": "D",
+    "NAME": "Gibraltar"
+  },
+  {
+    "COUNTRY_ISO2": "GI",
+    "LANG": "DA",
+    "NAME": "Gibraltar"
+  },
+  {
+    "COUNTRY_ISO2": "GI",
+    "LANG": "E",
+    "NAME": "Gibraltar"
+  },
+  {
+    "COUNTRY_ISO2": "GI",
+    "LANG": "F",
+    "NAME": "Gibraltar"
+  },
+  {
+    "COUNTRY_ISO2": "GI",
+    "LANG": "GB",
+    "NAME": "Gibraltar"
+  },
+  {
+    "COUNTRY_ISO2": "GI",
+    "LANG": "I",
+    "NAME": "Gibilterra"
+  },
+  {
+    "COUNTRY_ISO2": "GI",
+    "LANG": "NL",
+    "NAME": "Gibraltar"
+  },
+  {
+    "COUNTRY_ISO2": "GI",
+    "LANG": "PL",
+    "NAME": "Gibraltar"
+  },
+  {
+    "COUNTRY_ISO2": "GI",
+    "LANG": "PT",
+    "NAME": "Gibraltar"
+  },
+  {
+    "COUNTRY_ISO2": "GI",
+    "LANG": "T",
+    "NAME": "Cebelitarik"
+  },
+  {
+    "COUNTRY_ISO2": "GL",
+    "LANG": "D",
+    "NAME": "Gr�nland"
+  },
+  {
+    "COUNTRY_ISO2": "GL",
+    "LANG": "DA",
+    "NAME": "Gr�nland"
+  },
+  {
+    "COUNTRY_ISO2": "GL",
+    "LANG": "E",
+    "NAME": "Groenlandia"
+  },
+  {
+    "COUNTRY_ISO2": "GL",
+    "LANG": "F",
+    "NAME": "Groenland"
+  },
+  {
+    "COUNTRY_ISO2": "GL",
+    "LANG": "GB",
+    "NAME": "Greenland"
+  },
+  {
+    "COUNTRY_ISO2": "GL",
+    "LANG": "I",
+    "NAME": "Groenlandia"
+  },
+  {
+    "COUNTRY_ISO2": "GL",
+    "LANG": "NL",
+    "NAME": "Groenland"
+  },
+  {
+    "COUNTRY_ISO2": "GL",
+    "LANG": "PL",
+    "NAME": "Grenlandia"
+  },
+  {
+    "COUNTRY_ISO2": "GL",
+    "LANG": "PT",
+    "NAME": "Gronel�ndia"
+  },
+  {
+    "COUNTRY_ISO2": "GL",
+    "LANG": "T",
+    "NAME": "Gr�nland"
+  },
+  {
+    "COUNTRY_ISO2": "GM",
+    "LANG": "D",
+    "NAME": "Gambia"
+  },
+  {
+    "COUNTRY_ISO2": "GM",
+    "LANG": "DA",
+    "NAME": "Gambia"
+  },
+  {
+    "COUNTRY_ISO2": "GM",
+    "LANG": "E",
+    "NAME": "Gambia"
+  },
+  {
+    "COUNTRY_ISO2": "GM",
+    "LANG": "F",
+    "NAME": "Gambie"
+  },
+  {
+    "COUNTRY_ISO2": "GM",
+    "LANG": "GB",
+    "NAME": "Gambia"
+  },
+  {
+    "COUNTRY_ISO2": "GM",
+    "LANG": "I",
+    "NAME": "Gambia"
+  },
+  {
+    "COUNTRY_ISO2": "GM",
+    "LANG": "NL",
+    "NAME": "Gambia"
+  },
+  {
+    "COUNTRY_ISO2": "GM",
+    "LANG": "PL",
+    "NAME": "Gambia"
+  },
+  {
+    "COUNTRY_ISO2": "GM",
+    "LANG": "PT",
+    "NAME": "G�mbia"
+  },
+  {
+    "COUNTRY_ISO2": "GM",
+    "LANG": "T",
+    "NAME": "Gambiya"
+  },
+  {
+    "COUNTRY_ISO2": "GN",
+    "LANG": "D",
+    "NAME": "Guinea"
+  },
+  {
+    "COUNTRY_ISO2": "GN",
+    "LANG": "DA",
+    "NAME": "Guinea"
+  },
+  {
+    "COUNTRY_ISO2": "GN",
+    "LANG": "E",
+    "NAME": "Guinea"
+  },
+  {
+    "COUNTRY_ISO2": "GN",
+    "LANG": "F",
+    "NAME": "Guin�e"
+  },
+  {
+    "COUNTRY_ISO2": "GN",
+    "LANG": "GB",
+    "NAME": "Guinea"
+  },
+  {
+    "COUNTRY_ISO2": "GN",
+    "LANG": "I",
+    "NAME": "Guinea"
+  },
+  {
+    "COUNTRY_ISO2": "GN",
+    "LANG": "NL",
+    "NAME": "Guinee"
+  },
+  {
+    "COUNTRY_ISO2": "GN",
+    "LANG": "PL",
+    "NAME": "Gwinea"
+  },
+  {
+    "COUNTRY_ISO2": "GN",
+    "LANG": "PT",
+    "NAME": "Guin�"
+  },
+  {
+    "COUNTRY_ISO2": "GN",
+    "LANG": "T",
+    "NAME": "Gine"
+  },
+  {
+    "COUNTRY_ISO2": "GP",
+    "LANG": "D",
+    "NAME": "Guadeloupe"
+  },
+  {
+    "COUNTRY_ISO2": "GP",
+    "LANG": "DA",
+    "NAME": "Guadaloupe"
+  },
+  {
+    "COUNTRY_ISO2": "GP",
+    "LANG": "E",
+    "NAME": "Guadalupe"
+  },
+  {
+    "COUNTRY_ISO2": "GP",
+    "LANG": "F",
+    "NAME": "Guadeloupe"
+  },
+  {
+    "COUNTRY_ISO2": "GP",
+    "LANG": "GB",
+    "NAME": "Guadeloupe"
+  },
+  {
+    "COUNTRY_ISO2": "GP",
+    "LANG": "I",
+    "NAME": "Guadalupa"
+  },
+  {
+    "COUNTRY_ISO2": "GP",
+    "LANG": "NL",
+    "NAME": "Guadeloupe"
+  },
+  {
+    "COUNTRY_ISO2": "GP",
+    "LANG": "PL",
+    "NAME": "Gwadelupa"
+  },
+  {
+    "COUNTRY_ISO2": "GP",
+    "LANG": "PT",
+    "NAME": "Guadalupe"
+  },
+  {
+    "COUNTRY_ISO2": "GP",
+    "LANG": "T",
+    "NAME": "Guadelup"
+  },
+  {
+    "COUNTRY_ISO2": "GQ",
+    "LANG": "D",
+    "NAME": "�quatorialguinea"
+  },
+  {
+    "COUNTRY_ISO2": "GQ",
+    "LANG": "DA",
+    "NAME": "�kvatorialguinea"
+  },
+  {
+    "COUNTRY_ISO2": "GQ",
+    "LANG": "E",
+    "NAME": "Guinea Ecuatorial"
+  },
+  {
+    "COUNTRY_ISO2": "GQ",
+    "LANG": "F",
+    "NAME": "Guin�e �quatoriale"
+  },
+  {
+    "COUNTRY_ISO2": "GQ",
+    "LANG": "GB",
+    "NAME": "Equatorial Guinea"
+  },
+  {
+    "COUNTRY_ISO2": "GQ",
+    "LANG": "I",
+    "NAME": "Guinea Equatoriale"
+  },
+  {
+    "COUNTRY_ISO2": "GQ",
+    "LANG": "NL",
+    "NAME": "Equatoriaal-Guinea"
+  },
+  {
+    "COUNTRY_ISO2": "GQ",
+    "LANG": "PL",
+    "NAME": "Gwinea R�wnikowa"
+  },
+  {
+    "COUNTRY_ISO2": "GQ",
+    "LANG": "PT",
+    "NAME": "Guin� Equatorial"
+  },
+  {
+    "COUNTRY_ISO2": "GQ",
+    "LANG": "T",
+    "NAME": "Ekvator Ginesi"
+  },
+  {
+    "COUNTRY_ISO2": "GR",
+    "LANG": "D",
+    "NAME": "Griechenland"
+  },
+  {
+    "COUNTRY_ISO2": "GR",
+    "LANG": "DA",
+    "NAME": "Gr�kenland"
+  },
+  {
+    "COUNTRY_ISO2": "GR",
+    "LANG": "E",
+    "NAME": "Grecia"
+  },
+  {
+    "COUNTRY_ISO2": "GR",
+    "LANG": "F",
+    "NAME": "Gr�ce"
+  },
+  {
+    "COUNTRY_ISO2": "GR",
+    "LANG": "GB",
+    "NAME": "Greece"
+  },
+  {
+    "COUNTRY_ISO2": "GR",
+    "LANG": "I",
+    "NAME": "Grecia"
+  },
+  {
+    "COUNTRY_ISO2": "GR",
+    "LANG": "NL",
+    "NAME": "Griekenland"
+  },
+  {
+    "COUNTRY_ISO2": "GR",
+    "LANG": "PL",
+    "NAME": "Grecja"
+  },
+  {
+    "COUNTRY_ISO2": "GR",
+    "LANG": "PT",
+    "NAME": "Gr�cia"
+  },
+  {
+    "COUNTRY_ISO2": "GR",
+    "LANG": "T",
+    "NAME": "Yunanistan"
+  },
+  {
+    "COUNTRY_ISO2": "GT",
+    "LANG": "D",
+    "NAME": "Guatemala"
+  },
+  {
+    "COUNTRY_ISO2": "GT",
+    "LANG": "DA",
+    "NAME": "Guatemala"
+  },
+  {
+    "COUNTRY_ISO2": "GT",
+    "LANG": "E",
+    "NAME": "Guatemala"
+  },
+  {
+    "COUNTRY_ISO2": "GT",
+    "LANG": "F",
+    "NAME": "Guatemala"
+  },
+  {
+    "COUNTRY_ISO2": "GT",
+    "LANG": "GB",
+    "NAME": "Guatemala"
+  },
+  {
+    "COUNTRY_ISO2": "GT",
+    "LANG": "I",
+    "NAME": "Guatemala"
+  },
+  {
+    "COUNTRY_ISO2": "GT",
+    "LANG": "NL",
+    "NAME": "Guatemala"
+  },
+  {
+    "COUNTRY_ISO2": "GT",
+    "LANG": "PL",
+    "NAME": "Gwatemala"
+  },
+  {
+    "COUNTRY_ISO2": "GT",
+    "LANG": "PT",
+    "NAME": "Guatemala"
+  },
+  {
+    "COUNTRY_ISO2": "GT",
+    "LANG": "T",
+    "NAME": "Guatemala"
+  },
+  {
+    "COUNTRY_ISO2": "GU",
+    "LANG": "D",
+    "NAME": "Guam"
+  },
+  {
+    "COUNTRY_ISO2": "GU",
+    "LANG": "DA",
+    "NAME": "Guam"
+  },
+  {
+    "COUNTRY_ISO2": "GU",
+    "LANG": "E",
+    "NAME": "Guam"
+  },
+  {
+    "COUNTRY_ISO2": "GU",
+    "LANG": "F",
+    "NAME": "Guam"
+  },
+  {
+    "COUNTRY_ISO2": "GU",
+    "LANG": "GB",
+    "NAME": "Guam"
+  },
+  {
+    "COUNTRY_ISO2": "GU",
+    "LANG": "I",
+    "NAME": "Guam"
+  },
+  {
+    "COUNTRY_ISO2": "GU",
+    "LANG": "NL",
+    "NAME": "Guam"
+  },
+  {
+    "COUNTRY_ISO2": "GU",
+    "LANG": "PL",
+    "NAME": "Guam"
+  },
+  {
+    "COUNTRY_ISO2": "GU",
+    "LANG": "PT",
+    "NAME": "Guam"
+  },
+  {
+    "COUNTRY_ISO2": "GU",
+    "LANG": "T",
+    "NAME": "Guam"
+  },
+  {
+    "COUNTRY_ISO2": "GW",
+    "LANG": "D",
+    "NAME": "Guinea-Bissau"
+  },
+  {
+    "COUNTRY_ISO2": "GW",
+    "LANG": "DA",
+    "NAME": "Guinea-Bissau"
+  },
+  {
+    "COUNTRY_ISO2": "GW",
+    "LANG": "E",
+    "NAME": "Guinea-Bis�u"
+  },
+  {
+    "COUNTRY_ISO2": "GW",
+    "LANG": "F",
+    "NAME": "Guin�e-Bissau"
+  },
+  {
+    "COUNTRY_ISO2": "GW",
+    "LANG": "GB",
+    "NAME": "Guinea-Bissau"
+  },
+  {
+    "COUNTRY_ISO2": "GW",
+    "LANG": "I",
+    "NAME": "Guinea-Bissau"
+  },
+  {
+    "COUNTRY_ISO2": "GW",
+    "LANG": "NL",
+    "NAME": "Guinee-Bissau"
+  },
+  {
+    "COUNTRY_ISO2": "GW",
+    "LANG": "PL",
+    "NAME": "Gwinea-Bissau"
+  },
+  {
+    "COUNTRY_ISO2": "GW",
+    "LANG": "PT",
+    "NAME": "Guin� Bissau"
+  },
+  {
+    "COUNTRY_ISO2": "GW",
+    "LANG": "T",
+    "NAME": "Guinea-Bissau"
+  },
+  {
+    "COUNTRY_ISO2": "GY",
+    "LANG": "D",
+    "NAME": "Guyana"
+  },
+  {
+    "COUNTRY_ISO2": "GY",
+    "LANG": "DA",
+    "NAME": "Guyana"
+  },
+  {
+    "COUNTRY_ISO2": "GY",
+    "LANG": "E",
+    "NAME": "Guyana"
+  },
+  {
+    "COUNTRY_ISO2": "GY",
+    "LANG": "F",
+    "NAME": "Guyane"
+  },
+  {
+    "COUNTRY_ISO2": "GY",
+    "LANG": "GB",
+    "NAME": "Guyana"
+  },
+  {
+    "COUNTRY_ISO2": "GY",
+    "LANG": "I",
+    "NAME": "Guyana"
+  },
+  {
+    "COUNTRY_ISO2": "GY",
+    "LANG": "NL",
+    "NAME": "Guyana"
+  },
+  {
+    "COUNTRY_ISO2": "GY",
+    "LANG": "PL",
+    "NAME": "Gujana"
+  },
+  {
+    "COUNTRY_ISO2": "GY",
+    "LANG": "PT",
+    "NAME": "Guiana"
+  },
+  {
+    "COUNTRY_ISO2": "GY",
+    "LANG": "T",
+    "NAME": "Guyana"
+  },
+  {
+    "COUNTRY_ISO2": "HK",
+    "LANG": "D",
+    "NAME": "Hongkong"
+  },
+  {
+    "COUNTRY_ISO2": "HK",
+    "LANG": "DA",
+    "NAME": "Hongkong"
+  },
+  {
+    "COUNTRY_ISO2": "HK",
+    "LANG": "E",
+    "NAME": "Hong Kong"
+  },
+  {
+    "COUNTRY_ISO2": "HK",
+    "LANG": "F",
+    "NAME": "Hong-Kong"
+  },
+  {
+    "COUNTRY_ISO2": "HK",
+    "LANG": "GB",
+    "NAME": "Hong Kong"
+  },
+  {
+    "COUNTRY_ISO2": "HK",
+    "LANG": "I",
+    "NAME": "Hong Kong"
+  },
+  {
+    "COUNTRY_ISO2": "HK",
+    "LANG": "NL",
+    "NAME": "Hongkong"
+  },
+  {
+    "COUNTRY_ISO2": "HK",
+    "LANG": "PL",
+    "NAME": "Hongkong"
+  },
+  {
+    "COUNTRY_ISO2": "HK",
+    "LANG": "PT",
+    "NAME": "Hong Kong"
+  },
+  {
+    "COUNTRY_ISO2": "HK",
+    "LANG": "T",
+    "NAME": "Hongkong"
+  },
+  {
+    "COUNTRY_ISO2": "HN",
+    "LANG": "D",
+    "NAME": "Honduras"
+  },
+  {
+    "COUNTRY_ISO2": "HN",
+    "LANG": "DA",
+    "NAME": "Honduras"
+  },
+  {
+    "COUNTRY_ISO2": "HN",
+    "LANG": "E",
+    "NAME": "Honduras"
+  },
+  {
+    "COUNTRY_ISO2": "HN",
+    "LANG": "F",
+    "NAME": "Honduras"
+  },
+  {
+    "COUNTRY_ISO2": "HN",
+    "LANG": "GB",
+    "NAME": "Honduras"
+  },
+  {
+    "COUNTRY_ISO2": "HN",
+    "LANG": "I",
+    "NAME": "Honduras"
+  },
+  {
+    "COUNTRY_ISO2": "HN",
+    "LANG": "NL",
+    "NAME": "Honduras"
+  },
+  {
+    "COUNTRY_ISO2": "HN",
+    "LANG": "PL",
+    "NAME": "Honduras"
+  },
+  {
+    "COUNTRY_ISO2": "HN",
+    "LANG": "PT",
+    "NAME": "Honduras"
+  },
+  {
+    "COUNTRY_ISO2": "HN",
+    "LANG": "T",
+    "NAME": "Honduras"
+  },
+  {
+    "COUNTRY_ISO2": "HR",
+    "LANG": "D",
+    "NAME": "Kroatien"
+  },
+  {
+    "COUNTRY_ISO2": "HR",
+    "LANG": "DA",
+    "NAME": "Kroatien"
+  },
+  {
+    "COUNTRY_ISO2": "HR",
+    "LANG": "E",
+    "NAME": "Croacia"
+  },
+  {
+    "COUNTRY_ISO2": "HR",
+    "LANG": "F",
+    "NAME": "Croatie"
+  },
+  {
+    "COUNTRY_ISO2": "HR",
+    "LANG": "GB",
+    "NAME": "Croatia"
+  },
+  {
+    "COUNTRY_ISO2": "HR",
+    "LANG": "I",
+    "NAME": "Croazia"
+  },
+  {
+    "COUNTRY_ISO2": "HR",
+    "LANG": "NL",
+    "NAME": "Kroati�"
+  },
+  {
+    "COUNTRY_ISO2": "HR",
+    "LANG": "PL",
+    "NAME": "Chorwacja"
+  },
+  {
+    "COUNTRY_ISO2": "HR",
+    "LANG": "PT",
+    "NAME": "Cro�cia"
+  },
+  {
+    "COUNTRY_ISO2": "HR",
+    "LANG": "T",
+    "NAME": "Hirvatistan"
+  },
+  {
+    "COUNTRY_ISO2": "HT",
+    "LANG": "D",
+    "NAME": "Haiti"
+  },
+  {
+    "COUNTRY_ISO2": "HT",
+    "LANG": "DA",
+    "NAME": "Haiti"
+  },
+  {
+    "COUNTRY_ISO2": "HT",
+    "LANG": "E",
+    "NAME": "Haiti"
+  },
+  {
+    "COUNTRY_ISO2": "HT",
+    "LANG": "F",
+    "NAME": "Ha�ti"
+  },
+  {
+    "COUNTRY_ISO2": "HT",
+    "LANG": "GB",
+    "NAME": "Haiti"
+  },
+  {
+    "COUNTRY_ISO2": "HT",
+    "LANG": "I",
+    "NAME": "Haiti"
+  },
+  {
+    "COUNTRY_ISO2": "HT",
+    "LANG": "NL",
+    "NAME": "Ha�ti"
+  },
+  {
+    "COUNTRY_ISO2": "HT",
+    "LANG": "PL",
+    "NAME": "Haiti"
+  },
+  {
+    "COUNTRY_ISO2": "HT",
+    "LANG": "PT",
+    "NAME": "Haiti"
+  },
+  {
+    "COUNTRY_ISO2": "HT",
+    "LANG": "T",
+    "NAME": "Haiti"
+  },
+  {
+    "COUNTRY_ISO2": "HU",
+    "LANG": "D",
+    "NAME": "Ungarn"
+  },
+  {
+    "COUNTRY_ISO2": "HU",
+    "LANG": "DA",
+    "NAME": "Ungarn"
+  },
+  {
+    "COUNTRY_ISO2": "HU",
+    "LANG": "E",
+    "NAME": "Hungr�a"
+  },
+  {
+    "COUNTRY_ISO2": "HU",
+    "LANG": "F",
+    "NAME": "Hongrie"
+  },
+  {
+    "COUNTRY_ISO2": "HU",
+    "LANG": "GB",
+    "NAME": "Hungary"
+  },
+  {
+    "COUNTRY_ISO2": "HU",
+    "LANG": "I",
+    "NAME": "Ungheria"
+  },
+  {
+    "COUNTRY_ISO2": "HU",
+    "LANG": "NL",
+    "NAME": "Hongarije"
+  },
+  {
+    "COUNTRY_ISO2": "HU",
+    "LANG": "PL",
+    "NAME": "Wegry"
+  },
+  {
+    "COUNTRY_ISO2": "HU",
+    "LANG": "PT",
+    "NAME": "Hungria"
+  },
+  {
+    "COUNTRY_ISO2": "HU",
+    "LANG": "T",
+    "NAME": "Macaristan"
+  },
+  {
+    "COUNTRY_ISO2": "ID",
+    "LANG": "D",
+    "NAME": "Indonesien"
+  },
+  {
+    "COUNTRY_ISO2": "ID",
+    "LANG": "DA",
+    "NAME": "Indonesien"
+  },
+  {
+    "COUNTRY_ISO2": "ID",
+    "LANG": "E",
+    "NAME": "Indonesia"
+  },
+  {
+    "COUNTRY_ISO2": "ID",
+    "LANG": "F",
+    "NAME": "Indon�sie"
+  },
+  {
+    "COUNTRY_ISO2": "ID",
+    "LANG": "GB",
+    "NAME": "Indonesia"
+  },
+  {
+    "COUNTRY_ISO2": "ID",
+    "LANG": "I",
+    "NAME": "Indonesia"
+  },
+  {
+    "COUNTRY_ISO2": "ID",
+    "LANG": "NL",
+    "NAME": "Indonesi�"
+  },
+  {
+    "COUNTRY_ISO2": "ID",
+    "LANG": "PL",
+    "NAME": "Indonezja"
+  },
+  {
+    "COUNTRY_ISO2": "ID",
+    "LANG": "PT",
+    "NAME": "Indon�sia"
+  },
+  {
+    "COUNTRY_ISO2": "ID",
+    "LANG": "T",
+    "NAME": "Endonezya"
+  },
+  {
+    "COUNTRY_ISO2": "IE",
+    "LANG": "D",
+    "NAME": "Irland"
+  },
+  {
+    "COUNTRY_ISO2": "IE",
+    "LANG": "DA",
+    "NAME": "Irland"
+  },
+  {
+    "COUNTRY_ISO2": "IE",
+    "LANG": "E",
+    "NAME": "Irlanda"
+  },
+  {
+    "COUNTRY_ISO2": "IE",
+    "LANG": "F",
+    "NAME": "Irlande"
+  },
+  {
+    "COUNTRY_ISO2": "IE",
+    "LANG": "GB",
+    "NAME": "Ireland"
+  },
+  {
+    "COUNTRY_ISO2": "IE",
+    "LANG": "I",
+    "NAME": "Irlanda"
+  },
+  {
+    "COUNTRY_ISO2": "IE",
+    "LANG": "NL",
+    "NAME": "Ierland"
+  },
+  {
+    "COUNTRY_ISO2": "IE",
+    "LANG": "PL",
+    "NAME": "Irlandia"
+  },
+  {
+    "COUNTRY_ISO2": "IE",
+    "LANG": "PT",
+    "NAME": "Irlanda"
+  },
+  {
+    "COUNTRY_ISO2": "IE",
+    "LANG": "T",
+    "NAME": "Irlanda"
+  },
+  {
+    "COUNTRY_ISO2": "IL",
+    "LANG": "D",
+    "NAME": "Israel"
+  },
+  {
+    "COUNTRY_ISO2": "IL",
+    "LANG": "DA",
+    "NAME": "Israel"
+  },
+  {
+    "COUNTRY_ISO2": "IL",
+    "LANG": "E",
+    "NAME": "Israel"
+  },
+  {
+    "COUNTRY_ISO2": "IL",
+    "LANG": "F",
+    "NAME": "Isra�l"
+  },
+  {
+    "COUNTRY_ISO2": "IL",
+    "LANG": "GB",
+    "NAME": "Israel"
+  },
+  {
+    "COUNTRY_ISO2": "IL",
+    "LANG": "I",
+    "NAME": "Israele"
+  },
+  {
+    "COUNTRY_ISO2": "IL",
+    "LANG": "NL",
+    "NAME": "Isra�l"
+  },
+  {
+    "COUNTRY_ISO2": "IL",
+    "LANG": "PL",
+    "NAME": "Izrael"
+  },
+  {
+    "COUNTRY_ISO2": "IL",
+    "LANG": "PT",
+    "NAME": "Israel"
+  },
+  {
+    "COUNTRY_ISO2": "IL",
+    "LANG": "T",
+    "NAME": "Israel"
+  },
+  {
+    "COUNTRY_ISO2": "IN",
+    "LANG": "D",
+    "NAME": "Indien"
+  },
+  {
+    "COUNTRY_ISO2": "IN",
+    "LANG": "DA",
+    "NAME": "Indien"
+  },
+  {
+    "COUNTRY_ISO2": "IN",
+    "LANG": "E",
+    "NAME": "India con Sikkim"
+  },
+  {
+    "COUNTRY_ISO2": "IN",
+    "LANG": "F",
+    "NAME": "Inde"
+  },
+  {
+    "COUNTRY_ISO2": "IN",
+    "LANG": "GB",
+    "NAME": "India"
+  },
+  {
+    "COUNTRY_ISO2": "IN",
+    "LANG": "I",
+    "NAME": "India"
+  },
+  {
+    "COUNTRY_ISO2": "IN",
+    "LANG": "NL",
+    "NAME": "India"
+  },
+  {
+    "COUNTRY_ISO2": "IN",
+    "LANG": "PL",
+    "NAME": "Indie"
+  },
+  {
+    "COUNTRY_ISO2": "IN",
+    "LANG": "PT",
+    "NAME": "�ndia"
+  },
+  {
+    "COUNTRY_ISO2": "IN",
+    "LANG": "T",
+    "NAME": "Hindistan"
+  },
+  {
+    "COUNTRY_ISO2": "IQ",
+    "LANG": "D",
+    "NAME": "Irak"
+  },
+  {
+    "COUNTRY_ISO2": "IQ",
+    "LANG": "DA",
+    "NAME": "Irak"
+  },
+  {
+    "COUNTRY_ISO2": "IQ",
+    "LANG": "E",
+    "NAME": "Iraq"
+  },
+  {
+    "COUNTRY_ISO2": "IQ",
+    "LANG": "F",
+    "NAME": "Irak"
+  },
+  {
+    "COUNTRY_ISO2": "IQ",
+    "LANG": "GB",
+    "NAME": "Iraq"
+  },
+  {
+    "COUNTRY_ISO2": "IQ",
+    "LANG": "I",
+    "NAME": "Iraq"
+  },
+  {
+    "COUNTRY_ISO2": "IQ",
+    "LANG": "NL",
+    "NAME": "Irak"
+  },
+  {
+    "COUNTRY_ISO2": "IQ",
+    "LANG": "PL",
+    "NAME": "Irak"
+  },
+  {
+    "COUNTRY_ISO2": "IQ",
+    "LANG": "PT",
+    "NAME": "Iraque"
+  },
+  {
+    "COUNTRY_ISO2": "IQ",
+    "LANG": "T",
+    "NAME": "Irak"
+  },
+  {
+    "COUNTRY_ISO2": "IR",
+    "LANG": "D",
+    "NAME": "Iran"
+  },
+  {
+    "COUNTRY_ISO2": "IR",
+    "LANG": "DA",
+    "NAME": "Iran"
+  },
+  {
+    "COUNTRY_ISO2": "IR",
+    "LANG": "E",
+    "NAME": "Iran"
+  },
+  {
+    "COUNTRY_ISO2": "IR",
+    "LANG": "F",
+    "NAME": "Iran"
+  },
+  {
+    "COUNTRY_ISO2": "IR",
+    "LANG": "GB",
+    "NAME": "Iran"
+  },
+  {
+    "COUNTRY_ISO2": "IR",
+    "LANG": "I",
+    "NAME": "Iran"
+  },
+  {
+    "COUNTRY_ISO2": "IR",
+    "LANG": "NL",
+    "NAME": "Iran"
+  },
+  {
+    "COUNTRY_ISO2": "IR",
+    "LANG": "PL",
+    "NAME": "Iran"
+  },
+  {
+    "COUNTRY_ISO2": "IR",
+    "LANG": "PT",
+    "NAME": "Ir�o"
+  },
+  {
+    "COUNTRY_ISO2": "IR",
+    "LANG": "T",
+    "NAME": "Iran"
+  },
+  {
+    "COUNTRY_ISO2": "IS",
+    "LANG": "D",
+    "NAME": "Island"
+  },
+  {
+    "COUNTRY_ISO2": "IS",
+    "LANG": "DA",
+    "NAME": "Island"
+  },
+  {
+    "COUNTRY_ISO2": "IS",
+    "LANG": "E",
+    "NAME": "Islandia"
+  },
+  {
+    "COUNTRY_ISO2": "IS",
+    "LANG": "F",
+    "NAME": "Islande"
+  },
+  {
+    "COUNTRY_ISO2": "IS",
+    "LANG": "GB",
+    "NAME": "Iceland"
+  },
+  {
+    "COUNTRY_ISO2": "IS",
+    "LANG": "I",
+    "NAME": "Islanda"
+  },
+  {
+    "COUNTRY_ISO2": "IS",
+    "LANG": "NL",
+    "NAME": "IJsland"
+  },
+  {
+    "COUNTRY_ISO2": "IS",
+    "LANG": "PL",
+    "NAME": "Islandia"
+  },
+  {
+    "COUNTRY_ISO2": "IS",
+    "LANG": "PT",
+    "NAME": "Isl�ndia"
+  },
+  {
+    "COUNTRY_ISO2": "IS",
+    "LANG": "T",
+    "NAME": "Izlanda"
+  },
+  {
+    "COUNTRY_ISO2": "IT",
+    "LANG": "D",
+    "NAME": "Italien"
+  },
+  {
+    "COUNTRY_ISO2": "IT",
+    "LANG": "DA",
+    "NAME": "Italien"
+  },
+  {
+    "COUNTRY_ISO2": "IT",
+    "LANG": "E",
+    "NAME": "Italia"
+  },
+  {
+    "COUNTRY_ISO2": "IT",
+    "LANG": "F",
+    "NAME": "Italie"
+  },
+  {
+    "COUNTRY_ISO2": "IT",
+    "LANG": "GB",
+    "NAME": "Italy"
+  },
+  {
+    "COUNTRY_ISO2": "IT",
+    "LANG": "I",
+    "NAME": "Italia"
+  },
+  {
+    "COUNTRY_ISO2": "IT",
+    "LANG": "NL",
+    "NAME": "Itali�"
+  },
+  {
+    "COUNTRY_ISO2": "IT",
+    "LANG": "PL",
+    "NAME": "Wlochy"
+  },
+  {
+    "COUNTRY_ISO2": "IT",
+    "LANG": "PT",
+    "NAME": "It�lia"
+  },
+  {
+    "COUNTRY_ISO2": "IT",
+    "LANG": "T",
+    "NAME": "Italya"
+  },
+  {
+    "COUNTRY_ISO2": "JM",
+    "LANG": "D",
+    "NAME": "Jamaika"
+  },
+  {
+    "COUNTRY_ISO2": "JM",
+    "LANG": "DA",
+    "NAME": "Jamaica"
+  },
+  {
+    "COUNTRY_ISO2": "JM",
+    "LANG": "E",
+    "NAME": "Jamaica"
+  },
+  {
+    "COUNTRY_ISO2": "JM",
+    "LANG": "F",
+    "NAME": "Jama�que"
+  },
+  {
+    "COUNTRY_ISO2": "JM",
+    "LANG": "GB",
+    "NAME": "Jamaica"
+  },
+  {
+    "COUNTRY_ISO2": "JM",
+    "LANG": "I",
+    "NAME": "Giamaica"
+  },
+  {
+    "COUNTRY_ISO2": "JM",
+    "LANG": "NL",
+    "NAME": "Jamaica"
+  },
+  {
+    "COUNTRY_ISO2": "JM",
+    "LANG": "PL",
+    "NAME": "Jamajka"
+  },
+  {
+    "COUNTRY_ISO2": "JM",
+    "LANG": "PT",
+    "NAME": "Jamaica"
+  },
+  {
+    "COUNTRY_ISO2": "JM",
+    "LANG": "T",
+    "NAME": "Jamaika"
+  },
+  {
+    "COUNTRY_ISO2": "JO",
+    "LANG": "D",
+    "NAME": "Jordanien"
+  },
+  {
+    "COUNTRY_ISO2": "JO",
+    "LANG": "DA",
+    "NAME": "Jordanien"
+  },
+  {
+    "COUNTRY_ISO2": "JO",
+    "LANG": "E",
+    "NAME": "Jordania"
+  },
+  {
+    "COUNTRY_ISO2": "JO",
+    "LANG": "F",
+    "NAME": "Jordanie"
+  },
+  {
+    "COUNTRY_ISO2": "JO",
+    "LANG": "GB",
+    "NAME": "Jordan"
+  },
+  {
+    "COUNTRY_ISO2": "JO",
+    "LANG": "I",
+    "NAME": "Giordania"
+  },
+  {
+    "COUNTRY_ISO2": "JO",
+    "LANG": "NL",
+    "NAME": "Jordani�"
+  },
+  {
+    "COUNTRY_ISO2": "JO",
+    "LANG": "PL",
+    "NAME": "Jordania"
+  },
+  {
+    "COUNTRY_ISO2": "JO",
+    "LANG": "PT",
+    "NAME": "Jord�nia"
+  },
+  {
+    "COUNTRY_ISO2": "JO",
+    "LANG": "T",
+    "NAME": "�rd�n"
+  },
+  {
+    "COUNTRY_ISO2": "JP",
+    "LANG": "D",
+    "NAME": "Japan"
+  },
+  {
+    "COUNTRY_ISO2": "JP",
+    "LANG": "DA",
+    "NAME": "Japan"
+  },
+  {
+    "COUNTRY_ISO2": "JP",
+    "LANG": "E",
+    "NAME": "Jap�n"
+  },
+  {
+    "COUNTRY_ISO2": "JP",
+    "LANG": "F",
+    "NAME": "Japon"
+  },
+  {
+    "COUNTRY_ISO2": "JP",
+    "LANG": "GB",
+    "NAME": "Japan"
+  },
+  {
+    "COUNTRY_ISO2": "JP",
+    "LANG": "I",
+    "NAME": "Giappone"
+  },
+  {
+    "COUNTRY_ISO2": "JP",
+    "LANG": "NL",
+    "NAME": "Japan"
+  },
+  {
+    "COUNTRY_ISO2": "JP",
+    "LANG": "PL",
+    "NAME": "Japonia"
+  },
+  {
+    "COUNTRY_ISO2": "JP",
+    "LANG": "PT",
+    "NAME": "Jap�o"
+  },
+  {
+    "COUNTRY_ISO2": "JP",
+    "LANG": "T",
+    "NAME": "Japonya"
+  },
+  {
+    "COUNTRY_ISO2": "KE",
+    "LANG": "D",
+    "NAME": "Kenia"
+  },
+  {
+    "COUNTRY_ISO2": "KE",
+    "LANG": "DA",
+    "NAME": "Kenya"
+  },
+  {
+    "COUNTRY_ISO2": "KE",
+    "LANG": "E",
+    "NAME": "Kenia"
+  },
+  {
+    "COUNTRY_ISO2": "KE",
+    "LANG": "F",
+    "NAME": "Kenya"
+  },
+  {
+    "COUNTRY_ISO2": "KE",
+    "LANG": "GB",
+    "NAME": "Kenya"
+  },
+  {
+    "COUNTRY_ISO2": "KE",
+    "LANG": "I",
+    "NAME": "Kenya"
+  },
+  {
+    "COUNTRY_ISO2": "KE",
+    "LANG": "NL",
+    "NAME": "Kenia"
+  },
+  {
+    "COUNTRY_ISO2": "KE",
+    "LANG": "PL",
+    "NAME": "Kenia"
+  },
+  {
+    "COUNTRY_ISO2": "KE",
+    "LANG": "PT",
+    "NAME": "Qu�nia"
+  },
+  {
+    "COUNTRY_ISO2": "KE",
+    "LANG": "T",
+    "NAME": "Kenya"
+  },
+  {
+    "COUNTRY_ISO2": "KG",
+    "LANG": "D",
+    "NAME": "Kirgistan"
+  },
+  {
+    "COUNTRY_ISO2": "KG",
+    "LANG": "DA",
+    "NAME": "Kirgistan"
+  },
+  {
+    "COUNTRY_ISO2": "KG",
+    "LANG": "E",
+    "NAME": "Kirguistan"
+  },
+  {
+    "COUNTRY_ISO2": "KG",
+    "LANG": "F",
+    "NAME": "Kirghizistan"
+  },
+  {
+    "COUNTRY_ISO2": "KG",
+    "LANG": "GB",
+    "NAME": "Kyrgyzstan"
+  },
+  {
+    "COUNTRY_ISO2": "KG",
+    "LANG": "I",
+    "NAME": "Kirghizistan"
+  },
+  {
+    "COUNTRY_ISO2": "KG",
+    "LANG": "NL",
+    "NAME": "Kirgizstan"
+  },
+  {
+    "COUNTRY_ISO2": "KG",
+    "LANG": "PL",
+    "NAME": "Kirgistan"
+  },
+  {
+    "COUNTRY_ISO2": "KG",
+    "LANG": "PT",
+    "NAME": "Quirguist�o"
+  },
+  {
+    "COUNTRY_ISO2": "KG",
+    "LANG": "T",
+    "NAME": "Kirgizistan"
+  },
+  {
+    "COUNTRY_ISO2": "KH",
+    "LANG": "D",
+    "NAME": "Kambodscha"
+  },
+  {
+    "COUNTRY_ISO2": "KH",
+    "LANG": "DA",
+    "NAME": "Cambodja"
+  },
+  {
+    "COUNTRY_ISO2": "KH",
+    "LANG": "E",
+    "NAME": "Cambodia"
+  },
+  {
+    "COUNTRY_ISO2": "KH",
+    "LANG": "F",
+    "NAME": "Cambodge"
+  },
+  {
+    "COUNTRY_ISO2": "KH",
+    "LANG": "GB",
+    "NAME": "Cambodia"
+  },
+  {
+    "COUNTRY_ISO2": "KH",
+    "LANG": "I",
+    "NAME": "Cambogia"
+  },
+  {
+    "COUNTRY_ISO2": "KH",
+    "LANG": "NL",
+    "NAME": "Cambodja"
+  },
+  {
+    "COUNTRY_ISO2": "KH",
+    "LANG": "PL",
+    "NAME": "Kambodza"
+  },
+  {
+    "COUNTRY_ISO2": "KH",
+    "LANG": "PT",
+    "NAME": "Cambodja"
+  },
+  {
+    "COUNTRY_ISO2": "KH",
+    "LANG": "T",
+    "NAME": "Kambo�ya"
+  },
+  {
+    "COUNTRY_ISO2": "KI",
+    "LANG": "D",
+    "NAME": "Kiribati"
+  },
+  {
+    "COUNTRY_ISO2": "KI",
+    "LANG": "DA",
+    "NAME": "Kiribati"
+  },
+  {
+    "COUNTRY_ISO2": "KI",
+    "LANG": "E",
+    "NAME": "Kiribati"
+  },
+  {
+    "COUNTRY_ISO2": "KI",
+    "LANG": "F",
+    "NAME": "Kiribati"
+  },
+  {
+    "COUNTRY_ISO2": "KI",
+    "LANG": "GB",
+    "NAME": "Kiribati"
+  },
+  {
+    "COUNTRY_ISO2": "KI",
+    "LANG": "I",
+    "NAME": "Kiribati"
+  },
+  {
+    "COUNTRY_ISO2": "KI",
+    "LANG": "NL",
+    "NAME": "Kiribati"
+  },
+  {
+    "COUNTRY_ISO2": "KI",
+    "LANG": "PL",
+    "NAME": "Kiribati"
+  },
+  {
+    "COUNTRY_ISO2": "KI",
+    "LANG": "PT",
+    "NAME": "Kiribati"
+  },
+  {
+    "COUNTRY_ISO2": "KI",
+    "LANG": "T",
+    "NAME": "Kiribati"
+  },
+  {
+    "COUNTRY_ISO2": "KM",
+    "LANG": "D",
+    "NAME": "Komoren"
+  },
+  {
+    "COUNTRY_ISO2": "KM",
+    "LANG": "DA",
+    "NAME": "Comorerne"
+  },
+  {
+    "COUNTRY_ISO2": "KM",
+    "LANG": "E",
+    "NAME": "Comoras"
+  },
+  {
+    "COUNTRY_ISO2": "KM",
+    "LANG": "F",
+    "NAME": "Comores"
+  },
+  {
+    "COUNTRY_ISO2": "KM",
+    "LANG": "GB",
+    "NAME": "Comoros"
+  },
+  {
+    "COUNTRY_ISO2": "KM",
+    "LANG": "I",
+    "NAME": "Comore"
+  },
+  {
+    "COUNTRY_ISO2": "KM",
+    "LANG": "NL",
+    "NAME": "Komoren"
+  },
+  {
+    "COUNTRY_ISO2": "KM",
+    "LANG": "PL",
+    "NAME": "Komory"
+  },
+  {
+    "COUNTRY_ISO2": "KM",
+    "LANG": "PT",
+    "NAME": "Ilhas Comoro"
+  },
+  {
+    "COUNTRY_ISO2": "KM",
+    "LANG": "T",
+    "NAME": "Komorlar"
+  },
+  {
+    "COUNTRY_ISO2": "KN",
+    "LANG": "D",
+    "NAME": "St. Kitts und Nevis"
+  },
+  {
+    "COUNTRY_ISO2": "KN",
+    "LANG": "DA",
+    "NAME": "St. Christoph og Nevis"
+  },
+  {
+    "COUNTRY_ISO2": "KN",
+    "LANG": "E",
+    "NAME": "San Cristobal y Nieves"
+  },
+  {
+    "COUNTRY_ISO2": "KN",
+    "LANG": "F",
+    "NAME": "Saint-Christophe-et-Ni�v�s"
+  },
+  {
+    "COUNTRY_ISO2": "KN",
+    "LANG": "GB",
+    "NAME": "Saint Kitts and Nevis"
+  },
+  {
+    "COUNTRY_ISO2": "KN",
+    "LANG": "I",
+    "NAME": "Saint Kitts and Nevis"
+  },
+  {
+    "COUNTRY_ISO2": "KN",
+    "LANG": "NL",
+    "NAME": "Saint Kitts en Nevis"
+  },
+  {
+    "COUNTRY_ISO2": "KN",
+    "LANG": "PL",
+    "NAME": "Saint Kitts i Nevis"
+  },
+  {
+    "COUNTRY_ISO2": "KN",
+    "LANG": "PT",
+    "NAME": "S�o Crist�v�o e Neves"
+  },
+  {
+    "COUNTRY_ISO2": "KN",
+    "LANG": "T",
+    "NAME": "St. Kitts und Nevis"
+  },
+  {
+    "COUNTRY_ISO2": "KO",
+    "LANG": "D",
+    "NAME": "Kosovo"
+  },
+  {
+    "COUNTRY_ISO2": "KP",
+    "LANG": "D",
+    "NAME": "Nordkorea"
+  },
+  {
+    "COUNTRY_ISO2": "KP",
+    "LANG": "DA",
+    "NAME": "Nordkorea"
+  },
+  {
+    "COUNTRY_ISO2": "KP",
+    "LANG": "E",
+    "NAME": "Corea del Norte"
+  },
+  {
+    "COUNTRY_ISO2": "KP",
+    "LANG": "F",
+    "NAME": "Cor�e du Nord"
+  },
+  {
+    "COUNTRY_ISO2": "KP",
+    "LANG": "GB",
+    "NAME": "North Korea"
+  },
+  {
+    "COUNTRY_ISO2": "KP",
+    "LANG": "I",
+    "NAME": "Corea del Nord"
+  },
+  {
+    "COUNTRY_ISO2": "KP",
+    "LANG": "NL",
+    "NAME": "Noord-Korea"
+  },
+  {
+    "COUNTRY_ISO2": "KP",
+    "LANG": "PL",
+    "NAME": "Korea P�lnocna"
+  },
+  {
+    "COUNTRY_ISO2": "KP",
+    "LANG": "PT",
+    "NAME": "Coreia do Norte"
+  },
+  {
+    "COUNTRY_ISO2": "KP",
+    "LANG": "T",
+    "NAME": "Kuzey Kore"
+  },
+  {
+    "COUNTRY_ISO2": "KR",
+    "LANG": "D",
+    "NAME": "S�dkorea"
+  },
+  {
+    "COUNTRY_ISO2": "KR",
+    "LANG": "DA",
+    "NAME": "Sydkorea"
+  },
+  {
+    "COUNTRY_ISO2": "KR",
+    "LANG": "E",
+    "NAME": "Corea del Sur"
+  },
+  {
+    "COUNTRY_ISO2": "KR",
+    "LANG": "F",
+    "NAME": "Cor�e du Sud"
+  },
+  {
+    "COUNTRY_ISO2": "KR",
+    "LANG": "GB",
+    "NAME": "South Korea"
+  },
+  {
+    "COUNTRY_ISO2": "KR",
+    "LANG": "I",
+    "NAME": "Corea del Sud"
+  },
+  {
+    "COUNTRY_ISO2": "KR",
+    "LANG": "NL",
+    "NAME": "Zuid-Korea"
+  },
+  {
+    "COUNTRY_ISO2": "KR",
+    "LANG": "PL",
+    "NAME": "Korea Poludniowa"
+  },
+  {
+    "COUNTRY_ISO2": "KR",
+    "LANG": "PT",
+    "NAME": "Coreia do Sul"
+  },
+  {
+    "COUNTRY_ISO2": "KR",
+    "LANG": "T",
+    "NAME": "G�ney Kore"
+  },
+  {
+    "COUNTRY_ISO2": "KW",
+    "LANG": "D",
+    "NAME": "Kuwait"
+  },
+  {
+    "COUNTRY_ISO2": "KW",
+    "LANG": "DA",
+    "NAME": "Kuwait"
+  },
+  {
+    "COUNTRY_ISO2": "KW",
+    "LANG": "E",
+    "NAME": "Kuwait"
+  },
+  {
+    "COUNTRY_ISO2": "KW",
+    "LANG": "F",
+    "NAME": "Kowe�t"
+  },
+  {
+    "COUNTRY_ISO2": "KW",
+    "LANG": "GB",
+    "NAME": "Kuwait"
+  },
+  {
+    "COUNTRY_ISO2": "KW",
+    "LANG": "I",
+    "NAME": "Kuwait"
+  },
+  {
+    "COUNTRY_ISO2": "KW",
+    "LANG": "NL",
+    "NAME": "Koeweit"
+  },
+  {
+    "COUNTRY_ISO2": "KW",
+    "LANG": "PL",
+    "NAME": "Kuwejt"
+  },
+  {
+    "COUNTRY_ISO2": "KW",
+    "LANG": "PT",
+    "NAME": "Kuwait"
+  },
+  {
+    "COUNTRY_ISO2": "KW",
+    "LANG": "T",
+    "NAME": "Kuveyt"
+  },
+  {
+    "COUNTRY_ISO2": "KY",
+    "LANG": "D",
+    "NAME": "Kaimaninseln"
+  },
+  {
+    "COUNTRY_ISO2": "KY",
+    "LANG": "DA",
+    "NAME": "Cayman �erne"
+  },
+  {
+    "COUNTRY_ISO2": "KY",
+    "LANG": "E",
+    "NAME": "Islas Caiman"
+  },
+  {
+    "COUNTRY_ISO2": "KY",
+    "LANG": "F",
+    "NAME": "�les Ca�man"
+  },
+  {
+    "COUNTRY_ISO2": "KY",
+    "LANG": "GB",
+    "NAME": "Cayman Islands"
+  },
+  {
+    "COUNTRY_ISO2": "KY",
+    "LANG": "I",
+    "NAME": "Isole Cayman"
+  },
+  {
+    "COUNTRY_ISO2": "KY",
+    "LANG": "NL",
+    "NAME": "Kaaimaneilanden"
+  },
+  {
+    "COUNTRY_ISO2": "KY",
+    "LANG": "PL",
+    "NAME": "Kajmany"
+  },
+  {
+    "COUNTRY_ISO2": "KY",
+    "LANG": "PT",
+    "NAME": "Ilhas Caim�o"
+  },
+  {
+    "COUNTRY_ISO2": "KY",
+    "LANG": "T",
+    "NAME": "Cayman Adalari"
+  },
+  {
+    "COUNTRY_ISO2": "KZ",
+    "LANG": "D",
+    "NAME": "Kasachstan"
+  },
+  {
+    "COUNTRY_ISO2": "KZ",
+    "LANG": "DA",
+    "NAME": "Kasakhstan"
+  },
+  {
+    "COUNTRY_ISO2": "KZ",
+    "LANG": "E",
+    "NAME": "Kazajstan"
+  },
+  {
+    "COUNTRY_ISO2": "KZ",
+    "LANG": "F",
+    "NAME": "Kazakhstan"
+  },
+  {
+    "COUNTRY_ISO2": "KZ",
+    "LANG": "GB",
+    "NAME": "Kasakhstan"
+  },
+  {
+    "COUNTRY_ISO2": "KZ",
+    "LANG": "I",
+    "NAME": "Kazakistan"
+  },
+  {
+    "COUNTRY_ISO2": "KZ",
+    "LANG": "NL",
+    "NAME": "Kazachstan"
+  },
+  {
+    "COUNTRY_ISO2": "KZ",
+    "LANG": "PL",
+    "NAME": "Kazachstan"
+  },
+  {
+    "COUNTRY_ISO2": "KZ",
+    "LANG": "PT",
+    "NAME": "Cazaquist�o"
+  },
+  {
+    "COUNTRY_ISO2": "KZ",
+    "LANG": "T",
+    "NAME": "Kazakistan"
+  },
+  {
+    "COUNTRY_ISO2": "LA",
+    "LANG": "D",
+    "NAME": "Laos"
+  },
+  {
+    "COUNTRY_ISO2": "LA",
+    "LANG": "DA",
+    "NAME": "Laos"
+  },
+  {
+    "COUNTRY_ISO2": "LA",
+    "LANG": "E",
+    "NAME": "Laos"
+  },
+  {
+    "COUNTRY_ISO2": "LA",
+    "LANG": "F",
+    "NAME": "Laos"
+  },
+  {
+    "COUNTRY_ISO2": "LA",
+    "LANG": "GB",
+    "NAME": "Laos"
+  },
+  {
+    "COUNTRY_ISO2": "LA",
+    "LANG": "I",
+    "NAME": "Laos"
+  },
+  {
+    "COUNTRY_ISO2": "LA",
+    "LANG": "NL",
+    "NAME": "Laos"
+  },
+  {
+    "COUNTRY_ISO2": "LA",
+    "LANG": "PL",
+    "NAME": "Laos"
+  },
+  {
+    "COUNTRY_ISO2": "LA",
+    "LANG": "PT",
+    "NAME": "Laos"
+  },
+  {
+    "COUNTRY_ISO2": "LA",
+    "LANG": "T",
+    "NAME": "Laos"
+  },
+  {
+    "COUNTRY_ISO2": "LB",
+    "LANG": "D",
+    "NAME": "Libanon"
+  },
+  {
+    "COUNTRY_ISO2": "LB",
+    "LANG": "DA",
+    "NAME": "Libanon"
+  },
+  {
+    "COUNTRY_ISO2": "LB",
+    "LANG": "E",
+    "NAME": "Libanon"
+  },
+  {
+    "COUNTRY_ISO2": "LB",
+    "LANG": "F",
+    "NAME": "Liban"
+  },
+  {
+    "COUNTRY_ISO2": "LB",
+    "LANG": "GB",
+    "NAME": "Lebanon"
+  },
+  {
+    "COUNTRY_ISO2": "LB",
+    "LANG": "I",
+    "NAME": "Libano"
+  },
+  {
+    "COUNTRY_ISO2": "LB",
+    "LANG": "NL",
+    "NAME": "Libanon"
+  },
+  {
+    "COUNTRY_ISO2": "LB",
+    "LANG": "PL",
+    "NAME": "Liban"
+  },
+  {
+    "COUNTRY_ISO2": "LB",
+    "LANG": "PT",
+    "NAME": "L�bano"
+  },
+  {
+    "COUNTRY_ISO2": "LB",
+    "LANG": "T",
+    "NAME": "L�bnan"
+  },
+  {
+    "COUNTRY_ISO2": "LC",
+    "LANG": "D",
+    "NAME": "St. Lucia"
+  },
+  {
+    "COUNTRY_ISO2": "LC",
+    "LANG": "DA",
+    "NAME": "St. Lucia"
+  },
+  {
+    "COUNTRY_ISO2": "LC",
+    "LANG": "E",
+    "NAME": "Sta Lucia"
+  },
+  {
+    "COUNTRY_ISO2": "LC",
+    "LANG": "F",
+    "NAME": "Sainte-Lucie"
+  },
+  {
+    "COUNTRY_ISO2": "LC",
+    "LANG": "GB",
+    "NAME": "Saint Lucia"
+  },
+  {
+    "COUNTRY_ISO2": "LC",
+    "LANG": "I",
+    "NAME": "Santa Lucia"
+  },
+  {
+    "COUNTRY_ISO2": "LC",
+    "LANG": "NL",
+    "NAME": "Saint Lucia"
+  },
+  {
+    "COUNTRY_ISO2": "LC",
+    "LANG": "PL",
+    "NAME": "Saint Lucia"
+  },
+  {
+    "COUNTRY_ISO2": "LC",
+    "LANG": "PT",
+    "NAME": "Santa L�cia"
+  },
+  {
+    "COUNTRY_ISO2": "LC",
+    "LANG": "T",
+    "NAME": "St. Lucia"
+  },
+  {
+    "COUNTRY_ISO2": "LI",
+    "LANG": "D",
+    "NAME": "Liechtenstein"
+  },
+  {
+    "COUNTRY_ISO2": "LI",
+    "LANG": "DA",
+    "NAME": "Liechtenstein"
+  },
+  {
+    "COUNTRY_ISO2": "LI",
+    "LANG": "E",
+    "NAME": "Liechtenstein"
+  },
+  {
+    "COUNTRY_ISO2": "LI",
+    "LANG": "F",
+    "NAME": "Liechtenstein"
+  },
+  {
+    "COUNTRY_ISO2": "LI",
+    "LANG": "GB",
+    "NAME": "Liechtenstein"
+  },
+  {
+    "COUNTRY_ISO2": "LI",
+    "LANG": "I",
+    "NAME": "Liechtenstein"
+  },
+  {
+    "COUNTRY_ISO2": "LI",
+    "LANG": "NL",
+    "NAME": "Liechtenstein"
+  },
+  {
+    "COUNTRY_ISO2": "LI",
+    "LANG": "PL",
+    "NAME": "Liechtenstein"
+  },
+  {
+    "COUNTRY_ISO2": "LI",
+    "LANG": "PT",
+    "NAME": "Liechtenstein"
+  },
+  {
+    "COUNTRY_ISO2": "LI",
+    "LANG": "T",
+    "NAME": "Lichtenstein"
+  },
+  {
+    "COUNTRY_ISO2": "LK",
+    "LANG": "D",
+    "NAME": "Sri Lanka"
+  },
+  {
+    "COUNTRY_ISO2": "LK",
+    "LANG": "DA",
+    "NAME": "Sri Lanka"
+  },
+  {
+    "COUNTRY_ISO2": "LK",
+    "LANG": "E",
+    "NAME": "Sri Lanka"
+  },
+  {
+    "COUNTRY_ISO2": "LK",
+    "LANG": "F",
+    "NAME": "Sri Lanka"
+  },
+  {
+    "COUNTRY_ISO2": "LK",
+    "LANG": "GB",
+    "NAME": "Sri Lanka"
+  },
+  {
+    "COUNTRY_ISO2": "LK",
+    "LANG": "I",
+    "NAME": "Sri Lanka"
+  },
+  {
+    "COUNTRY_ISO2": "LK",
+    "LANG": "NL",
+    "NAME": "Sri Lanka"
+  },
+  {
+    "COUNTRY_ISO2": "LK",
+    "LANG": "PL",
+    "NAME": "Sri Lanka"
+  },
+  {
+    "COUNTRY_ISO2": "LK",
+    "LANG": "PT",
+    "NAME": "Sri Lanka"
+  },
+  {
+    "COUNTRY_ISO2": "LK",
+    "LANG": "T",
+    "NAME": "Sri Lanka"
+  },
+  {
+    "COUNTRY_ISO2": "LR",
+    "LANG": "D",
+    "NAME": "Liberia"
+  },
+  {
+    "COUNTRY_ISO2": "LR",
+    "LANG": "DA",
+    "NAME": "Liberia"
+  },
+  {
+    "COUNTRY_ISO2": "LR",
+    "LANG": "E",
+    "NAME": "Liberia"
+  },
+  {
+    "COUNTRY_ISO2": "LR",
+    "LANG": "F",
+    "NAME": "Liberia"
+  },
+  {
+    "COUNTRY_ISO2": "LR",
+    "LANG": "GB",
+    "NAME": "Liberia"
+  },
+  {
+    "COUNTRY_ISO2": "LR",
+    "LANG": "I",
+    "NAME": "Liberia"
+  },
+  {
+    "COUNTRY_ISO2": "LR",
+    "LANG": "NL",
+    "NAME": "Liberia"
+  },
+  {
+    "COUNTRY_ISO2": "LR",
+    "LANG": "PL",
+    "NAME": "Liberia"
+  },
+  {
+    "COUNTRY_ISO2": "LR",
+    "LANG": "PT",
+    "NAME": "Lib�ria"
+  },
+  {
+    "COUNTRY_ISO2": "LR",
+    "LANG": "T",
+    "NAME": "Liberya"
+  },
+  {
+    "COUNTRY_ISO2": "LS",
+    "LANG": "D",
+    "NAME": "Lesotho"
+  },
+  {
+    "COUNTRY_ISO2": "LS",
+    "LANG": "DA",
+    "NAME": "Lesotho"
+  },
+  {
+    "COUNTRY_ISO2": "LS",
+    "LANG": "E",
+    "NAME": "Lesoto"
+  },
+  {
+    "COUNTRY_ISO2": "LS",
+    "LANG": "F",
+    "NAME": "Lesotho"
+  },
+  {
+    "COUNTRY_ISO2": "LS",
+    "LANG": "GB",
+    "NAME": "Lesotho"
+  },
+  {
+    "COUNTRY_ISO2": "LS",
+    "LANG": "I",
+    "NAME": "Lesotho"
+  },
+  {
+    "COUNTRY_ISO2": "LS",
+    "LANG": "NL",
+    "NAME": "Lesotho"
+  },
+  {
+    "COUNTRY_ISO2": "LS",
+    "LANG": "PL",
+    "NAME": "Lesotho"
+  },
+  {
+    "COUNTRY_ISO2": "LS",
+    "LANG": "PT",
+    "NAME": "Lesoto"
+  },
+  {
+    "COUNTRY_ISO2": "LS",
+    "LANG": "T",
+    "NAME": "Lesoto"
+  },
+  {
+    "COUNTRY_ISO2": "LT",
+    "LANG": "D",
+    "NAME": "Litauen"
+  },
+  {
+    "COUNTRY_ISO2": "LT",
+    "LANG": "DA",
+    "NAME": "Litauen"
+  },
+  {
+    "COUNTRY_ISO2": "LT",
+    "LANG": "E",
+    "NAME": "Lituania"
+  },
+  {
+    "COUNTRY_ISO2": "LT",
+    "LANG": "F",
+    "NAME": "Lituanie"
+  },
+  {
+    "COUNTRY_ISO2": "LT",
+    "LANG": "GB",
+    "NAME": "Lithuania"
+  },
+  {
+    "COUNTRY_ISO2": "LT",
+    "LANG": "I",
+    "NAME": "Lituania"
+  },
+  {
+    "COUNTRY_ISO2": "LT",
+    "LANG": "NL",
+    "NAME": "Litouwen"
+  },
+  {
+    "COUNTRY_ISO2": "LT",
+    "LANG": "PL",
+    "NAME": "Litwa"
+  },
+  {
+    "COUNTRY_ISO2": "LT",
+    "LANG": "PT",
+    "NAME": "Litu�nia"
+  },
+  {
+    "COUNTRY_ISO2": "LT",
+    "LANG": "T",
+    "NAME": "Litvanya"
+  },
+  {
+    "COUNTRY_ISO2": "LU",
+    "LANG": "D",
+    "NAME": "Luxemburg"
+  },
+  {
+    "COUNTRY_ISO2": "LU",
+    "LANG": "DA",
+    "NAME": "Luxembourg"
+  },
+  {
+    "COUNTRY_ISO2": "LU",
+    "LANG": "E",
+    "NAME": "Luxemburgo"
+  },
+  {
+    "COUNTRY_ISO2": "LU",
+    "LANG": "F",
+    "NAME": "Luxembourg"
+  },
+  {
+    "COUNTRY_ISO2": "LU",
+    "LANG": "GB",
+    "NAME": "Luxembourg"
+  },
+  {
+    "COUNTRY_ISO2": "LU",
+    "LANG": "I",
+    "NAME": "Lussemburgo"
+  },
+  {
+    "COUNTRY_ISO2": "LU",
+    "LANG": "NL",
+    "NAME": "Luxemburg"
+  },
+  {
+    "COUNTRY_ISO2": "LU",
+    "LANG": "PL",
+    "NAME": "Luksemburg"
+  },
+  {
+    "COUNTRY_ISO2": "LU",
+    "LANG": "PT",
+    "NAME": "Luxemburgo"
+  },
+  {
+    "COUNTRY_ISO2": "LU",
+    "LANG": "T",
+    "NAME": "L�ksemburg"
+  },
+  {
+    "COUNTRY_ISO2": "LV",
+    "LANG": "D",
+    "NAME": "Lettland"
+  },
+  {
+    "COUNTRY_ISO2": "LV",
+    "LANG": "DA",
+    "NAME": "Letland"
+  },
+  {
+    "COUNTRY_ISO2": "LV",
+    "LANG": "E",
+    "NAME": "Letonia"
+  },
+  {
+    "COUNTRY_ISO2": "LV",
+    "LANG": "F",
+    "NAME": "Lettonie"
+  },
+  {
+    "COUNTRY_ISO2": "LV",
+    "LANG": "GB",
+    "NAME": "Latvia"
+  },
+  {
+    "COUNTRY_ISO2": "LV",
+    "LANG": "I",
+    "NAME": "Lettonia"
+  },
+  {
+    "COUNTRY_ISO2": "LV",
+    "LANG": "NL",
+    "NAME": "Letland"
+  },
+  {
+    "COUNTRY_ISO2": "LV",
+    "LANG": "PL",
+    "NAME": "Lotwa"
+  },
+  {
+    "COUNTRY_ISO2": "LV",
+    "LANG": "PT",
+    "NAME": "Let�nia"
+  },
+  {
+    "COUNTRY_ISO2": "LV",
+    "LANG": "T",
+    "NAME": "Letonya"
+  },
+  {
+    "COUNTRY_ISO2": "LY",
+    "LANG": "D",
+    "NAME": "Libyen"
+  },
+  {
+    "COUNTRY_ISO2": "LY",
+    "LANG": "DA",
+    "NAME": "Libyen"
+  },
+  {
+    "COUNTRY_ISO2": "LY",
+    "LANG": "E",
+    "NAME": "Libia"
+  },
+  {
+    "COUNTRY_ISO2": "LY",
+    "LANG": "F",
+    "NAME": "Libye"
+  },
+  {
+    "COUNTRY_ISO2": "LY",
+    "LANG": "GB",
+    "NAME": "Libya"
+  },
+  {
+    "COUNTRY_ISO2": "LY",
+    "LANG": "I",
+    "NAME": "Libia"
+  },
+  {
+    "COUNTRY_ISO2": "LY",
+    "LANG": "NL",
+    "NAME": "Libi�"
+  },
+  {
+    "COUNTRY_ISO2": "LY",
+    "LANG": "PL",
+    "NAME": "Libia"
+  },
+  {
+    "COUNTRY_ISO2": "LY",
+    "LANG": "PT",
+    "NAME": "L�bia"
+  },
+  {
+    "COUNTRY_ISO2": "LY",
+    "LANG": "T",
+    "NAME": "Libya"
+  },
+  {
+    "COUNTRY_ISO2": "MA",
+    "LANG": "D",
+    "NAME": "Marokko"
+  },
+  {
+    "COUNTRY_ISO2": "MA",
+    "LANG": "DA",
+    "NAME": "Marokko"
+  },
+  {
+    "COUNTRY_ISO2": "MA",
+    "LANG": "E",
+    "NAME": "Marruecos"
+  },
+  {
+    "COUNTRY_ISO2": "MA",
+    "LANG": "F",
+    "NAME": "Maroc"
+  },
+  {
+    "COUNTRY_ISO2": "MA",
+    "LANG": "GB",
+    "NAME": "Morocco"
+  },
+  {
+    "COUNTRY_ISO2": "MA",
+    "LANG": "I",
+    "NAME": "Marocco"
+  },
+  {
+    "COUNTRY_ISO2": "MA",
+    "LANG": "NL",
+    "NAME": "Marokko"
+  },
+  {
+    "COUNTRY_ISO2": "MA",
+    "LANG": "PL",
+    "NAME": "Maroko"
+  },
+  {
+    "COUNTRY_ISO2": "MA",
+    "LANG": "PT",
+    "NAME": "Marrocos"
+  },
+  {
+    "COUNTRY_ISO2": "MA",
+    "LANG": "T",
+    "NAME": "Fas"
+  },
+  {
+    "COUNTRY_ISO2": "MC",
+    "LANG": "D",
+    "NAME": "Monaco"
+  },
+  {
+    "COUNTRY_ISO2": "MC",
+    "LANG": "DA",
+    "NAME": "Monaco"
+  },
+  {
+    "COUNTRY_ISO2": "MC",
+    "LANG": "E",
+    "NAME": "Monaco"
+  },
+  {
+    "COUNTRY_ISO2": "MC",
+    "LANG": "F",
+    "NAME": "Monaco"
+  },
+  {
+    "COUNTRY_ISO2": "MC",
+    "LANG": "GB",
+    "NAME": "Monaco"
+  },
+  {
+    "COUNTRY_ISO2": "MC",
+    "LANG": "I",
+    "NAME": "Principato di Monaco"
+  },
+  {
+    "COUNTRY_ISO2": "MC",
+    "LANG": "NL",
+    "NAME": "Monaco"
+  },
+  {
+    "COUNTRY_ISO2": "MC",
+    "LANG": "PL",
+    "NAME": "Monako"
+  },
+  {
+    "COUNTRY_ISO2": "MC",
+    "LANG": "PT",
+    "NAME": "M�naco"
+  },
+  {
+    "COUNTRY_ISO2": "MC",
+    "LANG": "T",
+    "NAME": "Monako"
+  },
+  {
+    "COUNTRY_ISO2": "MD",
+    "LANG": "D",
+    "NAME": "Moldawien"
+  },
+  {
+    "COUNTRY_ISO2": "MD",
+    "LANG": "DA",
+    "NAME": "Moldova"
+  },
+  {
+    "COUNTRY_ISO2": "MD",
+    "LANG": "E",
+    "NAME": "Moldavia"
+  },
+  {
+    "COUNTRY_ISO2": "MD",
+    "LANG": "F",
+    "NAME": "Moldavie"
+  },
+  {
+    "COUNTRY_ISO2": "MD",
+    "LANG": "GB",
+    "NAME": "Moldavia"
+  },
+  {
+    "COUNTRY_ISO2": "MD",
+    "LANG": "I",
+    "NAME": "Moldavia"
+  },
+  {
+    "COUNTRY_ISO2": "MD",
+    "LANG": "NL",
+    "NAME": "Moldavi�"
+  },
+  {
+    "COUNTRY_ISO2": "MD",
+    "LANG": "PL",
+    "NAME": "Moldawia"
+  },
+  {
+    "COUNTRY_ISO2": "MD",
+    "LANG": "PT",
+    "NAME": "Mold�via"
+  },
+  {
+    "COUNTRY_ISO2": "MD",
+    "LANG": "T",
+    "NAME": "Moldavya"
+  },
+  {
+    "COUNTRY_ISO2": "ME",
+    "LANG": "D",
+    "NAME": "Montenegro"
+  },
+  {
+    "COUNTRY_ISO2": "ME",
+    "LANG": "DA",
+    "NAME": "Montenegro"
+  },
+  {
+    "COUNTRY_ISO2": "ME",
+    "LANG": "E",
+    "NAME": "Montenegro"
+  },
+  {
+    "COUNTRY_ISO2": "ME",
+    "LANG": "F",
+    "NAME": "Mont�n�gro"
+  },
+  {
+    "COUNTRY_ISO2": "ME",
+    "LANG": "GB",
+    "NAME": "Montenegro"
+  },
+  {
+    "COUNTRY_ISO2": "ME",
+    "LANG": "I",
+    "NAME": "Montenegro"
+  },
+  {
+    "COUNTRY_ISO2": "ME",
+    "LANG": "NL",
+    "NAME": "Montenegro"
+  },
+  {
+    "COUNTRY_ISO2": "ME",
+    "LANG": "PL",
+    "NAME": "Czarnog�ra"
+  },
+  {
+    "COUNTRY_ISO2": "ME",
+    "LANG": "PT",
+    "NAME": "Montenegro"
+  },
+  {
+    "COUNTRY_ISO2": "ME",
+    "LANG": "T",
+    "NAME": "Karadag"
+  },
+  {
+    "COUNTRY_ISO2": "MF",
+    "LANG": "D",
+    "NAME": "Saint Martin"
+  },
+  {
+    "COUNTRY_ISO2": "MF",
+    "LANG": "GB",
+    "NAME": "Saint Martin"
+  },
+  {
+    "COUNTRY_ISO2": "MG",
+    "LANG": "D",
+    "NAME": "Madagaskar"
+  },
+  {
+    "COUNTRY_ISO2": "MG",
+    "LANG": "DA",
+    "NAME": "Madagaskar"
+  },
+  {
+    "COUNTRY_ISO2": "MG",
+    "LANG": "E",
+    "NAME": "Madagascar"
+  },
+  {
+    "COUNTRY_ISO2": "MG",
+    "LANG": "F",
+    "NAME": "Madagascar"
+  },
+  {
+    "COUNTRY_ISO2": "MG",
+    "LANG": "GB",
+    "NAME": "Madagascar"
+  },
+  {
+    "COUNTRY_ISO2": "MG",
+    "LANG": "I",
+    "NAME": "Madagascar"
+  },
+  {
+    "COUNTRY_ISO2": "MG",
+    "LANG": "NL",
+    "NAME": "Madagaskar"
+  },
+  {
+    "COUNTRY_ISO2": "MG",
+    "LANG": "PL",
+    "NAME": "Madagaskar"
+  },
+  {
+    "COUNTRY_ISO2": "MG",
+    "LANG": "PT",
+    "NAME": "Madag�scar"
+  },
+  {
+    "COUNTRY_ISO2": "MG",
+    "LANG": "T",
+    "NAME": "Madagaskar"
+  },
+  {
+    "COUNTRY_ISO2": "MK",
+    "LANG": "D",
+    "NAME": "Mazedonien"
+  },
+  {
+    "COUNTRY_ISO2": "MK",
+    "LANG": "DA",
+    "NAME": "Makedonien"
+  },
+  {
+    "COUNTRY_ISO2": "MK",
+    "LANG": "E",
+    "NAME": "Macedonia"
+  },
+  {
+    "COUNTRY_ISO2": "MK",
+    "LANG": "F",
+    "NAME": "Mac�doine"
+  },
+  {
+    "COUNTRY_ISO2": "MK",
+    "LANG": "GB",
+    "NAME": "Macedonia"
+  },
+  {
+    "COUNTRY_ISO2": "MK",
+    "LANG": "I",
+    "NAME": "Macedonia"
+  },
+  {
+    "COUNTRY_ISO2": "MK",
+    "LANG": "NL",
+    "NAME": "Macedoni�"
+  },
+  {
+    "COUNTRY_ISO2": "MK",
+    "LANG": "PL",
+    "NAME": "Macedonia"
+  },
+  {
+    "COUNTRY_ISO2": "MK",
+    "LANG": "PT",
+    "NAME": "Maced�nia"
+  },
+  {
+    "COUNTRY_ISO2": "MK",
+    "LANG": "T",
+    "NAME": "Makedonya"
+  },
+  {
+    "COUNTRY_ISO2": "ML",
+    "LANG": "D",
+    "NAME": "Mali"
+  },
+  {
+    "COUNTRY_ISO2": "ML",
+    "LANG": "DA",
+    "NAME": "Mali"
+  },
+  {
+    "COUNTRY_ISO2": "ML",
+    "LANG": "E",
+    "NAME": "Mali"
+  },
+  {
+    "COUNTRY_ISO2": "ML",
+    "LANG": "F",
+    "NAME": "Mali"
+  },
+  {
+    "COUNTRY_ISO2": "ML",
+    "LANG": "GB",
+    "NAME": "Mali"
+  },
+  {
+    "COUNTRY_ISO2": "ML",
+    "LANG": "I",
+    "NAME": "Mali"
+  },
+  {
+    "COUNTRY_ISO2": "ML",
+    "LANG": "NL",
+    "NAME": "Mali"
+  },
+  {
+    "COUNTRY_ISO2": "ML",
+    "LANG": "PL",
+    "NAME": "Mali"
+  },
+  {
+    "COUNTRY_ISO2": "ML",
+    "LANG": "PT",
+    "NAME": "Mali"
+  },
+  {
+    "COUNTRY_ISO2": "ML",
+    "LANG": "T",
+    "NAME": "Mali"
+  },
+  {
+    "COUNTRY_ISO2": "MM",
+    "LANG": "D",
+    "NAME": "Myanmar (Burma)"
+  },
+  {
+    "COUNTRY_ISO2": "MM",
+    "LANG": "DA",
+    "NAME": "Myanmar (Burma)"
+  },
+  {
+    "COUNTRY_ISO2": "MM",
+    "LANG": "E",
+    "NAME": "Birmania"
+  },
+  {
+    "COUNTRY_ISO2": "MM",
+    "LANG": "F",
+    "NAME": "Myanmar (Birmanie)"
+  },
+  {
+    "COUNTRY_ISO2": "MM",
+    "LANG": "GB",
+    "NAME": "Burma"
+  },
+  {
+    "COUNTRY_ISO2": "MM",
+    "LANG": "I",
+    "NAME": "Birmania"
+  },
+  {
+    "COUNTRY_ISO2": "MM",
+    "LANG": "NL",
+    "NAME": "Myanmar (Burma)"
+  },
+  {
+    "COUNTRY_ISO2": "MM",
+    "LANG": "PL",
+    "NAME": "Birma"
+  },
+  {
+    "COUNTRY_ISO2": "MM",
+    "LANG": "PT",
+    "NAME": "Myanmar (Burma)"
+  },
+  {
+    "COUNTRY_ISO2": "MM",
+    "LANG": "T",
+    "NAME": "Myanmar (Burma)"
+  },
+  {
+    "COUNTRY_ISO2": "MN",
+    "LANG": "D",
+    "NAME": "Mongolei"
+  },
+  {
+    "COUNTRY_ISO2": "MN",
+    "LANG": "DA",
+    "NAME": "Mongoliet"
+  },
+  {
+    "COUNTRY_ISO2": "MN",
+    "LANG": "E",
+    "NAME": "Mongolia"
+  },
+  {
+    "COUNTRY_ISO2": "MN",
+    "LANG": "F",
+    "NAME": "Mongolie"
+  },
+  {
+    "COUNTRY_ISO2": "MN",
+    "LANG": "GB",
+    "NAME": "Mongolia"
+  },
+  {
+    "COUNTRY_ISO2": "MN",
+    "LANG": "I",
+    "NAME": "Mongolia"
+  },
+  {
+    "COUNTRY_ISO2": "MN",
+    "LANG": "NL",
+    "NAME": "Mongoli�"
+  },
+  {
+    "COUNTRY_ISO2": "MN",
+    "LANG": "PL",
+    "NAME": "Mongolia"
+  },
+  {
+    "COUNTRY_ISO2": "MN",
+    "LANG": "PT",
+    "NAME": "Mong�lia"
+  },
+  {
+    "COUNTRY_ISO2": "MN",
+    "LANG": "T",
+    "NAME": "Mogolistan"
+  },
+  {
+    "COUNTRY_ISO2": "MO",
+    "LANG": "D",
+    "NAME": "Macau"
+  },
+  {
+    "COUNTRY_ISO2": "MO",
+    "LANG": "DA",
+    "NAME": "Macau"
+  },
+  {
+    "COUNTRY_ISO2": "MO",
+    "LANG": "E",
+    "NAME": "Macau"
+  },
+  {
+    "COUNTRY_ISO2": "MO",
+    "LANG": "F",
+    "NAME": "Macao"
+  },
+  {
+    "COUNTRY_ISO2": "MO",
+    "LANG": "GB",
+    "NAME": "Macau"
+  },
+  {
+    "COUNTRY_ISO2": "MO",
+    "LANG": "I",
+    "NAME": "Macao"
+  },
+  {
+    "COUNTRY_ISO2": "MO",
+    "LANG": "NL",
+    "NAME": "Macau"
+  },
+  {
+    "COUNTRY_ISO2": "MO",
+    "LANG": "PL",
+    "NAME": "Makau"
+  },
+  {
+    "COUNTRY_ISO2": "MO",
+    "LANG": "PT",
+    "NAME": "Macau"
+  },
+  {
+    "COUNTRY_ISO2": "MO",
+    "LANG": "T",
+    "NAME": "Macau"
+  },
+  {
+    "COUNTRY_ISO2": "MQ",
+    "LANG": "D",
+    "NAME": "Martinique"
+  },
+  {
+    "COUNTRY_ISO2": "MQ",
+    "LANG": "DA",
+    "NAME": "Martinique"
+  },
+  {
+    "COUNTRY_ISO2": "MQ",
+    "LANG": "E",
+    "NAME": "Martinica"
+  },
+  {
+    "COUNTRY_ISO2": "MQ",
+    "LANG": "F",
+    "NAME": "Martinique"
+  },
+  {
+    "COUNTRY_ISO2": "MQ",
+    "LANG": "GB",
+    "NAME": "Martinique"
+  },
+  {
+    "COUNTRY_ISO2": "MQ",
+    "LANG": "I",
+    "NAME": "Martinica"
+  },
+  {
+    "COUNTRY_ISO2": "MQ",
+    "LANG": "NL",
+    "NAME": "Martinique"
+  },
+  {
+    "COUNTRY_ISO2": "MQ",
+    "LANG": "PL",
+    "NAME": "Martynika"
+  },
+  {
+    "COUNTRY_ISO2": "MQ",
+    "LANG": "PT",
+    "NAME": "Martinica"
+  },
+  {
+    "COUNTRY_ISO2": "MQ",
+    "LANG": "T",
+    "NAME": "Martinik"
+  },
+  {
+    "COUNTRY_ISO2": "MR",
+    "LANG": "D",
+    "NAME": "Mauretanien"
+  },
+  {
+    "COUNTRY_ISO2": "MR",
+    "LANG": "DA",
+    "NAME": "Mauretanien"
+  },
+  {
+    "COUNTRY_ISO2": "MR",
+    "LANG": "E",
+    "NAME": "Mauritania"
+  },
+  {
+    "COUNTRY_ISO2": "MR",
+    "LANG": "F",
+    "NAME": "Mauritanie"
+  },
+  {
+    "COUNTRY_ISO2": "MR",
+    "LANG": "GB",
+    "NAME": "Mauritania"
+  },
+  {
+    "COUNTRY_ISO2": "MR",
+    "LANG": "I",
+    "NAME": "Mauritania"
+  },
+  {
+    "COUNTRY_ISO2": "MR",
+    "LANG": "NL",
+    "NAME": "Mauritani�"
+  },
+  {
+    "COUNTRY_ISO2": "MR",
+    "LANG": "PL",
+    "NAME": "Mauretania"
+  },
+  {
+    "COUNTRY_ISO2": "MR",
+    "LANG": "PT",
+    "NAME": "Maurit�nia"
+  },
+  {
+    "COUNTRY_ISO2": "MR",
+    "LANG": "T",
+    "NAME": "Moritanya"
+  },
+  {
+    "COUNTRY_ISO2": "MS",
+    "LANG": "D",
+    "NAME": "Montserrat"
+  },
+  {
+    "COUNTRY_ISO2": "MS",
+    "LANG": "DA",
+    "NAME": "Montserrat"
+  },
+  {
+    "COUNTRY_ISO2": "MS",
+    "LANG": "E",
+    "NAME": "Montserrat"
+  },
+  {
+    "COUNTRY_ISO2": "MS",
+    "LANG": "F",
+    "NAME": "Montserrat"
+  },
+  {
+    "COUNTRY_ISO2": "MS",
+    "LANG": "GB",
+    "NAME": "Montserrat"
+  },
+  {
+    "COUNTRY_ISO2": "MS",
+    "LANG": "I",
+    "NAME": "Montserrat"
+  },
+  {
+    "COUNTRY_ISO2": "MS",
+    "LANG": "NL",
+    "NAME": "Montserrat"
+  },
+  {
+    "COUNTRY_ISO2": "MS",
+    "LANG": "PL",
+    "NAME": "Montserrat"
+  },
+  {
+    "COUNTRY_ISO2": "MS",
+    "LANG": "PT",
+    "NAME": "Monserrate"
+  },
+  {
+    "COUNTRY_ISO2": "MS",
+    "LANG": "T",
+    "NAME": "Montserrat"
+  },
+  {
+    "COUNTRY_ISO2": "MT",
+    "LANG": "D",
+    "NAME": "Malta"
+  },
+  {
+    "COUNTRY_ISO2": "MT",
+    "LANG": "DA",
+    "NAME": "Malta"
+  },
+  {
+    "COUNTRY_ISO2": "MT",
+    "LANG": "E",
+    "NAME": "Malta"
+  },
+  {
+    "COUNTRY_ISO2": "MT",
+    "LANG": "F",
+    "NAME": "Malte"
+  },
+  {
+    "COUNTRY_ISO2": "MT",
+    "LANG": "GB",
+    "NAME": "Malta"
+  },
+  {
+    "COUNTRY_ISO2": "MT",
+    "LANG": "I",
+    "NAME": "Malta"
+  },
+  {
+    "COUNTRY_ISO2": "MT",
+    "LANG": "NL",
+    "NAME": "Malta"
+  },
+  {
+    "COUNTRY_ISO2": "MT",
+    "LANG": "PL",
+    "NAME": "Malta"
+  },
+  {
+    "COUNTRY_ISO2": "MT",
+    "LANG": "PT",
+    "NAME": "Malta"
+  },
+  {
+    "COUNTRY_ISO2": "MT",
+    "LANG": "T",
+    "NAME": "Malta"
+  },
+  {
+    "COUNTRY_ISO2": "MU",
+    "LANG": "D",
+    "NAME": "Mauritius"
+  },
+  {
+    "COUNTRY_ISO2": "MU",
+    "LANG": "DA",
+    "NAME": "Mauritius"
+  },
+  {
+    "COUNTRY_ISO2": "MU",
+    "LANG": "E",
+    "NAME": "Mauricio"
+  },
+  {
+    "COUNTRY_ISO2": "MU",
+    "LANG": "F",
+    "NAME": "�le Maurice"
+  },
+  {
+    "COUNTRY_ISO2": "MU",
+    "LANG": "GB",
+    "NAME": "Mauritius"
+  },
+  {
+    "COUNTRY_ISO2": "MU",
+    "LANG": "I",
+    "NAME": "Maurizio"
+  },
+  {
+    "COUNTRY_ISO2": "MU",
+    "LANG": "NL",
+    "NAME": "Mauritius"
+  },
+  {
+    "COUNTRY_ISO2": "MU",
+    "LANG": "PL",
+    "NAME": "Mauritius"
+  },
+  {
+    "COUNTRY_ISO2": "MU",
+    "LANG": "PT",
+    "NAME": "Maur�cias"
+  },
+  {
+    "COUNTRY_ISO2": "MU",
+    "LANG": "T",
+    "NAME": "Mauritius"
+  },
+  {
+    "COUNTRY_ISO2": "MV",
+    "LANG": "D",
+    "NAME": "Malediven"
+  },
+  {
+    "COUNTRY_ISO2": "MV",
+    "LANG": "DA",
+    "NAME": "Maldiverne"
+  },
+  {
+    "COUNTRY_ISO2": "MV",
+    "LANG": "E",
+    "NAME": "Maldivas"
+  },
+  {
+    "COUNTRY_ISO2": "MV",
+    "LANG": "F",
+    "NAME": "�les Maldives"
+  },
+  {
+    "COUNTRY_ISO2": "MV",
+    "LANG": "GB",
+    "NAME": "Maldives"
+  },
+  {
+    "COUNTRY_ISO2": "MV",
+    "LANG": "I",
+    "NAME": "Maldive"
+  },
+  {
+    "COUNTRY_ISO2": "MV",
+    "LANG": "NL",
+    "NAME": "Maldiven"
+  },
+  {
+    "COUNTRY_ISO2": "MV",
+    "LANG": "PL",
+    "NAME": "Malediwy"
+  },
+  {
+    "COUNTRY_ISO2": "MV",
+    "LANG": "PT",
+    "NAME": "Maldivas"
+  },
+  {
+    "COUNTRY_ISO2": "MV",
+    "LANG": "T",
+    "NAME": "Maldivler"
+  },
+  {
+    "COUNTRY_ISO2": "MW",
+    "LANG": "D",
+    "NAME": "Malawi"
+  },
+  {
+    "COUNTRY_ISO2": "MW",
+    "LANG": "DA",
+    "NAME": "Malawi"
+  },
+  {
+    "COUNTRY_ISO2": "MW",
+    "LANG": "E",
+    "NAME": "Malawi"
+  },
+  {
+    "COUNTRY_ISO2": "MW",
+    "LANG": "F",
+    "NAME": "Malawi"
+  },
+  {
+    "COUNTRY_ISO2": "MW",
+    "LANG": "GB",
+    "NAME": "Malawi"
+  },
+  {
+    "COUNTRY_ISO2": "MW",
+    "LANG": "I",
+    "NAME": "Malawi"
+  },
+  {
+    "COUNTRY_ISO2": "MW",
+    "LANG": "NL",
+    "NAME": "Malawi"
+  },
+  {
+    "COUNTRY_ISO2": "MW",
+    "LANG": "PL",
+    "NAME": "Malawi"
+  },
+  {
+    "COUNTRY_ISO2": "MW",
+    "LANG": "PT",
+    "NAME": "Malawi"
+  },
+  {
+    "COUNTRY_ISO2": "MW",
+    "LANG": "T",
+    "NAME": "Malavi"
+  },
+  {
+    "COUNTRY_ISO2": "MX",
+    "LANG": "D",
+    "NAME": "Mexiko"
+  },
+  {
+    "COUNTRY_ISO2": "MX",
+    "LANG": "DA",
+    "NAME": "Mexico"
+  },
+  {
+    "COUNTRY_ISO2": "MX",
+    "LANG": "E",
+    "NAME": "M�xico"
+  },
+  {
+    "COUNTRY_ISO2": "MX",
+    "LANG": "F",
+    "NAME": "Mexique"
+  },
+  {
+    "COUNTRY_ISO2": "MX",
+    "LANG": "GB",
+    "NAME": "Mexico"
+  },
+  {
+    "COUNTRY_ISO2": "MX",
+    "LANG": "I",
+    "NAME": "Messico"
+  },
+  {
+    "COUNTRY_ISO2": "MX",
+    "LANG": "NL",
+    "NAME": "Mexico"
+  },
+  {
+    "COUNTRY_ISO2": "MX",
+    "LANG": "PL",
+    "NAME": "Meksyk"
+  },
+  {
+    "COUNTRY_ISO2": "MX",
+    "LANG": "PT",
+    "NAME": "M�xico"
+  },
+  {
+    "COUNTRY_ISO2": "MX",
+    "LANG": "T",
+    "NAME": "Meksika"
+  },
+  {
+    "COUNTRY_ISO2": "MY",
+    "LANG": "D",
+    "NAME": "Malaysia"
+  },
+  {
+    "COUNTRY_ISO2": "MY",
+    "LANG": "DA",
+    "NAME": "Malaysia"
+  },
+  {
+    "COUNTRY_ISO2": "MY",
+    "LANG": "E",
+    "NAME": "Malasia"
+  },
+  {
+    "COUNTRY_ISO2": "MY",
+    "LANG": "F",
+    "NAME": "Malaisie"
+  },
+  {
+    "COUNTRY_ISO2": "MY",
+    "LANG": "GB",
+    "NAME": "Malaysia"
+  },
+  {
+    "COUNTRY_ISO2": "MY",
+    "LANG": "I",
+    "NAME": "Malesia"
+  },
+  {
+    "COUNTRY_ISO2": "MY",
+    "LANG": "NL",
+    "NAME": "Maleisi�"
+  },
+  {
+    "COUNTRY_ISO2": "MY",
+    "LANG": "PL",
+    "NAME": "Malezja"
+  },
+  {
+    "COUNTRY_ISO2": "MY",
+    "LANG": "PT",
+    "NAME": "Mal�sia"
+  },
+  {
+    "COUNTRY_ISO2": "MY",
+    "LANG": "T",
+    "NAME": "Malezya"
+  },
+  {
+    "COUNTRY_ISO2": "MZ",
+    "LANG": "D",
+    "NAME": "Mosambik"
+  },
+  {
+    "COUNTRY_ISO2": "MZ",
+    "LANG": "DA",
+    "NAME": "Mocambique"
+  },
+  {
+    "COUNTRY_ISO2": "MZ",
+    "LANG": "E",
+    "NAME": "Mozambique"
+  },
+  {
+    "COUNTRY_ISO2": "MZ",
+    "LANG": "F",
+    "NAME": "Mozambique"
+  },
+  {
+    "COUNTRY_ISO2": "MZ",
+    "LANG": "GB",
+    "NAME": "Mozambique"
+  },
+  {
+    "COUNTRY_ISO2": "MZ",
+    "LANG": "I",
+    "NAME": "Mozambico"
+  },
+  {
+    "COUNTRY_ISO2": "MZ",
+    "LANG": "NL",
+    "NAME": "Mozambique"
+  },
+  {
+    "COUNTRY_ISO2": "MZ",
+    "LANG": "PL",
+    "NAME": "Mozambik"
+  },
+  {
+    "COUNTRY_ISO2": "MZ",
+    "LANG": "PT",
+    "NAME": "Mo�ambique"
+  },
+  {
+    "COUNTRY_ISO2": "MZ",
+    "LANG": "T",
+    "NAME": "Mozambik"
+  },
+  {
+    "COUNTRY_ISO2": null,
+    "LANG": "D",
+    "NAME": "Namibia"
+  },
+  {
+    "COUNTRY_ISO2": null,
+    "LANG": "DA",
+    "NAME": "Namibia"
+  },
+  {
+    "COUNTRY_ISO2": null,
+    "LANG": "E",
+    "NAME": "Namibia"
+  },
+  {
+    "COUNTRY_ISO2": null,
+    "LANG": "F",
+    "NAME": "Namibie"
+  },
+  {
+    "COUNTRY_ISO2": null,
+    "LANG": "GB",
+    "NAME": "Namibia"
+  },
+  {
+    "COUNTRY_ISO2": null,
+    "LANG": "I",
+    "NAME": "Namibia"
+  },
+  {
+    "COUNTRY_ISO2": null,
+    "LANG": "NL",
+    "NAME": "Namibi�"
+  },
+  {
+    "COUNTRY_ISO2": null,
+    "LANG": "PL",
+    "NAME": "Namibia"
+  },
+  {
+    "COUNTRY_ISO2": null,
+    "LANG": "PT",
+    "NAME": "Nam�bia"
+  },
+  {
+    "COUNTRY_ISO2": null,
+    "LANG": "T",
+    "NAME": "Namibiya"
+  },
+  {
+    "COUNTRY_ISO2": "NC",
+    "LANG": "D",
+    "NAME": "Neukaledonien"
+  },
+  {
+    "COUNTRY_ISO2": "NC",
+    "LANG": "DA",
+    "NAME": "Nykaledonien"
+  },
+  {
+    "COUNTRY_ISO2": "NC",
+    "LANG": "E",
+    "NAME": "Nueva Caledonia"
+  },
+  {
+    "COUNTRY_ISO2": "NC",
+    "LANG": "F",
+    "NAME": "Nouvelle-Cal�donie"
+  },
+  {
+    "COUNTRY_ISO2": "NC",
+    "LANG": "GB",
+    "NAME": "New Caledonia"
+  },
+  {
+    "COUNTRY_ISO2": "NC",
+    "LANG": "I",
+    "NAME": "Nuova Caledonia"
+  },
+  {
+    "COUNTRY_ISO2": "NC",
+    "LANG": "NL",
+    "NAME": "Nieuw-Caledoni�"
+  },
+  {
+    "COUNTRY_ISO2": "NC",
+    "LANG": "PL",
+    "NAME": "Nowa Kaledonia"
+  },
+  {
+    "COUNTRY_ISO2": "NC",
+    "LANG": "PT",
+    "NAME": "Nova Caled�nia"
+  },
+  {
+    "COUNTRY_ISO2": "NC",
+    "LANG": "T",
+    "NAME": "Yeni Kaledonya"
+  },
+  {
+    "COUNTRY_ISO2": "NE",
+    "LANG": "D",
+    "NAME": "Niger"
+  },
+  {
+    "COUNTRY_ISO2": "NE",
+    "LANG": "DA",
+    "NAME": "Niger"
+  },
+  {
+    "COUNTRY_ISO2": "NE",
+    "LANG": "E",
+    "NAME": "Niger"
+  },
+  {
+    "COUNTRY_ISO2": "NE",
+    "LANG": "F",
+    "NAME": "Niger"
+  },
+  {
+    "COUNTRY_ISO2": "NE",
+    "LANG": "GB",
+    "NAME": "Niger"
+  },
+  {
+    "COUNTRY_ISO2": "NE",
+    "LANG": "I",
+    "NAME": "Niger"
+  },
+  {
+    "COUNTRY_ISO2": "NE",
+    "LANG": "NL",
+    "NAME": "Niger"
+  },
+  {
+    "COUNTRY_ISO2": "NE",
+    "LANG": "PL",
+    "NAME": "Niger"
+  },
+  {
+    "COUNTRY_ISO2": "NE",
+    "LANG": "PT",
+    "NAME": "Niger"
+  },
+  {
+    "COUNTRY_ISO2": "NE",
+    "LANG": "T",
+    "NAME": "Nijer"
+  },
+  {
+    "COUNTRY_ISO2": "NF",
+    "LANG": "D",
+    "NAME": "Norfolkinsel"
+  },
+  {
+    "COUNTRY_ISO2": "NF",
+    "LANG": "DA",
+    "NAME": "Norfolk Island"
+  },
+  {
+    "COUNTRY_ISO2": "NF",
+    "LANG": "E",
+    "NAME": "Islas Norfolk"
+  },
+  {
+    "COUNTRY_ISO2": "NF",
+    "LANG": "F",
+    "NAME": "�le Norfolk"
+  },
+  {
+    "COUNTRY_ISO2": "NF",
+    "LANG": "GB",
+    "NAME": "Norfolk Island"
+  },
+  {
+    "COUNTRY_ISO2": "NF",
+    "LANG": "I",
+    "NAME": "Isola Norfolk"
+  },
+  {
+    "COUNTRY_ISO2": "NF",
+    "LANG": "NL",
+    "NAME": "Norfolk"
+  },
+  {
+    "COUNTRY_ISO2": "NF",
+    "LANG": "PL",
+    "NAME": "Norfolk"
+  },
+  {
+    "COUNTRY_ISO2": "NF",
+    "LANG": "PT",
+    "NAME": "Ilha de Norfolk"
+  },
+  {
+    "COUNTRY_ISO2": "NF",
+    "LANG": "T",
+    "NAME": "Norfolk Adasi"
+  },
+  {
+    "COUNTRY_ISO2": "NG",
+    "LANG": "D",
+    "NAME": "Nigeria"
+  },
+  {
+    "COUNTRY_ISO2": "NG",
+    "LANG": "DA",
+    "NAME": "Nigeria"
+  },
+  {
+    "COUNTRY_ISO2": "NG",
+    "LANG": "E",
+    "NAME": "Nigeria"
+  },
+  {
+    "COUNTRY_ISO2": "NG",
+    "LANG": "F",
+    "NAME": "Nigeria"
+  },
+  {
+    "COUNTRY_ISO2": "NG",
+    "LANG": "GB",
+    "NAME": "Nigeria"
+  },
+  {
+    "COUNTRY_ISO2": "NG",
+    "LANG": "I",
+    "NAME": "Nigeria"
+  },
+  {
+    "COUNTRY_ISO2": "NG",
+    "LANG": "NL",
+    "NAME": "Nigeria"
+  },
+  {
+    "COUNTRY_ISO2": "NG",
+    "LANG": "PL",
+    "NAME": "Nigeria"
+  },
+  {
+    "COUNTRY_ISO2": "NG",
+    "LANG": "PT",
+    "NAME": "Nig�ria"
+  },
+  {
+    "COUNTRY_ISO2": "NG",
+    "LANG": "T",
+    "NAME": "Nijerya"
+  },
+  {
+    "COUNTRY_ISO2": "NI",
+    "LANG": "D",
+    "NAME": "Nicaragua"
+  },
+  {
+    "COUNTRY_ISO2": "NI",
+    "LANG": "DA",
+    "NAME": "Nicaragua"
+  },
+  {
+    "COUNTRY_ISO2": "NI",
+    "LANG": "E",
+    "NAME": "Nicaragua"
+  },
+  {
+    "COUNTRY_ISO2": "NI",
+    "LANG": "F",
+    "NAME": "Nicaragua"
+  },
+  {
+    "COUNTRY_ISO2": "NI",
+    "LANG": "GB",
+    "NAME": "Nicaragua"
+  },
+  {
+    "COUNTRY_ISO2": "NI",
+    "LANG": "I",
+    "NAME": "Nicaragua"
+  },
+  {
+    "COUNTRY_ISO2": "NI",
+    "LANG": "NL",
+    "NAME": "Nicaragua"
+  },
+  {
+    "COUNTRY_ISO2": "NI",
+    "LANG": "PL",
+    "NAME": "Nikaragua"
+  },
+  {
+    "COUNTRY_ISO2": "NI",
+    "LANG": "PT",
+    "NAME": "Nicar�gua"
+  },
+  {
+    "COUNTRY_ISO2": "NI",
+    "LANG": "T",
+    "NAME": "Nikaragua"
+  },
+  {
+    "COUNTRY_ISO2": "NL",
+    "LANG": "D",
+    "NAME": "Niederlande"
+  },
+  {
+    "COUNTRY_ISO2": "NL",
+    "LANG": "DA",
+    "NAME": "Holland"
+  },
+  {
+    "COUNTRY_ISO2": "NL",
+    "LANG": "E",
+    "NAME": "Paises Bajos"
+  },
+  {
+    "COUNTRY_ISO2": "NL",
+    "LANG": "F",
+    "NAME": "Pays-Bas"
+  },
+  {
+    "COUNTRY_ISO2": "NL",
+    "LANG": "GB",
+    "NAME": "Netherlands"
+  },
+  {
+    "COUNTRY_ISO2": "NL",
+    "LANG": "I",
+    "NAME": "Paesi Bassi"
+  },
+  {
+    "COUNTRY_ISO2": "NL",
+    "LANG": "NL",
+    "NAME": "Nederland"
+  },
+  {
+    "COUNTRY_ISO2": "NL",
+    "LANG": "PL",
+    "NAME": "Holandia"
+  },
+  {
+    "COUNTRY_ISO2": "NL",
+    "LANG": "PT",
+    "NAME": "Holanda"
+  },
+  {
+    "COUNTRY_ISO2": "NL",
+    "LANG": "T",
+    "NAME": "Hollanda"
+  },
+  {
+    "COUNTRY_ISO2": "NO",
+    "LANG": "D",
+    "NAME": "Norwegen"
+  },
+  {
+    "COUNTRY_ISO2": "NO",
+    "LANG": "DA",
+    "NAME": "Norge"
+  },
+  {
+    "COUNTRY_ISO2": "NO",
+    "LANG": "E",
+    "NAME": "Noruega"
+  },
+  {
+    "COUNTRY_ISO2": "NO",
+    "LANG": "F",
+    "NAME": "Norv�ge"
+  },
+  {
+    "COUNTRY_ISO2": "NO",
+    "LANG": "GB",
+    "NAME": "Norway"
+  },
+  {
+    "COUNTRY_ISO2": "NO",
+    "LANG": "I",
+    "NAME": "Norvegia"
+  },
+  {
+    "COUNTRY_ISO2": "NO",
+    "LANG": "NL",
+    "NAME": "Noorwegen"
+  },
+  {
+    "COUNTRY_ISO2": "NO",
+    "LANG": "PL",
+    "NAME": "Norwegia"
+  },
+  {
+    "COUNTRY_ISO2": "NO",
+    "LANG": "PT",
+    "NAME": "Noruega"
+  },
+  {
+    "COUNTRY_ISO2": "NO",
+    "LANG": "T",
+    "NAME": "Norve�"
+  },
+  {
+    "COUNTRY_ISO2": "NP",
+    "LANG": "D",
+    "NAME": "Nepal"
+  },
+  {
+    "COUNTRY_ISO2": "NP",
+    "LANG": "DA",
+    "NAME": "Nepal"
+  },
+  {
+    "COUNTRY_ISO2": "NP",
+    "LANG": "E",
+    "NAME": "Nepal"
+  },
+  {
+    "COUNTRY_ISO2": "NP",
+    "LANG": "F",
+    "NAME": "N�pal"
+  },
+  {
+    "COUNTRY_ISO2": "NP",
+    "LANG": "GB",
+    "NAME": "Nepal"
+  },
+  {
+    "COUNTRY_ISO2": "NP",
+    "LANG": "I",
+    "NAME": "Nepal"
+  },
+  {
+    "COUNTRY_ISO2": "NP",
+    "LANG": "NL",
+    "NAME": "Nepal"
+  },
+  {
+    "COUNTRY_ISO2": "NP",
+    "LANG": "PL",
+    "NAME": "Nepal"
+  },
+  {
+    "COUNTRY_ISO2": "NP",
+    "LANG": "PT",
+    "NAME": "Nepal"
+  },
+  {
+    "COUNTRY_ISO2": "NP",
+    "LANG": "T",
+    "NAME": "Nepal"
+  },
+  {
+    "COUNTRY_ISO2": "NR",
+    "LANG": "D",
+    "NAME": "Nauru"
+  },
+  {
+    "COUNTRY_ISO2": "NR",
+    "LANG": "DA",
+    "NAME": "Nauru"
+  },
+  {
+    "COUNTRY_ISO2": "NR",
+    "LANG": "E",
+    "NAME": "Nauru"
+  },
+  {
+    "COUNTRY_ISO2": "NR",
+    "LANG": "F",
+    "NAME": "Nauru"
+  },
+  {
+    "COUNTRY_ISO2": "NR",
+    "LANG": "GB",
+    "NAME": "Nauru"
+  },
+  {
+    "COUNTRY_ISO2": "NR",
+    "LANG": "I",
+    "NAME": "Nauru"
+  },
+  {
+    "COUNTRY_ISO2": "NR",
+    "LANG": "NL",
+    "NAME": "Nauru"
+  },
+  {
+    "COUNTRY_ISO2": "NR",
+    "LANG": "PL",
+    "NAME": "Nauru"
+  },
+  {
+    "COUNTRY_ISO2": "NR",
+    "LANG": "PT",
+    "NAME": "Nauru"
+  },
+  {
+    "COUNTRY_ISO2": "NR",
+    "LANG": "T",
+    "NAME": "Nauru"
+  },
+  {
+    "COUNTRY_ISO2": "NU",
+    "LANG": "D",
+    "NAME": "Niue"
+  },
+  {
+    "COUNTRY_ISO2": "NU",
+    "LANG": "DA",
+    "NAME": "Niue"
+  },
+  {
+    "COUNTRY_ISO2": "NU",
+    "LANG": "E",
+    "NAME": "Niue"
+  },
+  {
+    "COUNTRY_ISO2": "NU",
+    "LANG": "F",
+    "NAME": "Niue"
+  },
+  {
+    "COUNTRY_ISO2": "NU",
+    "LANG": "GB",
+    "NAME": "Niue"
+  },
+  {
+    "COUNTRY_ISO2": "NU",
+    "LANG": "I",
+    "NAME": "Niue"
+  },
+  {
+    "COUNTRY_ISO2": "NU",
+    "LANG": "NL",
+    "NAME": "Niue"
+  },
+  {
+    "COUNTRY_ISO2": "NU",
+    "LANG": "PL",
+    "NAME": "Niue"
+  },
+  {
+    "COUNTRY_ISO2": "NU",
+    "LANG": "PT",
+    "NAME": "Niue"
+  },
+  {
+    "COUNTRY_ISO2": "NU",
+    "LANG": "T",
+    "NAME": "Niue"
+  },
+  {
+    "COUNTRY_ISO2": "NZ",
+    "LANG": "D",
+    "NAME": "Neuseeland"
+  },
+  {
+    "COUNTRY_ISO2": "NZ",
+    "LANG": "DA",
+    "NAME": "New Zealand"
+  },
+  {
+    "COUNTRY_ISO2": "NZ",
+    "LANG": "E",
+    "NAME": "Nueva Zelanda"
+  },
+  {
+    "COUNTRY_ISO2": "NZ",
+    "LANG": "F",
+    "NAME": "Nouvelle-Z�lande"
+  },
+  {
+    "COUNTRY_ISO2": "NZ",
+    "LANG": "GB",
+    "NAME": "New Zealand"
+  },
+  {
+    "COUNTRY_ISO2": "NZ",
+    "LANG": "I",
+    "NAME": "Nuova Zelanda"
+  },
+  {
+    "COUNTRY_ISO2": "NZ",
+    "LANG": "NL",
+    "NAME": "Nieuw-Zeeland"
+  },
+  {
+    "COUNTRY_ISO2": "NZ",
+    "LANG": "PL",
+    "NAME": "Nowa Zelandia"
+  },
+  {
+    "COUNTRY_ISO2": "NZ",
+    "LANG": "PT",
+    "NAME": "Nova Zel�ndia"
+  },
+  {
+    "COUNTRY_ISO2": "NZ",
+    "LANG": "T",
+    "NAME": "Yeni Zelanda"
+  },
+  {
+    "COUNTRY_ISO2": "OM",
+    "LANG": "D",
+    "NAME": "Oman"
+  },
+  {
+    "COUNTRY_ISO2": "OM",
+    "LANG": "DA",
+    "NAME": "Oman"
+  },
+  {
+    "COUNTRY_ISO2": "OM",
+    "LANG": "E",
+    "NAME": "Oman"
+  },
+  {
+    "COUNTRY_ISO2": "OM",
+    "LANG": "F",
+    "NAME": "Oman"
+  },
+  {
+    "COUNTRY_ISO2": "OM",
+    "LANG": "GB",
+    "NAME": "Oman"
+  },
+  {
+    "COUNTRY_ISO2": "OM",
+    "LANG": "I",
+    "NAME": "Oman"
+  },
+  {
+    "COUNTRY_ISO2": "OM",
+    "LANG": "NL",
+    "NAME": "Oman"
+  },
+  {
+    "COUNTRY_ISO2": "OM",
+    "LANG": "PL",
+    "NAME": "Oman"
+  },
+  {
+    "COUNTRY_ISO2": "OM",
+    "LANG": "PT",
+    "NAME": "Oman"
+  },
+  {
+    "COUNTRY_ISO2": "OM",
+    "LANG": "T",
+    "NAME": "Umman"
+  },
+  {
+    "COUNTRY_ISO2": "PA",
+    "LANG": "D",
+    "NAME": "Panama"
+  },
+  {
+    "COUNTRY_ISO2": "PA",
+    "LANG": "DA",
+    "NAME": "Panama"
+  },
+  {
+    "COUNTRY_ISO2": "PA",
+    "LANG": "E",
+    "NAME": "Panam�"
+  },
+  {
+    "COUNTRY_ISO2": "PA",
+    "LANG": "F",
+    "NAME": "Panama"
+  },
+  {
+    "COUNTRY_ISO2": "PA",
+    "LANG": "GB",
+    "NAME": "Panama"
+  },
+  {
+    "COUNTRY_ISO2": "PA",
+    "LANG": "I",
+    "NAME": "Panam�"
+  },
+  {
+    "COUNTRY_ISO2": "PA",
+    "LANG": "NL",
+    "NAME": "Panama"
+  },
+  {
+    "COUNTRY_ISO2": "PA",
+    "LANG": "PL",
+    "NAME": "Panama"
+  },
+  {
+    "COUNTRY_ISO2": "PA",
+    "LANG": "PT",
+    "NAME": "Panam�"
+  },
+  {
+    "COUNTRY_ISO2": "PA",
+    "LANG": "T",
+    "NAME": "Panama"
+  },
+  {
+    "COUNTRY_ISO2": "PE",
+    "LANG": "D",
+    "NAME": "Peru"
+  },
+  {
+    "COUNTRY_ISO2": "PE",
+    "LANG": "DA",
+    "NAME": "Peru"
+  },
+  {
+    "COUNTRY_ISO2": "PE",
+    "LANG": "E",
+    "NAME": "Peru"
+  },
+  {
+    "COUNTRY_ISO2": "PE",
+    "LANG": "F",
+    "NAME": "P�rou"
+  },
+  {
+    "COUNTRY_ISO2": "PE",
+    "LANG": "GB",
+    "NAME": "Peru"
+  },
+  {
+    "COUNTRY_ISO2": "PE",
+    "LANG": "I",
+    "NAME": "Per�"
+  },
+  {
+    "COUNTRY_ISO2": "PE",
+    "LANG": "NL",
+    "NAME": "Peru"
+  },
+  {
+    "COUNTRY_ISO2": "PE",
+    "LANG": "PL",
+    "NAME": "Peru"
+  },
+  {
+    "COUNTRY_ISO2": "PE",
+    "LANG": "PT",
+    "NAME": "Per�"
+  },
+  {
+    "COUNTRY_ISO2": "PE",
+    "LANG": "T",
+    "NAME": "Peru"
+  },
+  {
+    "COUNTRY_ISO2": "PF",
+    "LANG": "D",
+    "NAME": "Franz�sisch-Polynesien"
+  },
+  {
+    "COUNTRY_ISO2": "PF",
+    "LANG": "DA",
+    "NAME": "Fransk Polynesien"
+  },
+  {
+    "COUNTRY_ISO2": "PF",
+    "LANG": "E",
+    "NAME": "Polinesia Francesa"
+  },
+  {
+    "COUNTRY_ISO2": "PF",
+    "LANG": "F",
+    "NAME": "Polyn�sie fran�aise"
+  },
+  {
+    "COUNTRY_ISO2": "PF",
+    "LANG": "GB",
+    "NAME": "French Polynesia"
+  },
+  {
+    "COUNTRY_ISO2": "PF",
+    "LANG": "I",
+    "NAME": "Polinesia francese"
+  },
+  {
+    "COUNTRY_ISO2": "PF",
+    "LANG": "NL",
+    "NAME": "Frans-Polynesi�"
+  },
+  {
+    "COUNTRY_ISO2": "PF",
+    "LANG": "PL",
+    "NAME": "Polinezja Francuska"
+  },
+  {
+    "COUNTRY_ISO2": "PF",
+    "LANG": "PT",
+    "NAME": "Polin�sia Francesa"
+  },
+  {
+    "COUNTRY_ISO2": "PF",
+    "LANG": "T",
+    "NAME": "Fransiz Polinezya"
+  },
+  {
+    "COUNTRY_ISO2": "PG",
+    "LANG": "D",
+    "NAME": "Papua-Neuguinea"
+  },
+  {
+    "COUNTRY_ISO2": "PG",
+    "LANG": "DA",
+    "NAME": "Papua Ny Guinea"
+  },
+  {
+    "COUNTRY_ISO2": "PG",
+    "LANG": "E",
+    "NAME": "Pap�a Nueva Guinea"
+  },
+  {
+    "COUNTRY_ISO2": "PG",
+    "LANG": "F",
+    "NAME": "Papouasie-Nouvelle-Guin�e"
+  },
+  {
+    "COUNTRY_ISO2": "PG",
+    "LANG": "GB",
+    "NAME": "Papua New Guinea"
+  },
+  {
+    "COUNTRY_ISO2": "PG",
+    "LANG": "I",
+    "NAME": "Papua Nuova Guinea"
+  },
+  {
+    "COUNTRY_ISO2": "PG",
+    "LANG": "NL",
+    "NAME": "Papoea-Nieuw-Guinea"
+  },
+  {
+    "COUNTRY_ISO2": "PG",
+    "LANG": "PL",
+    "NAME": "Papua-Nowa Gwinea"
+  },
+  {
+    "COUNTRY_ISO2": "PG",
+    "LANG": "PT",
+    "NAME": "Papua-Nova Guin�"
+  },
+  {
+    "COUNTRY_ISO2": "PG",
+    "LANG": "T",
+    "NAME": "Papua Yeni Gine"
+  },
+  {
+    "COUNTRY_ISO2": "PH",
+    "LANG": "D",
+    "NAME": "Philippinen"
+  },
+  {
+    "COUNTRY_ISO2": "PH",
+    "LANG": "DA",
+    "NAME": "Filippinerne"
+  },
+  {
+    "COUNTRY_ISO2": "PH",
+    "LANG": "E",
+    "NAME": "Filipinas"
+  },
+  {
+    "COUNTRY_ISO2": "PH",
+    "LANG": "F",
+    "NAME": "Philippines"
+  },
+  {
+    "COUNTRY_ISO2": "PH",
+    "LANG": "GB",
+    "NAME": "Philippines"
+  },
+  {
+    "COUNTRY_ISO2": "PH",
+    "LANG": "I",
+    "NAME": "Filippine"
+  },
+  {
+    "COUNTRY_ISO2": "PH",
+    "LANG": "NL",
+    "NAME": "Filipijnen"
+  },
+  {
+    "COUNTRY_ISO2": "PH",
+    "LANG": "PL",
+    "NAME": "Filipiny"
+  },
+  {
+    "COUNTRY_ISO2": "PH",
+    "LANG": "PT",
+    "NAME": "Filipinas"
+  },
+  {
+    "COUNTRY_ISO2": "PH",
+    "LANG": "T",
+    "NAME": "Filipinler"
+  },
+  {
+    "COUNTRY_ISO2": "PK",
+    "LANG": "D",
+    "NAME": "Pakistan"
+  },
+  {
+    "COUNTRY_ISO2": "PK",
+    "LANG": "DA",
+    "NAME": "Pakistan"
+  },
+  {
+    "COUNTRY_ISO2": "PK",
+    "LANG": "E",
+    "NAME": "Pakistan"
+  },
+  {
+    "COUNTRY_ISO2": "PK",
+    "LANG": "F",
+    "NAME": "Pakistan"
+  },
+  {
+    "COUNTRY_ISO2": "PK",
+    "LANG": "GB",
+    "NAME": "Pakistan"
+  },
+  {
+    "COUNTRY_ISO2": "PK",
+    "LANG": "I",
+    "NAME": "Pakistan"
+  },
+  {
+    "COUNTRY_ISO2": "PK",
+    "LANG": "NL",
+    "NAME": "Pakistan"
+  },
+  {
+    "COUNTRY_ISO2": "PK",
+    "LANG": "PL",
+    "NAME": "Pakistan"
+  },
+  {
+    "COUNTRY_ISO2": "PK",
+    "LANG": "PT",
+    "NAME": "Paquist�o"
+  },
+  {
+    "COUNTRY_ISO2": "PK",
+    "LANG": "T",
+    "NAME": "Pakistan"
+  },
+  {
+    "COUNTRY_ISO2": "PL",
+    "LANG": "D",
+    "NAME": "Polen"
+  },
+  {
+    "COUNTRY_ISO2": "PL",
+    "LANG": "DA",
+    "NAME": "Polen"
+  },
+  {
+    "COUNTRY_ISO2": "PL",
+    "LANG": "E",
+    "NAME": "Polonia"
+  },
+  {
+    "COUNTRY_ISO2": "PL",
+    "LANG": "F",
+    "NAME": "Pologne"
+  },
+  {
+    "COUNTRY_ISO2": "PL",
+    "LANG": "GB",
+    "NAME": "Poland"
+  },
+  {
+    "COUNTRY_ISO2": "PL",
+    "LANG": "I",
+    "NAME": "Polonia"
+  },
+  {
+    "COUNTRY_ISO2": "PL",
+    "LANG": "NL",
+    "NAME": "Polen"
+  },
+  {
+    "COUNTRY_ISO2": "PL",
+    "LANG": "PL",
+    "NAME": "Polska"
+  },
+  {
+    "COUNTRY_ISO2": "PL",
+    "LANG": "PT",
+    "NAME": "Pol�nia"
+  },
+  {
+    "COUNTRY_ISO2": "PL",
+    "LANG": "T",
+    "NAME": "Polonya"
+  },
+  {
+    "COUNTRY_ISO2": "PM",
+    "LANG": "D",
+    "NAME": "Saint-Pierre und Miquelon"
+  },
+  {
+    "COUNTRY_ISO2": "PM",
+    "LANG": "DA",
+    "NAME": "Saint-Pierre og Miquelon"
+  },
+  {
+    "COUNTRY_ISO2": "PM",
+    "LANG": "E",
+    "NAME": "St Pierre"
+  },
+  {
+    "COUNTRY_ISO2": "PM",
+    "LANG": "F",
+    "NAME": "Saint-Pierre-et-Miquelon"
+  },
+  {
+    "COUNTRY_ISO2": "PM",
+    "LANG": "GB",
+    "NAME": "Saint Pierre and Miquelon"
+  },
+  {
+    "COUNTRY_ISO2": "PM",
+    "LANG": "I",
+    "NAME": "Saint-Pierre und Miquelon"
+  },
+  {
+    "COUNTRY_ISO2": "PM",
+    "LANG": "NL",
+    "NAME": "Saint-Pierre en Miquelon"
+  },
+  {
+    "COUNTRY_ISO2": "PM",
+    "LANG": "PL",
+    "NAME": "Saint-Pierre i Miquelon"
+  },
+  {
+    "COUNTRY_ISO2": "PM",
+    "LANG": "PT",
+    "NAME": "Saint-Pierre e Miquelon"
+  },
+  {
+    "COUNTRY_ISO2": "PM",
+    "LANG": "T",
+    "NAME": "Saint-Pierre und Miquelon"
+  },
+  {
+    "COUNTRY_ISO2": "PR",
+    "LANG": "D",
+    "NAME": "Puerto Rico"
+  },
+  {
+    "COUNTRY_ISO2": "PR",
+    "LANG": "DA",
+    "NAME": "Puerto Rico"
+  },
+  {
+    "COUNTRY_ISO2": "PR",
+    "LANG": "E",
+    "NAME": "Puerto Rico"
+  },
+  {
+    "COUNTRY_ISO2": "PR",
+    "LANG": "F",
+    "NAME": "Porto Rico"
+  },
+  {
+    "COUNTRY_ISO2": "PR",
+    "LANG": "GB",
+    "NAME": "Puerto Rico"
+  },
+  {
+    "COUNTRY_ISO2": "PR",
+    "LANG": "I",
+    "NAME": "Porto Rico"
+  },
+  {
+    "COUNTRY_ISO2": "PR",
+    "LANG": "NL",
+    "NAME": "Puerto Rico"
+  },
+  {
+    "COUNTRY_ISO2": "PR",
+    "LANG": "PL",
+    "NAME": "Portoryko"
+  },
+  {
+    "COUNTRY_ISO2": "PR",
+    "LANG": "PT",
+    "NAME": "Porto Rico"
+  },
+  {
+    "COUNTRY_ISO2": "PR",
+    "LANG": "T",
+    "NAME": "Porto Riko"
+  },
+  {
+    "COUNTRY_ISO2": "PT",
+    "LANG": "D",
+    "NAME": "Portugal"
+  },
+  {
+    "COUNTRY_ISO2": "PT",
+    "LANG": "DA",
+    "NAME": "Portugal"
+  },
+  {
+    "COUNTRY_ISO2": "PT",
+    "LANG": "E",
+    "NAME": "Portugal"
+  },
+  {
+    "COUNTRY_ISO2": "PT",
+    "LANG": "F",
+    "NAME": "Portugal"
+  },
+  {
+    "COUNTRY_ISO2": "PT",
+    "LANG": "GB",
+    "NAME": "Portugal"
+  },
+  {
+    "COUNTRY_ISO2": "PT",
+    "LANG": "I",
+    "NAME": "Portogallo"
+  },
+  {
+    "COUNTRY_ISO2": "PT",
+    "LANG": "NL",
+    "NAME": "Portugal"
+  },
+  {
+    "COUNTRY_ISO2": "PT",
+    "LANG": "PL",
+    "NAME": "Portugalia"
+  },
+  {
+    "COUNTRY_ISO2": "PT",
+    "LANG": "PT",
+    "NAME": "Portugal"
+  },
+  {
+    "COUNTRY_ISO2": "PT",
+    "LANG": "T",
+    "NAME": "Portekiz"
+  },
+  {
+    "COUNTRY_ISO2": "PY",
+    "LANG": "D",
+    "NAME": "Paraguay"
+  },
+  {
+    "COUNTRY_ISO2": "PY",
+    "LANG": "DA",
+    "NAME": "Paraguay"
+  },
+  {
+    "COUNTRY_ISO2": "PY",
+    "LANG": "E",
+    "NAME": "Paraguay"
+  },
+  {
+    "COUNTRY_ISO2": "PY",
+    "LANG": "F",
+    "NAME": "Paraguay"
+  },
+  {
+    "COUNTRY_ISO2": "PY",
+    "LANG": "GB",
+    "NAME": "Paraguay"
+  },
+  {
+    "COUNTRY_ISO2": "PY",
+    "LANG": "I",
+    "NAME": "Paraguay"
+  },
+  {
+    "COUNTRY_ISO2": "PY",
+    "LANG": "NL",
+    "NAME": "Paraguay"
+  },
+  {
+    "COUNTRY_ISO2": "PY",
+    "LANG": "PL",
+    "NAME": "Paragwaj"
+  },
+  {
+    "COUNTRY_ISO2": "PY",
+    "LANG": "PT",
+    "NAME": "Paraguai"
+  },
+  {
+    "COUNTRY_ISO2": "PY",
+    "LANG": "T",
+    "NAME": "Paraguay"
+  },
+  {
+    "COUNTRY_ISO2": "QA",
+    "LANG": "D",
+    "NAME": "Katar"
+  },
+  {
+    "COUNTRY_ISO2": "QA",
+    "LANG": "DA",
+    "NAME": "Qatar"
+  },
+  {
+    "COUNTRY_ISO2": "QA",
+    "LANG": "E",
+    "NAME": "Katar"
+  },
+  {
+    "COUNTRY_ISO2": "QA",
+    "LANG": "F",
+    "NAME": "Qatar"
+  },
+  {
+    "COUNTRY_ISO2": "QA",
+    "LANG": "GB",
+    "NAME": "Qatar"
+  },
+  {
+    "COUNTRY_ISO2": "QA",
+    "LANG": "I",
+    "NAME": "Qatar"
+  },
+  {
+    "COUNTRY_ISO2": "QA",
+    "LANG": "NL",
+    "NAME": "Qatar"
+  },
+  {
+    "COUNTRY_ISO2": "QA",
+    "LANG": "PL",
+    "NAME": "Katar"
+  },
+  {
+    "COUNTRY_ISO2": "QA",
+    "LANG": "PT",
+    "NAME": "Qatar"
+  },
+  {
+    "COUNTRY_ISO2": "QU",
+    "LANG": "D",
+    "NAME": "Katar"
+  },
+  {
+    "COUNTRY_ISO2": "QU",
+    "LANG": "DA",
+    "NAME": "Qatar"
+  },
+  {
+    "COUNTRY_ISO2": "QU",
+    "LANG": "E",
+    "NAME": "Qatar"
+  },
+  {
+    "COUNTRY_ISO2": "QU",
+    "LANG": "F",
+    "NAME": "Qatar"
+  },
+  {
+    "COUNTRY_ISO2": "QU",
+    "LANG": "GB",
+    "NAME": "Qatar"
+  },
+  {
+    "COUNTRY_ISO2": "QU",
+    "LANG": "I",
+    "NAME": "Qatar"
+  },
+  {
+    "COUNTRY_ISO2": "QU",
+    "LANG": "NL",
+    "NAME": "Qatar"
+  },
+  {
+    "COUNTRY_ISO2": "QU",
+    "LANG": "PL",
+    "NAME": "Katar"
+  },
+  {
+    "COUNTRY_ISO2": "QU",
+    "LANG": "PT",
+    "NAME": "Qatar"
+  },
+  {
+    "COUNTRY_ISO2": "QU",
+    "LANG": "T",
+    "NAME": "Katar"
+  },
+  {
+    "COUNTRY_ISO2": "RE",
+    "LANG": "D",
+    "NAME": "Reunion"
+  },
+  {
+    "COUNTRY_ISO2": "RE",
+    "LANG": "DA",
+    "NAME": "Reunion"
+  },
+  {
+    "COUNTRY_ISO2": "RE",
+    "LANG": "E",
+    "NAME": "Reunion"
+  },
+  {
+    "COUNTRY_ISO2": "RE",
+    "LANG": "F",
+    "NAME": "R�union"
+  },
+  {
+    "COUNTRY_ISO2": "RE",
+    "LANG": "GB",
+    "NAME": "R�union"
+  },
+  {
+    "COUNTRY_ISO2": "RE",
+    "LANG": "I",
+    "NAME": "Riunione"
+  },
+  {
+    "COUNTRY_ISO2": "RE",
+    "LANG": "NL",
+    "NAME": "R�union"
+  },
+  {
+    "COUNTRY_ISO2": "RE",
+    "LANG": "PL",
+    "NAME": "Reunion"
+  },
+  {
+    "COUNTRY_ISO2": "RE",
+    "LANG": "PT",
+    "NAME": "Ilha Reuni�o"
+  },
+  {
+    "COUNTRY_ISO2": "RE",
+    "LANG": "T",
+    "NAME": "Reunion"
+  },
+  {
+    "COUNTRY_ISO2": "RO",
+    "LANG": "D",
+    "NAME": "Rum�nien"
+  },
+  {
+    "COUNTRY_ISO2": "RO",
+    "LANG": "DA",
+    "NAME": "Rum�nien"
+  },
+  {
+    "COUNTRY_ISO2": "RO",
+    "LANG": "E",
+    "NAME": "Rumania"
+  },
+  {
+    "COUNTRY_ISO2": "RO",
+    "LANG": "F",
+    "NAME": "Roumanie"
+  },
+  {
+    "COUNTRY_ISO2": "RO",
+    "LANG": "GB",
+    "NAME": "Romania"
+  },
+  {
+    "COUNTRY_ISO2": "RO",
+    "LANG": "I",
+    "NAME": "Romania"
+  },
+  {
+    "COUNTRY_ISO2": "RO",
+    "LANG": "NL",
+    "NAME": "Roemeni�"
+  },
+  {
+    "COUNTRY_ISO2": "RO",
+    "LANG": "PL",
+    "NAME": "Rumunia"
+  },
+  {
+    "COUNTRY_ISO2": "RO",
+    "LANG": "PT",
+    "NAME": "Rom�nia"
+  },
+  {
+    "COUNTRY_ISO2": "RO",
+    "LANG": "T",
+    "NAME": "Romanya"
+  },
+  {
+    "COUNTRY_ISO2": "RS",
+    "LANG": "D",
+    "NAME": "Serbien"
+  },
+  {
+    "COUNTRY_ISO2": "RS",
+    "LANG": "GB",
+    "NAME": "Serbia"
+  },
+  {
+    "COUNTRY_ISO2": "RU",
+    "LANG": "D",
+    "NAME": "Russische F�deration"
+  },
+  {
+    "COUNTRY_ISO2": "RU",
+    "LANG": "DA",
+    "NAME": "Russisk F�deration"
+  },
+  {
+    "COUNTRY_ISO2": "RU",
+    "LANG": "E",
+    "NAME": "Federaci�n Rusa"
+  },
+  {
+    "COUNTRY_ISO2": "RU",
+    "LANG": "F",
+    "NAME": "F�d�ration de Russie"
+  },
+  {
+    "COUNTRY_ISO2": "RU",
+    "LANG": "GB",
+    "NAME": "Russian Federation"
+  },
+  {
+    "COUNTRY_ISO2": "RU",
+    "LANG": "I",
+    "NAME": "Federazione Russa"
+  },
+  {
+    "COUNTRY_ISO2": "RU",
+    "LANG": "NL",
+    "NAME": "Rusland"
+  },
+  {
+    "COUNTRY_ISO2": "RU",
+    "LANG": "PL",
+    "NAME": "Rosja"
+  },
+  {
+    "COUNTRY_ISO2": "RU",
+    "LANG": "PT",
+    "NAME": "Federa��o Russa"
+  },
+  {
+    "COUNTRY_ISO2": "RU",
+    "LANG": "T",
+    "NAME": "Rusya"
+  },
+  {
+    "COUNTRY_ISO2": "RW",
+    "LANG": "D",
+    "NAME": "Ruanda"
+  },
+  {
+    "COUNTRY_ISO2": "RW",
+    "LANG": "DA",
+    "NAME": "Rwanda"
+  },
+  {
+    "COUNTRY_ISO2": "RW",
+    "LANG": "E",
+    "NAME": "Ruanda"
+  },
+  {
+    "COUNTRY_ISO2": "RW",
+    "LANG": "F",
+    "NAME": "Rwanda"
+  },
+  {
+    "COUNTRY_ISO2": "RW",
+    "LANG": "GB",
+    "NAME": "Rwanda"
+  },
+  {
+    "COUNTRY_ISO2": "RW",
+    "LANG": "I",
+    "NAME": "Ruanda"
+  },
+  {
+    "COUNTRY_ISO2": "RW",
+    "LANG": "NL",
+    "NAME": "Rwanda"
+  },
+  {
+    "COUNTRY_ISO2": "RW",
+    "LANG": "PL",
+    "NAME": "Rwanda"
+  },
+  {
+    "COUNTRY_ISO2": "RW",
+    "LANG": "PT",
+    "NAME": "Ruanda"
+  },
+  {
+    "COUNTRY_ISO2": "RW",
+    "LANG": "T",
+    "NAME": "Ruanda"
+  },
+  {
+    "COUNTRY_ISO2": "SA",
+    "LANG": "D",
+    "NAME": "Saudi-Arabien"
+  },
+  {
+    "COUNTRY_ISO2": "SA",
+    "LANG": "DA",
+    "NAME": "Saudi-Arabien"
+  },
+  {
+    "COUNTRY_ISO2": "SA",
+    "LANG": "E",
+    "NAME": "Arabia Saudita"
+  },
+  {
+    "COUNTRY_ISO2": "SA",
+    "LANG": "F",
+    "NAME": "Arabie Saoudite"
+  },
+  {
+    "COUNTRY_ISO2": "SA",
+    "LANG": "GB",
+    "NAME": "Saudi Arabia"
+  },
+  {
+    "COUNTRY_ISO2": "SA",
+    "LANG": "I",
+    "NAME": "Arabia Saudita"
+  },
+  {
+    "COUNTRY_ISO2": "SA",
+    "LANG": "NL",
+    "NAME": "Saoedi-Arabi�"
+  },
+  {
+    "COUNTRY_ISO2": "SA",
+    "LANG": "PL",
+    "NAME": "Arabia Saudyjska"
+  },
+  {
+    "COUNTRY_ISO2": "SA",
+    "LANG": "PT",
+    "NAME": "Ar�bia Saudita"
+  },
+  {
+    "COUNTRY_ISO2": "SA",
+    "LANG": "T",
+    "NAME": "Sudi Arabistan"
+  },
+  {
+    "COUNTRY_ISO2": "SB",
+    "LANG": "D",
+    "NAME": "Salomonen"
+  },
+  {
+    "COUNTRY_ISO2": "SB",
+    "LANG": "DA",
+    "NAME": "Salomon�erne"
+  },
+  {
+    "COUNTRY_ISO2": "SB",
+    "LANG": "E",
+    "NAME": "Islas Salomon"
+  },
+  {
+    "COUNTRY_ISO2": "SB",
+    "LANG": "F",
+    "NAME": "�les Salomon"
+  },
+  {
+    "COUNTRY_ISO2": "SB",
+    "LANG": "GB",
+    "NAME": "Salomon Islands"
+  },
+  {
+    "COUNTRY_ISO2": "SB",
+    "LANG": "I",
+    "NAME": "Isole Salomone"
+  },
+  {
+    "COUNTRY_ISO2": "SB",
+    "LANG": "NL",
+    "NAME": "Salomonseilanden"
+  },
+  {
+    "COUNTRY_ISO2": "SB",
+    "LANG": "PL",
+    "NAME": "Wyspy Salomona"
+  },
+  {
+    "COUNTRY_ISO2": "SB",
+    "LANG": "PT",
+    "NAME": "Ilhas Salom�o"
+  },
+  {
+    "COUNTRY_ISO2": "SB",
+    "LANG": "T",
+    "NAME": "Solomon Adalari"
+  },
+  {
+    "COUNTRY_ISO2": "SC",
+    "LANG": "D",
+    "NAME": "Seychellen"
+  },
+  {
+    "COUNTRY_ISO2": "SC",
+    "LANG": "DA",
+    "NAME": "Seychellerne"
+  },
+  {
+    "COUNTRY_ISO2": "SC",
+    "LANG": "E",
+    "NAME": "Seychelles"
+  },
+  {
+    "COUNTRY_ISO2": "SC",
+    "LANG": "F",
+    "NAME": "Seychelles"
+  },
+  {
+    "COUNTRY_ISO2": "SC",
+    "LANG": "GB",
+    "NAME": "Seychelles"
+  },
+  {
+    "COUNTRY_ISO2": "SC",
+    "LANG": "I",
+    "NAME": "Seychelles"
+  },
+  {
+    "COUNTRY_ISO2": "SC",
+    "LANG": "NL",
+    "NAME": "Seychellen"
+  },
+  {
+    "COUNTRY_ISO2": "SC",
+    "LANG": "PL",
+    "NAME": "Seszele"
+  },
+  {
+    "COUNTRY_ISO2": "SC",
+    "LANG": "PT",
+    "NAME": "Seychelles"
+  },
+  {
+    "COUNTRY_ISO2": "SC",
+    "LANG": "T",
+    "NAME": "Seyseller"
+  },
+  {
+    "COUNTRY_ISO2": "SD",
+    "LANG": "D",
+    "NAME": "Sudan"
+  },
+  {
+    "COUNTRY_ISO2": "SD",
+    "LANG": "DA",
+    "NAME": "Sudan"
+  },
+  {
+    "COUNTRY_ISO2": "SD",
+    "LANG": "E",
+    "NAME": "Sud�n"
+  },
+  {
+    "COUNTRY_ISO2": "SD",
+    "LANG": "F",
+    "NAME": "Soudan"
+  },
+  {
+    "COUNTRY_ISO2": "SD",
+    "LANG": "GB",
+    "NAME": "Sudan"
+  },
+  {
+    "COUNTRY_ISO2": "SD",
+    "LANG": "I",
+    "NAME": "Sudan"
+  },
+  {
+    "COUNTRY_ISO2": "SD",
+    "LANG": "NL",
+    "NAME": "Soedan"
+  },
+  {
+    "COUNTRY_ISO2": "SD",
+    "LANG": "PL",
+    "NAME": "Sudan"
+  },
+  {
+    "COUNTRY_ISO2": "SD",
+    "LANG": "PT",
+    "NAME": "Sud�o"
+  },
+  {
+    "COUNTRY_ISO2": "SD",
+    "LANG": "T",
+    "NAME": "Sudan"
+  },
+  {
+    "COUNTRY_ISO2": "SE",
+    "LANG": "D",
+    "NAME": "Schweden"
+  },
+  {
+    "COUNTRY_ISO2": "SE",
+    "LANG": "DA",
+    "NAME": "Sverige"
+  },
+  {
+    "COUNTRY_ISO2": "SE",
+    "LANG": "E",
+    "NAME": "Suecia"
+  },
+  {
+    "COUNTRY_ISO2": "SE",
+    "LANG": "F",
+    "NAME": "Su�de"
+  },
+  {
+    "COUNTRY_ISO2": "SE",
+    "LANG": "GB",
+    "NAME": "Sweden"
+  },
+  {
+    "COUNTRY_ISO2": "SE",
+    "LANG": "I",
+    "NAME": "Svezia"
+  },
+  {
+    "COUNTRY_ISO2": "SE",
+    "LANG": "NL",
+    "NAME": "Zweden"
+  },
+  {
+    "COUNTRY_ISO2": "SE",
+    "LANG": "PL",
+    "NAME": "Szwecja"
+  },
+  {
+    "COUNTRY_ISO2": "SE",
+    "LANG": "PT",
+    "NAME": "Su�cia"
+  },
+  {
+    "COUNTRY_ISO2": "SE",
+    "LANG": "T",
+    "NAME": "Ssve�"
+  },
+  {
+    "COUNTRY_ISO2": "SER",
+    "LANG": "DA",
+    "NAME": "Serbien"
+  },
+  {
+    "COUNTRY_ISO2": "SER",
+    "LANG": "E",
+    "NAME": "Serbia"
+  },
+  {
+    "COUNTRY_ISO2": "SER",
+    "LANG": "F",
+    "NAME": "Serbie"
+  },
+  {
+    "COUNTRY_ISO2": "SER",
+    "LANG": "GB",
+    "NAME": "Serbia"
+  },
+  {
+    "COUNTRY_ISO2": "SER",
+    "LANG": "I",
+    "NAME": "Serbia"
+  },
+  {
+    "COUNTRY_ISO2": "SER",
+    "LANG": "NL",
+    "NAME": "Servi�"
+  },
+  {
+    "COUNTRY_ISO2": "SER",
+    "LANG": "PL",
+    "NAME": "Serbia"
+  },
+  {
+    "COUNTRY_ISO2": "SER",
+    "LANG": "PT",
+    "NAME": "S�rvia"
+  },
+  {
+    "COUNTRY_ISO2": "SER",
+    "LANG": "T",
+    "NAME": "Sirbistan"
+  },
+  {
+    "COUNTRY_ISO2": "SG",
+    "LANG": "D",
+    "NAME": "Singapur"
+  },
+  {
+    "COUNTRY_ISO2": "SG",
+    "LANG": "DA",
+    "NAME": "Singapore"
+  },
+  {
+    "COUNTRY_ISO2": "SG",
+    "LANG": "E",
+    "NAME": "Singapur"
+  },
+  {
+    "COUNTRY_ISO2": "SG",
+    "LANG": "F",
+    "NAME": "Singapour"
+  },
+  {
+    "COUNTRY_ISO2": "SG",
+    "LANG": "GB",
+    "NAME": "Singapore"
+  },
+  {
+    "COUNTRY_ISO2": "SG",
+    "LANG": "I",
+    "NAME": "Singapore"
+  },
+  {
+    "COUNTRY_ISO2": "SG",
+    "LANG": "NL",
+    "NAME": "Singapore"
+  },
+  {
+    "COUNTRY_ISO2": "SG",
+    "LANG": "PL",
+    "NAME": "Singapur"
+  },
+  {
+    "COUNTRY_ISO2": "SG",
+    "LANG": "PT",
+    "NAME": "Singapura"
+  },
+  {
+    "COUNTRY_ISO2": "SG",
+    "LANG": "T",
+    "NAME": "Singapur"
+  },
+  {
+    "COUNTRY_ISO2": "SH",
+    "LANG": "D",
+    "NAME": "St. Helena"
+  },
+  {
+    "COUNTRY_ISO2": "SH",
+    "LANG": "DA",
+    "NAME": "St. Helena"
+  },
+  {
+    "COUNTRY_ISO2": "SH",
+    "LANG": "E",
+    "NAME": "Santa Helena"
+  },
+  {
+    "COUNTRY_ISO2": "SH",
+    "LANG": "F",
+    "NAME": "Sainte-H�l�ne"
+  },
+  {
+    "COUNTRY_ISO2": "SH",
+    "LANG": "GB",
+    "NAME": "Saint Helena"
+  },
+  {
+    "COUNTRY_ISO2": "SH",
+    "LANG": "I",
+    "NAME": "Sant'Elena"
+  },
+  {
+    "COUNTRY_ISO2": "SH",
+    "LANG": "NL",
+    "NAME": "Saint Helena"
+  },
+  {
+    "COUNTRY_ISO2": "SH",
+    "LANG": "PL",
+    "NAME": "Swieta Helena"
+  },
+  {
+    "COUNTRY_ISO2": "SH",
+    "LANG": "PT",
+    "NAME": "Santa Helena"
+  },
+  {
+    "COUNTRY_ISO2": "SH",
+    "LANG": "T",
+    "NAME": "St. Helena"
+  },
+  {
+    "COUNTRY_ISO2": "SI",
+    "LANG": "D",
+    "NAME": "Slowenien"
+  },
+  {
+    "COUNTRY_ISO2": "SI",
+    "LANG": "DA",
+    "NAME": "Slovenien"
+  },
+  {
+    "COUNTRY_ISO2": "SI",
+    "LANG": "E",
+    "NAME": "Eslovenia"
+  },
+  {
+    "COUNTRY_ISO2": "SI",
+    "LANG": "F",
+    "NAME": "Slov�nie"
+  },
+  {
+    "COUNTRY_ISO2": "SI",
+    "LANG": "GB",
+    "NAME": "Slovenia"
+  },
+  {
+    "COUNTRY_ISO2": "SI",
+    "LANG": "I",
+    "NAME": "Slovenia"
+  },
+  {
+    "COUNTRY_ISO2": "SI",
+    "LANG": "NL",
+    "NAME": "Sloveni�"
+  },
+  {
+    "COUNTRY_ISO2": "SI",
+    "LANG": "PL",
+    "NAME": "Slowenia"
+  },
+  {
+    "COUNTRY_ISO2": "SI",
+    "LANG": "PT",
+    "NAME": "Eslov�nia"
+  },
+  {
+    "COUNTRY_ISO2": "SI",
+    "LANG": "T",
+    "NAME": "Slovenya"
+  },
+  {
+    "COUNTRY_ISO2": "SK",
+    "LANG": "D",
+    "NAME": "Slowakei"
+  },
+  {
+    "COUNTRY_ISO2": "SK",
+    "LANG": "DA",
+    "NAME": "Slovakiet"
+  },
+  {
+    "COUNTRY_ISO2": "SK",
+    "LANG": "E",
+    "NAME": "Eslovaquia"
+  },
+  {
+    "COUNTRY_ISO2": "SK",
+    "LANG": "F",
+    "NAME": "Slovaquie"
+  },
+  {
+    "COUNTRY_ISO2": "SK",
+    "LANG": "GB",
+    "NAME": "Slovakia"
+  },
+  {
+    "COUNTRY_ISO2": "SK",
+    "LANG": "I",
+    "NAME": "Slovacchia"
+  },
+  {
+    "COUNTRY_ISO2": "SK",
+    "LANG": "NL",
+    "NAME": "Slowakije"
+  },
+  {
+    "COUNTRY_ISO2": "SK",
+    "LANG": "PL",
+    "NAME": "Slowacja"
+  },
+  {
+    "COUNTRY_ISO2": "SK",
+    "LANG": "PT",
+    "NAME": "Eslov�quia"
+  },
+  {
+    "COUNTRY_ISO2": "SK",
+    "LANG": "T",
+    "NAME": "Slovakya"
+  },
+  {
+    "COUNTRY_ISO2": "SL",
+    "LANG": "D",
+    "NAME": "Sierra Leone"
+  },
+  {
+    "COUNTRY_ISO2": "SL",
+    "LANG": "DA",
+    "NAME": "Sierra Leone"
+  },
+  {
+    "COUNTRY_ISO2": "SL",
+    "LANG": "E",
+    "NAME": "Sierra Leone"
+  },
+  {
+    "COUNTRY_ISO2": "SL",
+    "LANG": "F",
+    "NAME": "Sierra Leone"
+  },
+  {
+    "COUNTRY_ISO2": "SL",
+    "LANG": "GB",
+    "NAME": "Sierra Leone"
+  },
+  {
+    "COUNTRY_ISO2": "SL",
+    "LANG": "I",
+    "NAME": "Sierra Leone"
+  },
+  {
+    "COUNTRY_ISO2": "SL",
+    "LANG": "NL",
+    "NAME": "Sierra Leone"
+  },
+  {
+    "COUNTRY_ISO2": "SL",
+    "LANG": "PL",
+    "NAME": "Sierra Leone"
+  },
+  {
+    "COUNTRY_ISO2": "SL",
+    "LANG": "PT",
+    "NAME": "Serra Leoa"
+  },
+  {
+    "COUNTRY_ISO2": "SL",
+    "LANG": "T",
+    "NAME": "Sierra Leone"
+  },
+  {
+    "COUNTRY_ISO2": "SM",
+    "LANG": "D",
+    "NAME": "San Marino"
+  },
+  {
+    "COUNTRY_ISO2": "SM",
+    "LANG": "DA",
+    "NAME": "San Marino"
+  },
+  {
+    "COUNTRY_ISO2": "SM",
+    "LANG": "E",
+    "NAME": "San Marino"
+  },
+  {
+    "COUNTRY_ISO2": "SM",
+    "LANG": "F",
+    "NAME": "Saint-Marin"
+  },
+  {
+    "COUNTRY_ISO2": "SM",
+    "LANG": "GB",
+    "NAME": "San Marino"
+  },
+  {
+    "COUNTRY_ISO2": "SM",
+    "LANG": "I",
+    "NAME": "San Marino"
+  },
+  {
+    "COUNTRY_ISO2": "SM",
+    "LANG": "NL",
+    "NAME": "San Marino"
+  },
+  {
+    "COUNTRY_ISO2": "SM",
+    "LANG": "PL",
+    "NAME": "San Marino"
+  },
+  {
+    "COUNTRY_ISO2": "SM",
+    "LANG": "PT",
+    "NAME": "San Marino"
+  },
+  {
+    "COUNTRY_ISO2": "SM",
+    "LANG": "T",
+    "NAME": "San Marino"
+  },
+  {
+    "COUNTRY_ISO2": "SN",
+    "LANG": "D",
+    "NAME": "Senegal"
+  },
+  {
+    "COUNTRY_ISO2": "SN",
+    "LANG": "DA",
+    "NAME": "Senegal"
+  },
+  {
+    "COUNTRY_ISO2": "SN",
+    "LANG": "E",
+    "NAME": "Senegal"
+  },
+  {
+    "COUNTRY_ISO2": "SN",
+    "LANG": "F",
+    "NAME": "S�n�gal"
+  },
+  {
+    "COUNTRY_ISO2": "SN",
+    "LANG": "GB",
+    "NAME": "Senegal"
+  },
+  {
+    "COUNTRY_ISO2": "SN",
+    "LANG": "I",
+    "NAME": "Senegal"
+  },
+  {
+    "COUNTRY_ISO2": "SN",
+    "LANG": "NL",
+    "NAME": "Senegal"
+  },
+  {
+    "COUNTRY_ISO2": "SN",
+    "LANG": "PL",
+    "NAME": "Senegal"
+  },
+  {
+    "COUNTRY_ISO2": "SN",
+    "LANG": "PT",
+    "NAME": "Senegal"
+  },
+  {
+    "COUNTRY_ISO2": "SN",
+    "LANG": "T",
+    "NAME": "Senegal"
+  },
+  {
+    "COUNTRY_ISO2": "SO",
+    "LANG": "D",
+    "NAME": "Somalia"
+  },
+  {
+    "COUNTRY_ISO2": "SO",
+    "LANG": "DA",
+    "NAME": "Somalia"
+  },
+  {
+    "COUNTRY_ISO2": "SO",
+    "LANG": "E",
+    "NAME": "Somalia"
+  },
+  {
+    "COUNTRY_ISO2": "SO",
+    "LANG": "F",
+    "NAME": "Somalie"
+  },
+  {
+    "COUNTRY_ISO2": "SO",
+    "LANG": "GB",
+    "NAME": "Somalia"
+  },
+  {
+    "COUNTRY_ISO2": "SO",
+    "LANG": "I",
+    "NAME": "Somalia"
+  },
+  {
+    "COUNTRY_ISO2": "SO",
+    "LANG": "NL",
+    "NAME": "Somali�"
+  },
+  {
+    "COUNTRY_ISO2": "SO",
+    "LANG": "PL",
+    "NAME": "Somalia"
+  },
+  {
+    "COUNTRY_ISO2": "SO",
+    "LANG": "PT",
+    "NAME": "Som�lia"
+  },
+  {
+    "COUNTRY_ISO2": "SO",
+    "LANG": "T",
+    "NAME": "Somalya"
+  },
+  {
+    "COUNTRY_ISO2": "SR",
+    "LANG": "D",
+    "NAME": "Surinam"
+  },
+  {
+    "COUNTRY_ISO2": "SR",
+    "LANG": "DA",
+    "NAME": "Surinam"
+  },
+  {
+    "COUNTRY_ISO2": "SR",
+    "LANG": "E",
+    "NAME": "Surinam"
+  },
+  {
+    "COUNTRY_ISO2": "SR",
+    "LANG": "F",
+    "NAME": "Surinam"
+  },
+  {
+    "COUNTRY_ISO2": "SR",
+    "LANG": "GB",
+    "NAME": "Suriname"
+  },
+  {
+    "COUNTRY_ISO2": "SR",
+    "LANG": "I",
+    "NAME": "Suriname"
+  },
+  {
+    "COUNTRY_ISO2": "SR",
+    "LANG": "NL",
+    "NAME": "Suriname"
+  },
+  {
+    "COUNTRY_ISO2": "SR",
+    "LANG": "PL",
+    "NAME": "Surinam"
+  },
+  {
+    "COUNTRY_ISO2": "SR",
+    "LANG": "PT",
+    "NAME": "Suriname"
+  },
+  {
+    "COUNTRY_ISO2": "SR",
+    "LANG": "T",
+    "NAME": "Surinam"
+  },
+  {
+    "COUNTRY_ISO2": "SS",
+    "LANG": "D",
+    "NAME": "S�dsudan"
+  },
+  {
+    "COUNTRY_ISO2": "SS",
+    "LANG": "DA",
+    "NAME": "Sydsudan"
+  },
+  {
+    "COUNTRY_ISO2": "SS",
+    "LANG": "E",
+    "NAME": "Sudsudan"
+  },
+  {
+    "COUNTRY_ISO2": "SS",
+    "LANG": "F",
+    "NAME": "Sudan du Sud"
+  },
+  {
+    "COUNTRY_ISO2": "SS",
+    "LANG": "GB",
+    "NAME": "South Sudan"
+  },
+  {
+    "COUNTRY_ISO2": "SS",
+    "LANG": "I",
+    "NAME": "Sudsudan"
+  },
+  {
+    "COUNTRY_ISO2": "SS",
+    "LANG": "NL",
+    "NAME": "Zuid-Sudan"
+  },
+  {
+    "COUNTRY_ISO2": "SS",
+    "LANG": "PL",
+    "NAME": "Poludniowej Sudan"
+  },
+  {
+    "COUNTRY_ISO2": "SS",
+    "LANG": "PT",
+    "NAME": "Sudan do Sul"
+  },
+  {
+    "COUNTRY_ISO2": "SS",
+    "LANG": "T",
+    "NAME": "G�ney Sudan"
+  },
+  {
+    "COUNTRY_ISO2": "ST",
+    "LANG": "D",
+    "NAME": "S. Tome"
+  },
+  {
+    "COUNTRY_ISO2": "ST",
+    "LANG": "DA",
+    "NAME": "S. Tome"
+  },
+  {
+    "COUNTRY_ISO2": "ST",
+    "LANG": "E",
+    "NAME": "Santo Tom�"
+  },
+  {
+    "COUNTRY_ISO2": "ST",
+    "LANG": "F",
+    "NAME": "S. Tom�"
+  },
+  {
+    "COUNTRY_ISO2": "ST",
+    "LANG": "GB",
+    "NAME": "S�o Tom� and Principe"
+  },
+  {
+    "COUNTRY_ISO2": "ST",
+    "LANG": "I",
+    "NAME": "S�o Tom�"
+  },
+  {
+    "COUNTRY_ISO2": "ST",
+    "LANG": "NL",
+    "NAME": "Sao Tom�"
+  },
+  {
+    "COUNTRY_ISO2": "ST",
+    "LANG": "PL",
+    "NAME": "S. Tome"
+  },
+  {
+    "COUNTRY_ISO2": "ST",
+    "LANG": "PT",
+    "NAME": "S�o Tom�"
+  },
+  {
+    "COUNTRY_ISO2": "ST",
+    "LANG": "T",
+    "NAME": "S. Tome"
+  },
+  {
+    "COUNTRY_ISO2": "SV",
+    "LANG": "D",
+    "NAME": "El Salvador"
+  },
+  {
+    "COUNTRY_ISO2": "SV",
+    "LANG": "DA",
+    "NAME": "El Salvador"
+  },
+  {
+    "COUNTRY_ISO2": "SV",
+    "LANG": "E",
+    "NAME": "El Salvador"
+  },
+  {
+    "COUNTRY_ISO2": "SV",
+    "LANG": "F",
+    "NAME": "Le Salvador"
+  },
+  {
+    "COUNTRY_ISO2": "SV",
+    "LANG": "GB",
+    "NAME": "El Salvador"
+  },
+  {
+    "COUNTRY_ISO2": "SV",
+    "LANG": "I",
+    "NAME": "El Salvador"
+  },
+  {
+    "COUNTRY_ISO2": "SV",
+    "LANG": "NL",
+    "NAME": "El Salvador"
+  },
+  {
+    "COUNTRY_ISO2": "SV",
+    "LANG": "PL",
+    "NAME": "Salwador"
+  },
+  {
+    "COUNTRY_ISO2": "SV",
+    "LANG": "PT",
+    "NAME": "El Salvador"
+  },
+  {
+    "COUNTRY_ISO2": "SV",
+    "LANG": "T",
+    "NAME": "El Salvador"
+  },
+  {
+    "COUNTRY_ISO2": "SX",
+    "LANG": "D",
+    "NAME": "St. Maarten"
+  },
+  {
+    "COUNTRY_ISO2": "SX",
+    "LANG": "DA",
+    "NAME": "St. Maarten"
+  },
+  {
+    "COUNTRY_ISO2": "SX",
+    "LANG": "E",
+    "NAME": "St. Maarten"
+  },
+  {
+    "COUNTRY_ISO2": "SX",
+    "LANG": "F",
+    "NAME": "St. Maarten"
+  },
+  {
+    "COUNTRY_ISO2": "SX",
+    "LANG": "GB",
+    "NAME": "St. Maarten"
+  },
+  {
+    "COUNTRY_ISO2": "SX",
+    "LANG": "I",
+    "NAME": "St. Maarten"
+  },
+  {
+    "COUNTRY_ISO2": "SX",
+    "LANG": "NL",
+    "NAME": "St. Maarten"
+  },
+  {
+    "COUNTRY_ISO2": "SX",
+    "LANG": "PL",
+    "NAME": "St. Maarten"
+  },
+  {
+    "COUNTRY_ISO2": "SX",
+    "LANG": "PT",
+    "NAME": "St. Maarten"
+  },
+  {
+    "COUNTRY_ISO2": "SY",
+    "LANG": "D",
+    "NAME": "Syrien"
+  },
+  {
+    "COUNTRY_ISO2": "SY",
+    "LANG": "DA",
+    "NAME": "Syrien"
+  },
+  {
+    "COUNTRY_ISO2": "SY",
+    "LANG": "E",
+    "NAME": "Siria"
+  },
+  {
+    "COUNTRY_ISO2": "SY",
+    "LANG": "F",
+    "NAME": "Syrie"
+  },
+  {
+    "COUNTRY_ISO2": "SY",
+    "LANG": "GB",
+    "NAME": "Syria"
+  },
+  {
+    "COUNTRY_ISO2": "SY",
+    "LANG": "I",
+    "NAME": "Siria"
+  },
+  {
+    "COUNTRY_ISO2": "SY",
+    "LANG": "NL",
+    "NAME": "Syri�"
+  },
+  {
+    "COUNTRY_ISO2": "SY",
+    "LANG": "PL",
+    "NAME": "Syria"
+  },
+  {
+    "COUNTRY_ISO2": "SY",
+    "LANG": "PT",
+    "NAME": "S�ria"
+  },
+  {
+    "COUNTRY_ISO2": "SY",
+    "LANG": "T",
+    "NAME": "Suriye"
+  },
+  {
+    "COUNTRY_ISO2": "SZ",
+    "LANG": "D",
+    "NAME": "Swasiland"
+  },
+  {
+    "COUNTRY_ISO2": "SZ",
+    "LANG": "DA",
+    "NAME": "Swaziland"
+  },
+  {
+    "COUNTRY_ISO2": "SZ",
+    "LANG": "E",
+    "NAME": "Suazilandia"
+  },
+  {
+    "COUNTRY_ISO2": "SZ",
+    "LANG": "F",
+    "NAME": "Swaziland"
+  },
+  {
+    "COUNTRY_ISO2": "SZ",
+    "LANG": "GB",
+    "NAME": "Swaziland"
+  },
+  {
+    "COUNTRY_ISO2": "SZ",
+    "LANG": "I",
+    "NAME": "Swaziland"
+  },
+  {
+    "COUNTRY_ISO2": "SZ",
+    "LANG": "NL",
+    "NAME": "Swaziland"
+  },
+  {
+    "COUNTRY_ISO2": "SZ",
+    "LANG": "PL",
+    "NAME": "Suazi"
+  },
+  {
+    "COUNTRY_ISO2": "SZ",
+    "LANG": "PT",
+    "NAME": "Suazil�ndia"
+  },
+  {
+    "COUNTRY_ISO2": "SZ",
+    "LANG": "T",
+    "NAME": "Svaziland"
+  },
+  {
+    "COUNTRY_ISO2": "TA",
+    "LANG": "D",
+    "NAME": "Tahiti"
+  },
+  {
+    "COUNTRY_ISO2": "TA",
+    "LANG": "DA",
+    "NAME": "Tahiti"
+  },
+  {
+    "COUNTRY_ISO2": "TA",
+    "LANG": "E",
+    "NAME": "Tahit�"
+  },
+  {
+    "COUNTRY_ISO2": "TA",
+    "LANG": "F",
+    "NAME": "Tahiti"
+  },
+  {
+    "COUNTRY_ISO2": "TA",
+    "LANG": "GB",
+    "NAME": "Tahiti"
+  },
+  {
+    "COUNTRY_ISO2": "TA",
+    "LANG": "I",
+    "NAME": "Tahiti"
+  },
+  {
+    "COUNTRY_ISO2": "TA",
+    "LANG": "NL",
+    "NAME": "Tahiti"
+  },
+  {
+    "COUNTRY_ISO2": "TA",
+    "LANG": "PL",
+    "NAME": "Tahiti"
+  },
+  {
+    "COUNTRY_ISO2": "TA",
+    "LANG": "PT",
+    "NAME": "Taiti"
+  },
+  {
+    "COUNTRY_ISO2": "TA",
+    "LANG": "T",
+    "NAME": "Tahiti"
+  },
+  {
+    "COUNTRY_ISO2": "TC",
+    "LANG": "D",
+    "NAME": "Turks- und Caicosinseln"
+  },
+  {
+    "COUNTRY_ISO2": "TC",
+    "LANG": "DA",
+    "NAME": "Turks- og Caicos-�erne"
+  },
+  {
+    "COUNTRY_ISO2": "TC",
+    "LANG": "E",
+    "NAME": "Islas Turcas y Caicos"
+  },
+  {
+    "COUNTRY_ISO2": "TC",
+    "LANG": "F",
+    "NAME": "�les Turques-et-Ca�ques"
+  },
+  {
+    "COUNTRY_ISO2": "TC",
+    "LANG": "GB",
+    "NAME": "Turks and Caicos Islands"
+  },
+  {
+    "COUNTRY_ISO2": "TC",
+    "LANG": "I",
+    "NAME": "Turks e Caicos"
+  },
+  {
+    "COUNTRY_ISO2": "TC",
+    "LANG": "NL",
+    "NAME": "Turks- en Caicoseilanden"
+  },
+  {
+    "COUNTRY_ISO2": "TC",
+    "LANG": "PL",
+    "NAME": "Turks i Caicos"
+  },
+  {
+    "COUNTRY_ISO2": "TC",
+    "LANG": "PT",
+    "NAME": "Ilhas Turks e Caicos"
+  },
+  {
+    "COUNTRY_ISO2": "TC",
+    "LANG": "T",
+    "NAME": "Turks ve Caicos Adalari"
+  },
+  {
+    "COUNTRY_ISO2": "TD",
+    "LANG": "D",
+    "NAME": "Tschad"
+  },
+  {
+    "COUNTRY_ISO2": "TD",
+    "LANG": "DA",
+    "NAME": "Tchad"
+  },
+  {
+    "COUNTRY_ISO2": "TD",
+    "LANG": "E",
+    "NAME": "Chad"
+  },
+  {
+    "COUNTRY_ISO2": "TD",
+    "LANG": "F",
+    "NAME": "Tchad"
+  },
+  {
+    "COUNTRY_ISO2": "TD",
+    "LANG": "GB",
+    "NAME": "Chad"
+  },
+  {
+    "COUNTRY_ISO2": "TD",
+    "LANG": "I",
+    "NAME": "Ciad"
+  },
+  {
+    "COUNTRY_ISO2": "TD",
+    "LANG": "NL",
+    "NAME": "Tsjaad"
+  },
+  {
+    "COUNTRY_ISO2": "TD",
+    "LANG": "PL",
+    "NAME": "Czad"
+  },
+  {
+    "COUNTRY_ISO2": "TD",
+    "LANG": "PT",
+    "NAME": "Chade"
+  },
+  {
+    "COUNTRY_ISO2": "TD",
+    "LANG": "T",
+    "NAME": "�ad"
+  },
+  {
+    "COUNTRY_ISO2": "TG",
+    "LANG": "D",
+    "NAME": "Togo"
+  },
+  {
+    "COUNTRY_ISO2": "TG",
+    "LANG": "DA",
+    "NAME": "Togo"
+  },
+  {
+    "COUNTRY_ISO2": "TG",
+    "LANG": "E",
+    "NAME": "Togo"
+  },
+  {
+    "COUNTRY_ISO2": "TG",
+    "LANG": "F",
+    "NAME": "Togo"
+  },
+  {
+    "COUNTRY_ISO2": "TG",
+    "LANG": "GB",
+    "NAME": "Togo"
+  },
+  {
+    "COUNTRY_ISO2": "TG",
+    "LANG": "I",
+    "NAME": "Togo"
+  },
+  {
+    "COUNTRY_ISO2": "TG",
+    "LANG": "NL",
+    "NAME": "Togo"
+  },
+  {
+    "COUNTRY_ISO2": "TG",
+    "LANG": "PL",
+    "NAME": "Togo"
+  },
+  {
+    "COUNTRY_ISO2": "TG",
+    "LANG": "PT",
+    "NAME": "Togo"
+  },
+  {
+    "COUNTRY_ISO2": "TG",
+    "LANG": "T",
+    "NAME": "Togo"
+  },
+  {
+    "COUNTRY_ISO2": "TH",
+    "LANG": "D",
+    "NAME": "Thailand"
+  },
+  {
+    "COUNTRY_ISO2": "TH",
+    "LANG": "DA",
+    "NAME": "Thailand"
+  },
+  {
+    "COUNTRY_ISO2": "TH",
+    "LANG": "E",
+    "NAME": "Tailanda"
+  },
+  {
+    "COUNTRY_ISO2": "TH",
+    "LANG": "F",
+    "NAME": "Tha�lande"
+  },
+  {
+    "COUNTRY_ISO2": "TH",
+    "LANG": "GB",
+    "NAME": "Thailand"
+  },
+  {
+    "COUNTRY_ISO2": "TH",
+    "LANG": "I",
+    "NAME": "Thailandia"
+  },
+  {
+    "COUNTRY_ISO2": "TH",
+    "LANG": "NL",
+    "NAME": "Thailand"
+  },
+  {
+    "COUNTRY_ISO2": "TH",
+    "LANG": "PL",
+    "NAME": "Tajlandia"
+  },
+  {
+    "COUNTRY_ISO2": "TH",
+    "LANG": "PT",
+    "NAME": "Tail�ndia"
+  },
+  {
+    "COUNTRY_ISO2": "TH",
+    "LANG": "T",
+    "NAME": "Tayland"
+  },
+  {
+    "COUNTRY_ISO2": "TJ",
+    "LANG": "D",
+    "NAME": "Tadschikistan"
+  },
+  {
+    "COUNTRY_ISO2": "TJ",
+    "LANG": "DA",
+    "NAME": "Tadsjikistan"
+  },
+  {
+    "COUNTRY_ISO2": "TJ",
+    "LANG": "E",
+    "NAME": "Tayikist�n"
+  },
+  {
+    "COUNTRY_ISO2": "TJ",
+    "LANG": "F",
+    "NAME": "Tadjikistan"
+  },
+  {
+    "COUNTRY_ISO2": "TJ",
+    "LANG": "GB",
+    "NAME": "Tajikistan"
+  },
+  {
+    "COUNTRY_ISO2": "TJ",
+    "LANG": "I",
+    "NAME": "Tagikistan"
+  },
+  {
+    "COUNTRY_ISO2": "TJ",
+    "LANG": "NL",
+    "NAME": "Tadzjikistan"
+  },
+  {
+    "COUNTRY_ISO2": "TJ",
+    "LANG": "PL",
+    "NAME": "Tadzykistan"
+  },
+  {
+    "COUNTRY_ISO2": "TJ",
+    "LANG": "PT",
+    "NAME": "Tajiquist�o"
+  },
+  {
+    "COUNTRY_ISO2": "TJ",
+    "LANG": "T",
+    "NAME": "Tacikistan"
+  },
+  {
+    "COUNTRY_ISO2": "TM",
+    "LANG": "D",
+    "NAME": "Turkmenistan"
+  },
+  {
+    "COUNTRY_ISO2": "TM",
+    "LANG": "DA",
+    "NAME": "Turkmenistan"
+  },
+  {
+    "COUNTRY_ISO2": "TM",
+    "LANG": "E",
+    "NAME": "Turkmenistan"
+  },
+  {
+    "COUNTRY_ISO2": "TM",
+    "LANG": "F",
+    "NAME": "Turkm�nistan"
+  },
+  {
+    "COUNTRY_ISO2": "TM",
+    "LANG": "GB",
+    "NAME": "Turkmenistan"
+  },
+  {
+    "COUNTRY_ISO2": "TM",
+    "LANG": "I",
+    "NAME": "Turkmenistan"
+  },
+  {
+    "COUNTRY_ISO2": "TM",
+    "LANG": "NL",
+    "NAME": "Turkmenistan"
+  },
+  {
+    "COUNTRY_ISO2": "TM",
+    "LANG": "PL",
+    "NAME": "Turkmenistan"
+  },
+  {
+    "COUNTRY_ISO2": "TM",
+    "LANG": "PT",
+    "NAME": "Turquemenist�o"
+  },
+  {
+    "COUNTRY_ISO2": "TM",
+    "LANG": "T",
+    "NAME": "T�rkmenistan"
+  },
+  {
+    "COUNTRY_ISO2": "TN",
+    "LANG": "D",
+    "NAME": "Tunesien"
+  },
+  {
+    "COUNTRY_ISO2": "TN",
+    "LANG": "DA",
+    "NAME": "Tunesien"
+  },
+  {
+    "COUNTRY_ISO2": "TN",
+    "LANG": "E",
+    "NAME": "T�nez"
+  },
+  {
+    "COUNTRY_ISO2": "TN",
+    "LANG": "F",
+    "NAME": "Tunisie"
+  },
+  {
+    "COUNTRY_ISO2": "TN",
+    "LANG": "GB",
+    "NAME": "Tunisia"
+  },
+  {
+    "COUNTRY_ISO2": "TN",
+    "LANG": "I",
+    "NAME": "Tunisia"
+  },
+  {
+    "COUNTRY_ISO2": "TN",
+    "LANG": "NL",
+    "NAME": "Tunesi�"
+  },
+  {
+    "COUNTRY_ISO2": "TN",
+    "LANG": "PL",
+    "NAME": "Tunezja"
+  },
+  {
+    "COUNTRY_ISO2": "TN",
+    "LANG": "PT",
+    "NAME": "Tun�sia"
+  },
+  {
+    "COUNTRY_ISO2": "TN",
+    "LANG": "T",
+    "NAME": "Tunus"
+  },
+  {
+    "COUNTRY_ISO2": "TO",
+    "LANG": "D",
+    "NAME": "Tonga"
+  },
+  {
+    "COUNTRY_ISO2": "TO",
+    "LANG": "DA",
+    "NAME": "Tonga"
+  },
+  {
+    "COUNTRY_ISO2": "TO",
+    "LANG": "E",
+    "NAME": "Tonga"
+  },
+  {
+    "COUNTRY_ISO2": "TO",
+    "LANG": "F",
+    "NAME": "Tonga"
+  },
+  {
+    "COUNTRY_ISO2": "TO",
+    "LANG": "GB",
+    "NAME": "Tonga"
+  },
+  {
+    "COUNTRY_ISO2": "TO",
+    "LANG": "I",
+    "NAME": "Tonga"
+  },
+  {
+    "COUNTRY_ISO2": "TO",
+    "LANG": "NL",
+    "NAME": "Tonga"
+  },
+  {
+    "COUNTRY_ISO2": "TO",
+    "LANG": "PL",
+    "NAME": "Tonga"
+  },
+  {
+    "COUNTRY_ISO2": "TO",
+    "LANG": "PT",
+    "NAME": "Tonga"
+  },
+  {
+    "COUNTRY_ISO2": "TO",
+    "LANG": "T",
+    "NAME": "Tonga"
+  },
+  {
+    "COUNTRY_ISO2": "TR",
+    "LANG": "D",
+    "NAME": "T�rkei"
+  },
+  {
+    "COUNTRY_ISO2": "TR",
+    "LANG": "DA",
+    "NAME": "Tyrkiet"
+  },
+  {
+    "COUNTRY_ISO2": "TR",
+    "LANG": "E",
+    "NAME": "Turqu�a"
+  },
+  {
+    "COUNTRY_ISO2": "TR",
+    "LANG": "F",
+    "NAME": "Turquie"
+  },
+  {
+    "COUNTRY_ISO2": "TR",
+    "LANG": "GB",
+    "NAME": "Turkey"
+  },
+  {
+    "COUNTRY_ISO2": "TR",
+    "LANG": "I",
+    "NAME": "Turchia"
+  },
+  {
+    "COUNTRY_ISO2": "TR",
+    "LANG": "NL",
+    "NAME": "Turkije"
+  },
+  {
+    "COUNTRY_ISO2": "TR",
+    "LANG": "PL",
+    "NAME": "Turcja"
+  },
+  {
+    "COUNTRY_ISO2": "TR",
+    "LANG": "PT",
+    "NAME": "Turquia"
+  },
+  {
+    "COUNTRY_ISO2": "TR",
+    "LANG": "T",
+    "NAME": "T�rkiye"
+  },
+  {
+    "COUNTRY_ISO2": "TT",
+    "LANG": "D",
+    "NAME": "Trinidad"
+  },
+  {
+    "COUNTRY_ISO2": "TT",
+    "LANG": "DA",
+    "NAME": "Trinidad"
+  },
+  {
+    "COUNTRY_ISO2": "TT",
+    "LANG": "E",
+    "NAME": "Trinidad"
+  },
+  {
+    "COUNTRY_ISO2": "TT",
+    "LANG": "F",
+    "NAME": "Trinidad"
+  },
+  {
+    "COUNTRY_ISO2": "TT",
+    "LANG": "GB",
+    "NAME": "Trinidad"
+  },
+  {
+    "COUNTRY_ISO2": "TT",
+    "LANG": "I",
+    "NAME": "Trinidad"
+  },
+  {
+    "COUNTRY_ISO2": "TT",
+    "LANG": "NL",
+    "NAME": "Trinidad"
+  },
+  {
+    "COUNTRY_ISO2": "TT",
+    "LANG": "PL",
+    "NAME": "Trynidad"
+  },
+  {
+    "COUNTRY_ISO2": "TT",
+    "LANG": "PT",
+    "NAME": "Trindade"
+  },
+  {
+    "COUNTRY_ISO2": "TT",
+    "LANG": "T",
+    "NAME": "Trinidad"
+  },
+  {
+    "COUNTRY_ISO2": "TV",
+    "LANG": "D",
+    "NAME": "Tuvalu"
+  },
+  {
+    "COUNTRY_ISO2": "TV",
+    "LANG": "DA",
+    "NAME": "Tuvalu"
+  },
+  {
+    "COUNTRY_ISO2": "TV",
+    "LANG": "E",
+    "NAME": "Tuvalu"
+  },
+  {
+    "COUNTRY_ISO2": "TV",
+    "LANG": "F",
+    "NAME": "Tuvalu"
+  },
+  {
+    "COUNTRY_ISO2": "TV",
+    "LANG": "GB",
+    "NAME": "Tuvalu"
+  },
+  {
+    "COUNTRY_ISO2": "TV",
+    "LANG": "I",
+    "NAME": "Tuvalu"
+  },
+  {
+    "COUNTRY_ISO2": "TV",
+    "LANG": "NL",
+    "NAME": "Tuvalu"
+  },
+  {
+    "COUNTRY_ISO2": "TV",
+    "LANG": "PL",
+    "NAME": "Tuvalu"
+  },
+  {
+    "COUNTRY_ISO2": "TV",
+    "LANG": "PT",
+    "NAME": "Tuvalu"
+  },
+  {
+    "COUNTRY_ISO2": "TV",
+    "LANG": "T",
+    "NAME": "Tuvalu"
+  },
+  {
+    "COUNTRY_ISO2": "TW",
+    "LANG": "D",
+    "NAME": "Taiwan"
+  },
+  {
+    "COUNTRY_ISO2": "TW",
+    "LANG": "DA",
+    "NAME": "Taiwan"
+  },
+  {
+    "COUNTRY_ISO2": "TW",
+    "LANG": "E",
+    "NAME": "Taiw�n"
+  },
+  {
+    "COUNTRY_ISO2": "TW",
+    "LANG": "F",
+    "NAME": "Ta�wan"
+  },
+  {
+    "COUNTRY_ISO2": "TW",
+    "LANG": "GB",
+    "NAME": "Taiwan"
+  },
+  {
+    "COUNTRY_ISO2": "TW",
+    "LANG": "I",
+    "NAME": "Taiwan"
+  },
+  {
+    "COUNTRY_ISO2": "TW",
+    "LANG": "NL",
+    "NAME": "Taiwan"
+  },
+  {
+    "COUNTRY_ISO2": "TW",
+    "LANG": "PL",
+    "NAME": "Tajwan"
+  },
+  {
+    "COUNTRY_ISO2": "TW",
+    "LANG": "PT",
+    "NAME": "Formosa"
+  },
+  {
+    "COUNTRY_ISO2": "TW",
+    "LANG": "T",
+    "NAME": "Tayvan"
+  },
+  {
+    "COUNTRY_ISO2": "TZ",
+    "LANG": "D",
+    "NAME": "Tansania"
+  },
+  {
+    "COUNTRY_ISO2": "TZ",
+    "LANG": "DA",
+    "NAME": "Tanzania"
+  },
+  {
+    "COUNTRY_ISO2": "TZ",
+    "LANG": "E",
+    "NAME": "Tanzania"
+  },
+  {
+    "COUNTRY_ISO2": "TZ",
+    "LANG": "F",
+    "NAME": "Tanzanie"
+  },
+  {
+    "COUNTRY_ISO2": "TZ",
+    "LANG": "GB",
+    "NAME": "Tanzania"
+  },
+  {
+    "COUNTRY_ISO2": "TZ",
+    "LANG": "I",
+    "NAME": "Tanzania"
+  },
+  {
+    "COUNTRY_ISO2": "TZ",
+    "LANG": "NL",
+    "NAME": "Tanzania"
+  },
+  {
+    "COUNTRY_ISO2": "TZ",
+    "LANG": "PL",
+    "NAME": "Tanzania"
+  },
+  {
+    "COUNTRY_ISO2": "TZ",
+    "LANG": "PT",
+    "NAME": "Tanz�nia"
+  },
+  {
+    "COUNTRY_ISO2": "TZ",
+    "LANG": "T",
+    "NAME": "Tansanya"
+  },
+  {
+    "COUNTRY_ISO2": "UA",
+    "LANG": "D",
+    "NAME": "Ukraine"
+  },
+  {
+    "COUNTRY_ISO2": "UA",
+    "LANG": "DA",
+    "NAME": "Ukraine"
+  },
+  {
+    "COUNTRY_ISO2": "UA",
+    "LANG": "E",
+    "NAME": "Ukraine"
+  },
+  {
+    "COUNTRY_ISO2": "UA",
+    "LANG": "F",
+    "NAME": "Ukraine"
+  },
+  {
+    "COUNTRY_ISO2": "UA",
+    "LANG": "GB",
+    "NAME": "Ukraine"
+  },
+  {
+    "COUNTRY_ISO2": "UA",
+    "LANG": "I",
+    "NAME": "Ucraina"
+  },
+  {
+    "COUNTRY_ISO2": "UA",
+    "LANG": "NL",
+    "NAME": "Oekra�ne"
+  },
+  {
+    "COUNTRY_ISO2": "UA",
+    "LANG": "PL",
+    "NAME": "Ukraina"
+  },
+  {
+    "COUNTRY_ISO2": "UA",
+    "LANG": "PT",
+    "NAME": "Ucr�nia"
+  },
+  {
+    "COUNTRY_ISO2": "UA",
+    "LANG": "T",
+    "NAME": "Ukrayna"
+  },
+  {
+    "COUNTRY_ISO2": "UG",
+    "LANG": "D",
+    "NAME": "Uganda"
+  },
+  {
+    "COUNTRY_ISO2": "UG",
+    "LANG": "DA",
+    "NAME": "Uganda"
+  },
+  {
+    "COUNTRY_ISO2": "UG",
+    "LANG": "E",
+    "NAME": "Uganda"
+  },
+  {
+    "COUNTRY_ISO2": "UG",
+    "LANG": "F",
+    "NAME": "Ouganda"
+  },
+  {
+    "COUNTRY_ISO2": "UG",
+    "LANG": "GB",
+    "NAME": "Uganda"
+  },
+  {
+    "COUNTRY_ISO2": "UG",
+    "LANG": "I",
+    "NAME": "Uganda"
+  },
+  {
+    "COUNTRY_ISO2": "UG",
+    "LANG": "NL",
+    "NAME": "Oeganda"
+  },
+  {
+    "COUNTRY_ISO2": "UG",
+    "LANG": "PL",
+    "NAME": "Uganda"
+  },
+  {
+    "COUNTRY_ISO2": "UG",
+    "LANG": "PT",
+    "NAME": "Uganda"
+  },
+  {
+    "COUNTRY_ISO2": "UG",
+    "LANG": "T",
+    "NAME": "Uganda"
+  },
+  {
+    "COUNTRY_ISO2": "US",
+    "LANG": "D",
+    "NAME": "USA"
+  },
+  {
+    "COUNTRY_ISO2": "US",
+    "LANG": "DA",
+    "NAME": "USA"
+  },
+  {
+    "COUNTRY_ISO2": "US",
+    "LANG": "E",
+    "NAME": "E.E.U.U."
+  },
+  {
+    "COUNTRY_ISO2": "US",
+    "LANG": "F",
+    "NAME": "USA"
+  },
+  {
+    "COUNTRY_ISO2": "US",
+    "LANG": "GB",
+    "NAME": "USA"
+  },
+  {
+    "COUNTRY_ISO2": "US",
+    "LANG": "I",
+    "NAME": "Stati Uniti d'America"
+  },
+  {
+    "COUNTRY_ISO2": "US",
+    "LANG": "NL",
+    "NAME": "Verenigde Staten"
+  },
+  {
+    "COUNTRY_ISO2": "US",
+    "LANG": "PL",
+    "NAME": "USA"
+  },
+  {
+    "COUNTRY_ISO2": "US",
+    "LANG": "PT",
+    "NAME": "EUA"
+  },
+  {
+    "COUNTRY_ISO2": "US",
+    "LANG": "T",
+    "NAME": "ABD"
+  },
+  {
+    "COUNTRY_ISO2": "UY",
+    "LANG": "D",
+    "NAME": "Uruguay"
+  },
+  {
+    "COUNTRY_ISO2": "UY",
+    "LANG": "DA",
+    "NAME": "Uruguay"
+  },
+  {
+    "COUNTRY_ISO2": "UY",
+    "LANG": "E",
+    "NAME": "Uruguay"
+  },
+  {
+    "COUNTRY_ISO2": "UY",
+    "LANG": "F",
+    "NAME": "Uruguay"
+  },
+  {
+    "COUNTRY_ISO2": "UY",
+    "LANG": "GB",
+    "NAME": "Uruguay"
+  },
+  {
+    "COUNTRY_ISO2": "UY",
+    "LANG": "I",
+    "NAME": "Uruguay"
+  },
+  {
+    "COUNTRY_ISO2": "UY",
+    "LANG": "NL",
+    "NAME": "Uruguay"
+  },
+  {
+    "COUNTRY_ISO2": "UY",
+    "LANG": "PL",
+    "NAME": "Urugwaj"
+  },
+  {
+    "COUNTRY_ISO2": "UY",
+    "LANG": "PT",
+    "NAME": "Uruguai"
+  },
+  {
+    "COUNTRY_ISO2": "UY",
+    "LANG": "T",
+    "NAME": "Uruguay"
+  },
+  {
+    "COUNTRY_ISO2": "UZ",
+    "LANG": "D",
+    "NAME": "Usbekistan"
+  },
+  {
+    "COUNTRY_ISO2": "UZ",
+    "LANG": "DA",
+    "NAME": "Usbekistan"
+  },
+  {
+    "COUNTRY_ISO2": "UZ",
+    "LANG": "E",
+    "NAME": "Uzbekist�n"
+  },
+  {
+    "COUNTRY_ISO2": "UZ",
+    "LANG": "F",
+    "NAME": "Ouzb�kistan"
+  },
+  {
+    "COUNTRY_ISO2": "UZ",
+    "LANG": "GB",
+    "NAME": "Usbekistan"
+  },
+  {
+    "COUNTRY_ISO2": "UZ",
+    "LANG": "I",
+    "NAME": "Uzbekistan"
+  },
+  {
+    "COUNTRY_ISO2": "UZ",
+    "LANG": "NL",
+    "NAME": "Oezbekistan"
+  },
+  {
+    "COUNTRY_ISO2": "UZ",
+    "LANG": "PL",
+    "NAME": "Uzbekistan"
+  },
+  {
+    "COUNTRY_ISO2": "UZ",
+    "LANG": "PT",
+    "NAME": "Uzbequist�o"
+  },
+  {
+    "COUNTRY_ISO2": "UZ",
+    "LANG": "T",
+    "NAME": "Uzbekistan"
+  },
+  {
+    "COUNTRY_ISO2": "VA",
+    "LANG": "D",
+    "NAME": "Vatikanstadt"
+  },
+  {
+    "COUNTRY_ISO2": "VA",
+    "LANG": "DA",
+    "NAME": "Vatikanstaten"
+  },
+  {
+    "COUNTRY_ISO2": "VA",
+    "LANG": "E",
+    "NAME": "El Vaticano"
+  },
+  {
+    "COUNTRY_ISO2": "VA",
+    "LANG": "F",
+    "NAME": "Cit� du Vatican"
+  },
+  {
+    "COUNTRY_ISO2": "VA",
+    "LANG": "GB",
+    "NAME": "Vatican City"
+  },
+  {
+    "COUNTRY_ISO2": "VA",
+    "LANG": "I",
+    "NAME": "Citt� del Vaticano"
+  },
+  {
+    "COUNTRY_ISO2": "VA",
+    "LANG": "NL",
+    "NAME": "Vaticaanstad"
+  },
+  {
+    "COUNTRY_ISO2": "VA",
+    "LANG": "PL",
+    "NAME": "Watykan"
+  },
+  {
+    "COUNTRY_ISO2": "VA",
+    "LANG": "PT",
+    "NAME": "Vaticano"
+  },
+  {
+    "COUNTRY_ISO2": "VA",
+    "LANG": "T",
+    "NAME": "Vatikan"
+  },
+  {
+    "COUNTRY_ISO2": "VC",
+    "LANG": "D",
+    "NAME": "St. Vicent"
+  },
+  {
+    "COUNTRY_ISO2": "VC",
+    "LANG": "DA",
+    "NAME": "St. Vicent"
+  },
+  {
+    "COUNTRY_ISO2": "VC",
+    "LANG": "E",
+    "NAME": "San Vicente"
+  },
+  {
+    "COUNTRY_ISO2": "VC",
+    "LANG": "F",
+    "NAME": "Saint-Vincent"
+  },
+  {
+    "COUNTRY_ISO2": "VC",
+    "LANG": "GB",
+    "NAME": "Saint Vincent and the Grenadines"
+  },
+  {
+    "COUNTRY_ISO2": "VC",
+    "LANG": "I",
+    "NAME": "San Vincente"
+  },
+  {
+    "COUNTRY_ISO2": "VC",
+    "LANG": "NL",
+    "NAME": "Saint Vincent"
+  },
+  {
+    "COUNTRY_ISO2": "VC",
+    "LANG": "PL",
+    "NAME": "Saint Vincent"
+  },
+  {
+    "COUNTRY_ISO2": "VC",
+    "LANG": "PT",
+    "NAME": "S�o Vicente"
+  },
+  {
+    "COUNTRY_ISO2": "VC",
+    "LANG": "T",
+    "NAME": "St. Vicent"
+  },
+  {
+    "COUNTRY_ISO2": "VE",
+    "LANG": "D",
+    "NAME": "Venezuela"
+  },
+  {
+    "COUNTRY_ISO2": "VE",
+    "LANG": "DA",
+    "NAME": "Venezuela"
+  },
+  {
+    "COUNTRY_ISO2": "VE",
+    "LANG": "E",
+    "NAME": "Venezuela"
+  },
+  {
+    "COUNTRY_ISO2": "VE",
+    "LANG": "F",
+    "NAME": "Venezuela"
+  },
+  {
+    "COUNTRY_ISO2": "VE",
+    "LANG": "GB",
+    "NAME": "Venezuela"
+  },
+  {
+    "COUNTRY_ISO2": "VE",
+    "LANG": "I",
+    "NAME": "Venezuela"
+  },
+  {
+    "COUNTRY_ISO2": "VE",
+    "LANG": "NL",
+    "NAME": "Venezuela"
+  },
+  {
+    "COUNTRY_ISO2": "VE",
+    "LANG": "PL",
+    "NAME": "Wenezuela"
+  },
+  {
+    "COUNTRY_ISO2": "VE",
+    "LANG": "PT",
+    "NAME": "Venezuela"
+  },
+  {
+    "COUNTRY_ISO2": "VE",
+    "LANG": "T",
+    "NAME": "Venezuela"
+  },
+  {
+    "COUNTRY_ISO2": "VG",
+    "LANG": "D",
+    "NAME": "Britische Jungferninseln"
+  },
+  {
+    "COUNTRY_ISO2": "VG",
+    "LANG": "DA",
+    "NAME": "Britiske Jomfru�er"
+  },
+  {
+    "COUNTRY_ISO2": "VG",
+    "LANG": "E",
+    "NAME": "Islas Virgenes Britanicas"
+  },
+  {
+    "COUNTRY_ISO2": "VG",
+    "LANG": "F",
+    "NAME": "�les Vierges britanniques"
+  },
+  {
+    "COUNTRY_ISO2": "VG",
+    "LANG": "GB",
+    "NAME": "British Virgin Islands"
+  },
+  {
+    "COUNTRY_ISO2": "VG",
+    "LANG": "I",
+    "NAME": "Isole Vergini Britanniche"
+  },
+  {
+    "COUNTRY_ISO2": "VG",
+    "LANG": "NL",
+    "NAME": "Britse Maagdeneilanden"
+  },
+  {
+    "COUNTRY_ISO2": "VG",
+    "LANG": "PL",
+    "NAME": "Brytyjskie Wyspy Dziewicze"
+  },
+  {
+    "COUNTRY_ISO2": "VG",
+    "LANG": "PT",
+    "NAME": "Ilhas Virgens Brit�nicas"
+  },
+  {
+    "COUNTRY_ISO2": "VG",
+    "LANG": "T",
+    "NAME": "Ingiliz Virgin Adalari"
+  },
+  {
+    "COUNTRY_ISO2": "VI",
+    "LANG": "D",
+    "NAME": "Amer. Jungferninseln"
+  },
+  {
+    "COUNTRY_ISO2": "VI",
+    "LANG": "DA",
+    "NAME": "Amerikanske jomfru�er"
+  },
+  {
+    "COUNTRY_ISO2": "VI",
+    "LANG": "E",
+    "NAME": "Islas Virgenes de los Estados Unidos"
+  },
+  {
+    "COUNTRY_ISO2": "VI",
+    "LANG": "F",
+    "NAME": "�les Vierges am�ricaines"
+  },
+  {
+    "COUNTRY_ISO2": "VI",
+    "LANG": "GB",
+    "NAME": "US Virgin Islands"
+  },
+  {
+    "COUNTRY_ISO2": "VI",
+    "LANG": "I",
+    "NAME": "Isole Vergini Americane"
+  },
+  {
+    "COUNTRY_ISO2": "VI",
+    "LANG": "NL",
+    "NAME": "Amer. Maagdeneilanden"
+  },
+  {
+    "COUNTRY_ISO2": "VI",
+    "LANG": "PL",
+    "NAME": "Amerykanskie Wyspy Dziewicze"
+  },
+  {
+    "COUNTRY_ISO2": "VI",
+    "LANG": "PT",
+    "NAME": "Ilhas Virgens Americanas"
+  },
+  {
+    "COUNTRY_ISO2": "VI",
+    "LANG": "T",
+    "NAME": "ABD Virgin Adalari"
+  },
+  {
+    "COUNTRY_ISO2": "VN",
+    "LANG": "D",
+    "NAME": "Vietnam"
+  },
+  {
+    "COUNTRY_ISO2": "VN",
+    "LANG": "DA",
+    "NAME": "Vietnam"
+  },
+  {
+    "COUNTRY_ISO2": "VN",
+    "LANG": "E",
+    "NAME": "Vietnam"
+  },
+  {
+    "COUNTRY_ISO2": "VN",
+    "LANG": "F",
+    "NAME": "Vietnam"
+  },
+  {
+    "COUNTRY_ISO2": "VN",
+    "LANG": "GB",
+    "NAME": "Vietnam"
+  },
+  {
+    "COUNTRY_ISO2": "VN",
+    "LANG": "I",
+    "NAME": "Vietnam"
+  },
+  {
+    "COUNTRY_ISO2": "VN",
+    "LANG": "NL",
+    "NAME": "Vietnam"
+  },
+  {
+    "COUNTRY_ISO2": "VN",
+    "LANG": "PL",
+    "NAME": "Wietnam"
+  },
+  {
+    "COUNTRY_ISO2": "VN",
+    "LANG": "PT",
+    "NAME": "Vietname"
+  },
+  {
+    "COUNTRY_ISO2": "VN",
+    "LANG": "T",
+    "NAME": "Vietnam"
+  },
+  {
+    "COUNTRY_ISO2": "VU",
+    "LANG": "D",
+    "NAME": "Vanuatu"
+  },
+  {
+    "COUNTRY_ISO2": "VU",
+    "LANG": "DA",
+    "NAME": "Vanuatu"
+  },
+  {
+    "COUNTRY_ISO2": "VU",
+    "LANG": "E",
+    "NAME": "Vanuatu"
+  },
+  {
+    "COUNTRY_ISO2": "VU",
+    "LANG": "F",
+    "NAME": "Vanuatu"
+  },
+  {
+    "COUNTRY_ISO2": "VU",
+    "LANG": "GB",
+    "NAME": "Vanuatu"
+  },
+  {
+    "COUNTRY_ISO2": "VU",
+    "LANG": "I",
+    "NAME": "Vanuatu"
+  },
+  {
+    "COUNTRY_ISO2": "VU",
+    "LANG": "NL",
+    "NAME": "Vanuatu"
+  },
+  {
+    "COUNTRY_ISO2": "VU",
+    "LANG": "PL",
+    "NAME": "Vanuatu"
+  },
+  {
+    "COUNTRY_ISO2": "VU",
+    "LANG": "PT",
+    "NAME": "Vanuatu"
+  },
+  {
+    "COUNTRY_ISO2": "VU",
+    "LANG": "T",
+    "NAME": "Vanuatu"
+  },
+  {
+    "COUNTRY_ISO2": "WF",
+    "LANG": "D",
+    "NAME": "Wallis"
+  },
+  {
+    "COUNTRY_ISO2": "WF",
+    "LANG": "DA",
+    "NAME": "Wallis"
+  },
+  {
+    "COUNTRY_ISO2": "WF",
+    "LANG": "E",
+    "NAME": "Wallis"
+  },
+  {
+    "COUNTRY_ISO2": "WF",
+    "LANG": "F",
+    "NAME": "Wallis"
+  },
+  {
+    "COUNTRY_ISO2": "WF",
+    "LANG": "GB",
+    "NAME": "Wallis Island"
+  },
+  {
+    "COUNTRY_ISO2": "WF",
+    "LANG": "I",
+    "NAME": "Isole di Wallis"
+  },
+  {
+    "COUNTRY_ISO2": "WF",
+    "LANG": "NL",
+    "NAME": "Wallis"
+  },
+  {
+    "COUNTRY_ISO2": "WF",
+    "LANG": "PL",
+    "NAME": "Wallis"
+  },
+  {
+    "COUNTRY_ISO2": "WF",
+    "LANG": "PT",
+    "NAME": "Valais"
+  },
+  {
+    "COUNTRY_ISO2": "WF",
+    "LANG": "T",
+    "NAME": "Valais"
+  },
+  {
+    "COUNTRY_ISO2": "WS",
+    "LANG": "D",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "WS",
+    "LANG": "DA",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "WS",
+    "LANG": "E",
+    "NAME": "Samoa Oeste"
+  },
+  {
+    "COUNTRY_ISO2": "WS",
+    "LANG": "F",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "WS",
+    "LANG": "GB",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "WS",
+    "LANG": "I",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "WS",
+    "LANG": "NL",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "WS",
+    "LANG": "PL",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "WS",
+    "LANG": "PT",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "WS",
+    "LANG": "T",
+    "NAME": "Samoa"
+  },
+  {
+    "COUNTRY_ISO2": "XM",
+    "LANG": "D",
+    "NAME": "Mayotte"
+  },
+  {
+    "COUNTRY_ISO2": "XM",
+    "LANG": "DA",
+    "NAME": "Mayotte"
+  },
+  {
+    "COUNTRY_ISO2": "XM",
+    "LANG": "E",
+    "NAME": "Mayotte"
+  },
+  {
+    "COUNTRY_ISO2": "XM",
+    "LANG": "F",
+    "NAME": "Mayotte"
+  },
+  {
+    "COUNTRY_ISO2": "XM",
+    "LANG": "GB",
+    "NAME": "Mayotte"
+  },
+  {
+    "COUNTRY_ISO2": "XM",
+    "LANG": "I",
+    "NAME": "Mayotte"
+  },
+  {
+    "COUNTRY_ISO2": "XM",
+    "LANG": "NL",
+    "NAME": "Mayotte"
+  },
+  {
+    "COUNTRY_ISO2": "XM",
+    "LANG": "PL",
+    "NAME": "Majotta"
+  },
+  {
+    "COUNTRY_ISO2": "XM",
+    "LANG": "PT",
+    "NAME": "Mayotte"
+  },
+  {
+    "COUNTRY_ISO2": "XM",
+    "LANG": "T",
+    "NAME": "Mayotte"
+  },
+  {
+    "COUNTRY_ISO2": "YE",
+    "LANG": "D",
+    "NAME": "Jemen"
+  },
+  {
+    "COUNTRY_ISO2": "YE",
+    "LANG": "DA",
+    "NAME": "Yemen"
+  },
+  {
+    "COUNTRY_ISO2": "YE",
+    "LANG": "E",
+    "NAME": "Yemen"
+  },
+  {
+    "COUNTRY_ISO2": "YE",
+    "LANG": "F",
+    "NAME": "Y�men"
+  },
+  {
+    "COUNTRY_ISO2": "YE",
+    "LANG": "GB",
+    "NAME": "Yemen"
+  },
+  {
+    "COUNTRY_ISO2": "YE",
+    "LANG": "I",
+    "NAME": "Yemen"
+  },
+  {
+    "COUNTRY_ISO2": "YE",
+    "LANG": "NL",
+    "NAME": "Jemen"
+  },
+  {
+    "COUNTRY_ISO2": "YE",
+    "LANG": "PL",
+    "NAME": "Jemen"
+  },
+  {
+    "COUNTRY_ISO2": "YE",
+    "LANG": "PT",
+    "NAME": "I�men"
+  },
+  {
+    "COUNTRY_ISO2": "YE",
+    "LANG": "T",
+    "NAME": "Yemen"
+  },
+  {
+    "COUNTRY_ISO2": "YU",
+    "LANG": "D",
+    "NAME": "Jugoslawien"
+  },
+  {
+    "COUNTRY_ISO2": "YU",
+    "LANG": "DA",
+    "NAME": "Jugoslavien"
+  },
+  {
+    "COUNTRY_ISO2": "YU",
+    "LANG": "E",
+    "NAME": "Yugoslavia"
+  },
+  {
+    "COUNTRY_ISO2": "YU",
+    "LANG": "F",
+    "NAME": "Yougoslavie"
+  },
+  {
+    "COUNTRY_ISO2": "YU",
+    "LANG": "GB",
+    "NAME": "Yugoslavia"
+  },
+  {
+    "COUNTRY_ISO2": "YU",
+    "LANG": "I",
+    "NAME": "Jugoslavia"
+  },
+  {
+    "COUNTRY_ISO2": "YU",
+    "LANG": "NL",
+    "NAME": "Joegoslavi�"
+  },
+  {
+    "COUNTRY_ISO2": "YU",
+    "LANG": "PL",
+    "NAME": "Jugoslawia"
+  },
+  {
+    "COUNTRY_ISO2": "YU",
+    "LANG": "PT",
+    "NAME": "Jugosl�via"
+  },
+  {
+    "COUNTRY_ISO2": "YU",
+    "LANG": "T",
+    "NAME": "Yugoslavya"
+  },
+  {
+    "COUNTRY_ISO2": "ZA",
+    "LANG": "D",
+    "NAME": "S�dafrika"
+  },
+  {
+    "COUNTRY_ISO2": "ZA",
+    "LANG": "DA",
+    "NAME": "Sydafrika"
+  },
+  {
+    "COUNTRY_ISO2": "ZA",
+    "LANG": "E",
+    "NAME": "Sud�frica"
+  },
+  {
+    "COUNTRY_ISO2": "ZA",
+    "LANG": "F",
+    "NAME": "Afrique du Sud"
+  },
+  {
+    "COUNTRY_ISO2": "ZA",
+    "LANG": "GB",
+    "NAME": "South Africa"
+  },
+  {
+    "COUNTRY_ISO2": "ZA",
+    "LANG": "I",
+    "NAME": "Sudafrica"
+  },
+  {
+    "COUNTRY_ISO2": "ZA",
+    "LANG": "NL",
+    "NAME": "Zuid-Afrika"
+  },
+  {
+    "COUNTRY_ISO2": "ZA",
+    "LANG": "PL",
+    "NAME": "Republika Poludniowej Afryki"
+  },
+  {
+    "COUNTRY_ISO2": "ZA",
+    "LANG": "PT",
+    "NAME": "�frica do Sul"
+  },
+  {
+    "COUNTRY_ISO2": "ZA",
+    "LANG": "T",
+    "NAME": "G�ney Afrika"
+  },
+  {
+    "COUNTRY_ISO2": "ZM",
+    "LANG": "D",
+    "NAME": "Sambia"
+  },
+  {
+    "COUNTRY_ISO2": "ZM",
+    "LANG": "DA",
+    "NAME": "Zambia"
+  },
+  {
+    "COUNTRY_ISO2": "ZM",
+    "LANG": "E",
+    "NAME": "Zambia"
+  },
+  {
+    "COUNTRY_ISO2": "ZM",
+    "LANG": "F",
+    "NAME": "Zambie"
+  },
+  {
+    "COUNTRY_ISO2": "ZM",
+    "LANG": "GB",
+    "NAME": "Zambia"
+  },
+  {
+    "COUNTRY_ISO2": "ZM",
+    "LANG": "I",
+    "NAME": "Zambia"
+  },
+  {
+    "COUNTRY_ISO2": "ZM",
+    "LANG": "NL",
+    "NAME": "Zambia"
+  },
+  {
+    "COUNTRY_ISO2": "ZM",
+    "LANG": "PL",
+    "NAME": "Zambia"
+  },
+  {
+    "COUNTRY_ISO2": "ZM",
+    "LANG": "PT",
+    "NAME": "Z�mbia"
+  },
+  {
+    "COUNTRY_ISO2": "ZM",
+    "LANG": "T",
+    "NAME": "Zambiya"
+  },
+  {
+    "COUNTRY_ISO2": "ZR",
+    "LANG": "D",
+    "NAME": "Zaire"
+  },
+  {
+    "COUNTRY_ISO2": "ZR",
+    "LANG": "DA",
+    "NAME": "Zaire"
+  },
+  {
+    "COUNTRY_ISO2": "ZR",
+    "LANG": "E",
+    "NAME": "Zaire"
+  },
+  {
+    "COUNTRY_ISO2": "ZR",
+    "LANG": "F",
+    "NAME": "Za�re"
+  },
+  {
+    "COUNTRY_ISO2": "ZR",
+    "LANG": "GB",
+    "NAME": "Democratic Republic of the Congo"
+  },
+  {
+    "COUNTRY_ISO2": "ZR",
+    "LANG": "I",
+    "NAME": "Zaire"
+  },
+  {
+    "COUNTRY_ISO2": "ZR",
+    "LANG": "NL",
+    "NAME": "Za�re"
+  },
+  {
+    "COUNTRY_ISO2": "ZR",
+    "LANG": "PL",
+    "NAME": "Zair"
+  },
+  {
+    "COUNTRY_ISO2": "ZR",
+    "LANG": "PT",
+    "NAME": "Zaire"
+  },
+  {
+    "COUNTRY_ISO2": "ZR",
+    "LANG": "T",
+    "NAME": "Zaire"
+  },
+  {
+    "COUNTRY_ISO2": "ZW",
+    "LANG": "D",
+    "NAME": "Simbabwe"
+  },
+  {
+    "COUNTRY_ISO2": "ZW",
+    "LANG": "DA",
+    "NAME": "Zimbabwe"
+  },
+  {
+    "COUNTRY_ISO2": "ZW",
+    "LANG": "E",
+    "NAME": "Zimbabue"
+  },
+  {
+    "COUNTRY_ISO2": "ZW",
+    "LANG": "F",
+    "NAME": "Zimbabwe"
+  },
+  {
+    "COUNTRY_ISO2": "ZW",
+    "LANG": "GB",
+    "NAME": "Zimbabwe"
+  },
+  {
+    "COUNTRY_ISO2": "ZW",
+    "LANG": "I",
+    "NAME": "Zimbabwe"
+  },
+  {
+    "COUNTRY_ISO2": "ZW",
+    "LANG": "NL",
+    "NAME": "Zimbabwe"
+  },
+  {
+    "COUNTRY_ISO2": "ZW",
+    "LANG": "PL",
+    "NAME": "Zimbabwe"
+  },
+  {
+    "COUNTRY_ISO2": "ZW",
+    "LANG": "PT",
+    "NAME": "Zimbabu�"
+  },
+  {
+    "COUNTRY_ISO2": "ZW",
+    "LANG": "T",
+    "NAME": "Zimbabve"
+  }
+]
